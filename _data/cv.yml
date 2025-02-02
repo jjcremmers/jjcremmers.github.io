@@ -2,15 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Joris Remmers
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
     - name: Languages
-      value: English, Dutch
+      value: English, German
+
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: Delft University of Technology, Delft, The Netherlands
-      year: 2006
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
         - Description 1.
         - Description 2.
@@ -18,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: MSc
-      institution: Aerospace Engineering, Delft University of Technology, Delft, The Netherlands
-      year: 1999
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
         - Description 1.
         - Description 2.
@@ -28,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Associate Professor Composite Materials
-      institution: Eindhoven University of Technology, Eindhoven, The Netherlands
-      year: 2015 - 
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
         - Description 1.
         - Description 2.
@@ -38,52 +41,43 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-            
-    - title: Architect
-      institution: ASML, Veldhoven, The Netherlands
-      year: 2022-2023
-                  
-    - title: Assistant Professor
-      institution: Eindhoven University of Technology, Eindhoven, The Netherlands
-      year: 2007-2015
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
         - Description 1.
         - Description 2.
 
-    - title: Visiting Scholar
-      institution: Leiden University, Leiden, The Netherlands
-      year: 2007-2008
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
 
-    - title: Assistant Professor
-      institution: Delft University of Technology, Delft, The Netherlands
-      year: 2006-2007
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
 
-    - title: PhD Candidate / Researcher
-      institution: Delft University of Technology, Delft, The Netherlands
-      year: 1999-2006
-      
-    - title: Visiting Researcher
-      institution: NASA Langley Research Center, Hampton VA, USA
-      year: 2004
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
 
-    - title: Visiting Scholar
-      institution: Brown University, Providence RI, USA
-      year: 2002-2003
-      
-    - title: Teaching Assistant
-      institution: Delft University of Technology, Delft, The Netherlands
-      year: 1997-1998
-            
-    - title: Intern
-      institution: NLR - Netherlands Aerospace Centre, Marknesse, The Netherlands
-      year: 1995
-            
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/jjcremmers/pyfem">PyFEM</a>
-      year: 2012-now
-      description: A modular finite element code, written in Python.
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
