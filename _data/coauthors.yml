@@ -40,6 +40,10 @@
 "fagerstrom":
   - firstname: ["Martin", "M."]
     url: https://www.chalmers.se/en/persons/fagmar/
+    
+"geers":
+  - firstname: ["Marc", "M.", "M.G.D."]
+    url: https://research.tue.nl/nl/persons/marc-geers
 
 "mula":
   - firstname: ["Olga", "O."]
