@@ -36,6 +36,10 @@
 "aarab":
   - firstname: ["Marwan", "M."]
     url: https://research.tue.nl/nl/persons/marwan-aarab
+    
+"dorussen":
+  - firstname: ["Bram", "B.J.A."]
+    url: https://www.linkedin.com/in/bramdorussen/
 
 "fagerstrom":
   - firstname: ["Martin", "M."]
@@ -48,6 +52,10 @@
 "mula":
   - firstname: ["Olga", "O."]
     url: https://www.tue.nl/en/research/researchers/olga-mula-hernandez
+    
+"needleman":
+  - firstname: ["Alan", "A."]
+    url: https://engineering.tamu.edu/materials/profiles/aneedleman.html
 
 "schmeitz":
   - firstname: ["Ruben", "R."]
