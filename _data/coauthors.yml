@@ -32,37 +32,11 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
-
-"aarab":
-  - firstname: ["Marwan", "M."]
-    url : https://research.tue.nl/nl/persons/marwan-aarab
-        
-"fagerstr{\"o}m":
-  - firstname: ["Martin","M."]
-    url : https://www.chalmers.se/en/persons/fagmar/
-    
-"fagerstrom":
-  - firstname: ["Martin","M."]
-    url : https://www.chalmers.se/en/persons/fagmar/    
-    
-"mula":
-  - firstname: ["Olga",")."]
-    url : https://www.tue.nl/en/research/researchers/olga-mula-hernandez
-    
-"mula hernandez":
-  - firstname: ["Olga",")."]
-    url : https://www.tue.nl/en/research/researchers/olga-mula-hernandez
-        
-"schmeitz":
-  - firstname: ["Ruben", "R."]
-    url : https://www.tue.nl/en/research/researchers/ruben-schmeitz    
-    
-"sluis":
-  - firstname: ["Olaf", "O."]
-    url : https://www.tue.nl/en/research/researchers/olaf-van-der-sluis  
     
 "verhoosel":
   - firstname: ["Clemens","Clemens V.","C.V."]
-    url : https://www.tue.nl/en/research/researchers/clemens-verhoosel    
+    url : https://www.tue.nl/en/research/researchers/clemens-verhoosel
     
-
+"aarab":
+  - firstname: ["Marwan", "M."]
+    url : https://research.tue.nl/nl/persons/marwan-aarab
