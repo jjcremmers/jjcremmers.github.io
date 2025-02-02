@@ -30,7 +30,7 @@
   contents:
     - title: Associate Professor Composite Materials
       institution: Eindhoven University of Technology, Eindhoven, The Netherlands
-      year: 2015-
+      year: 2015 - 
       description:
         - Description 1.
         - Description 2.
@@ -38,15 +38,18 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
+            
     - title: Architect
       institution: ASML, Veldhoven, The Netherlands
       year: 2022-2023
+                  
     - title: Assistant Professor
       institution: Eindhoven University of Technology, Eindhoven, The Netherlands
       year: 2007-2015
       description:
         - Description 1.
         - Description 2.
+
     - title: Visiting Scholar
       institution: Leiden University, Leiden, The Netherlands
       year: 2007-2008
@@ -54,21 +57,27 @@
     - title: Assistant Professor
       institution: Delft University of Technology, Delft, The Netherlands
       year: 2006-2007
+
     - title: PhD Candidate / Researcher
       institution: Delft University of Technology, Delft, The Netherlands
       year: 1999-2006
+      
     - title: Visiting Researcher
       institution: NASA Langley Research Center, Hampton VA, USA
       year: 2004
+
     - title: Visiting Scholar
       institution: Brown University, Providence RI, USA
       year: 2002-2003
+      
     - title: Teaching Assistant
       institution: Delft University of Technology, Delft, The Netherlands
       year: 1997-1998
+            
     - title: Intern
       institution: NLR - Netherlands Aerospace Centre, Marknesse, The Netherlands
       year: 1995
+            
 - title: Open Source Projects
   type: time_table
   contents:
