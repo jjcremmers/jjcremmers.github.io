@@ -13,4 +13,6 @@ children:
   - title: divider
   - title: blog
     permalink: /blog/
+  - title: "Theses"
+    url: /thesis/
 ---
