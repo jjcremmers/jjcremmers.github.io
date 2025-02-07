@@ -86,6 +86,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/thesis/";
               },
+            },{id: "dropdown-my-theses",
+              title: "My Theses",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/mythesis/";
+              },
             },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
@@ -494,6 +501,26 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-composites-under-extreme-conditions",
+          title: 'Composites under extreme conditions',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/composite_harsh/";
+            },},{id: "projects-ctrl-p",
+          title: 'Ctrl-P',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ctrlp/";
+            },},{id: "projects-natural-fibre-composites",
+          title: 'Natural fibre composites',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/natural_composites/";
+            },},{id: "projects-semicon05",
+          title: 'Semicon05',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/semicon05/";
             },},{
         id: 'social-email',
         title: 'email',
