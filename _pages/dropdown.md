@@ -16,4 +16,6 @@ children:
   - title: divider    
   - title: "Theses"
     url: /thesis/
+  - title: "My Theses"
+    url: /mythesis/    
 ---

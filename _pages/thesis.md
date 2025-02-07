@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Theses & Dissertations"
+title: "Supervised Theses & Dissertations"
 permalink: /thesis/
 ---
 
