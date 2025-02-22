@@ -11,18 +11,26 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: remmers_photo.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    content: about_remmers.md
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>J.J.C.Remmers@tue.nl</p>
   - align: left
-    image: remmers_photo.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: aarab_photo.jpg
+    content: about_aarab.md
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>M.Aarab@tue.nl</p>
+  - align: right
+    image: schmeitz_photo.jpg
+    content: about_schmeitz.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>M.Aarab@tue.nl</p>      
+  - align: left
+    image: cordewener_photo.jpg
+    content: about_cordewener.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>B.H.H.A.Cordewener@tue.nl</p>        
 ---
