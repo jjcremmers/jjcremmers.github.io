@@ -60,19 +60,8 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-{% assign selected_author = "Lenders" %}
-
-<ul>
-  {% for paper in site.publications %}
-    {% if paper.author contains selected_author %}
-      <li>
-        <strong>{{ paper.title }}</strong><br>
-        <em>{{ paper.author }}</em> <br>
-        <a href="{{ paper.url }}">[PDF]</a> | <a href="{{ paper.doi }}">[DOI]</a>
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
+{% cite Lenders2024 %}
+{% cite LendersPolymer2023 %}
 
 
 The code is simple.
