@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: members of the research group
 nav: true
 nav_order: 7
 
@@ -33,4 +33,16 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>B.H.H.A.Cordewener@tue.nl</p>        
+  - align: right
+    image: cordewener_photo.jpg
+    content: about_sanchez.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>B.H.H.A.Cordewener@tue.nl</p> 
+  - align: left
+    image: cordewener_photo.jpg
+    content: about_hodzelmans.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>B.H.H.A.Cordewener@tue.nl</p>               
 ---
