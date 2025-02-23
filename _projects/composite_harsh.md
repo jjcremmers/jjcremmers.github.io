@@ -60,7 +60,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-{% cite lenders2025 %}
+{% cite Lenders2025 %}
 {% cite Lenders2024 %}
 {% cite LendersPolymer2023 %}
 
