@@ -511,13 +511,28 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ctrlp/";
+            },},{id: "projects-high-performance-computing-for-composites",
+          title: 'High Performance COmputing for COmposites',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hpc_composites/";
+            },},{id: "projects-maaximus",
+          title: 'Maaximus',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/maaximus/";
+            },},{id: "projects-multiscale-modulling-of-composites",
+          title: 'multiscale modulling of composites',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/multiscale_composites/";
             },},{id: "projects-natural-fibre-composites",
           title: 'Natural fibre composites',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/natural_composites/";
-            },},{id: "projects-semicon05",
-          title: 'Semicon05',
+            },},{id: "projects-accurate-vat-photopolymerisation",
+          title: 'Accurate VAT Photopolymerisation',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/semicon05/";
