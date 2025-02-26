@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Accurate VAT Photopolymerisation
+title: High Performance COmputing for COmposites
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: composites
 related_publications: true
 ---
 
