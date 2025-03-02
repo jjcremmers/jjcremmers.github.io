@@ -27,8 +27,8 @@
       "name": "Eindhoven University of Technology",
       "position": "Associate Professor",
       "url": "www.tue.nl",
-      "startDate": "2015",
-      "endDate": "",
+      "startDate": "2015-01-01",
+      "endDate": "2024-01-01",
       "summary": "Teaching rsearch",
       "highlights": ["Computational Mechanics"]
     }
@@ -36,8 +36,8 @@
       "name": "Eindhoven University of Technology",
       "position": "Assistant Professor",
       "url": "www.tue.nl",
-      "startDate": "2007",
-      "endDate": "2015",
+      "startDate": "2007-01-01",
+      "endDate": "2015-01-01",
       "summary": "Teaching rsearch",
       "highlights": ["Computational Mechanics"]
     }
@@ -45,8 +45,8 @@
       "name": "Delft University of Technology",
       "position": "Assistant Professor",
       "url": "www.tudelft.nl",
-      "startDate": "2006",
-      "endDate": "2007",
+      "startDate": "2006-01-01",
+      "endDate": "2007-01-01",
       "summary": "Teaching rsearch",
       "highlights": ["Computational Mechanics"]
     }
@@ -54,23 +54,11 @@
       "name": "Delft University of Technology",
       "position": "PhD Candidate / Researcher",
       "url": "www.tudelft.nl",
-      "startDate": "1999",
-      "endDate": "2006",
+      "startDate": "1999-01-01",
+      "endDate": "2006-01-01",
       "summary": "Teaching rsearch",
       "highlights": ["Computational Mechanics"]
     }    
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
   ],
   "education": [
     {
@@ -224,4 +212,15 @@
       "url": "https://example.com"
     }
   ]
+  "volunteer": [
+    {
+      "organization": "SV Brandevoort",
+      "location": "Helmond, Netherlands",
+      "position": "Football Coach",
+      "startDate": "2012",
+      "endDate": "...",
+      "summary": "Coaching several youth teams",
+      "highlights": ["....."]
+    }
+  ],  
 }
