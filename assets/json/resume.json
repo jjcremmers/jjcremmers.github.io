@@ -211,16 +211,16 @@
       "endDate": "2018-01-01",
       "url": "https://example.com"
     }
-  ]
+  ],
   "volunteer": [
     {
       "organization": "SV Brandevoort",
       "location": "Helmond, Netherlands",
       "position": "Football Coach",
       "startDate": "2012",
-      "endDate": "...",
+      "endDate": "2025",
       "summary": "Coaching several youth teams",
       "highlights": ["....."]
     }
-  ],  
+  ]  
 }
