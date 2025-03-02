@@ -29,7 +29,7 @@
       "url": "www.tue.nl",
       "startDate": "2015-01-01",
       "endDate": "2024-01-01",
-      "location": "Eindhoven, Netherlands",      
+      "location": "Eindhoven, \n Netherlands",      
       "summary": "Teaching rsearch",
       "highlights": ["Computational Mechanics"]
     },
