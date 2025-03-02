@@ -29,36 +29,80 @@
       "url": "www.tue.nl",
       "startDate": "2015-01-01",
       "endDate": "2024-01-01",
+      "location": "Eindhoven, Netherlands",      
       "summary": "Teaching rsearch",
       "highlights": ["Computational Mechanics"]
     },
+    {
+      "name": "ASML Research",
+      "position": "Architect",
+      "url": "www.asml.com",
+      "startDate": "2022-12-01",
+      "endDate": "2023-07-01",
+      "location": "Veldhoven, Netherlands",            
+      "summary": "Internship",
+      "highlights": ["Computational Mechanics"]
+    },    
     {
       "name": "Eindhoven University of Technology",
       "position": "Assistant Professor",
       "url": "www.tue.nl",
       "startDate": "2007-01-01",
       "endDate": "2015-01-01",
+      "location": "Eindhoven, Netherlands",            
       "summary": "Teaching rsearch",
       "highlights": ["Computational Mechanics"]
     },
+    {
+      "name": "Institute Lorentz for Theoretical Physics, Leiden University",
+      "position": "Visiting Scholar",
+      "url": "www.tue.nl",
+      "startDate": "2006-09-01",
+      "endDate": "2007-06-01",
+      "location": "Leiden, Netherlands",            
+      "summary": "Teaching rsearch",
+      "highlights": ["Computational Mechanics"]
+    },    
     {
       "name": "Delft University of Technology",
       "position": "Assistant Professor",
       "url": "www.tudelft.nl",
       "startDate": "2006-01-01",
       "endDate": "2007-01-01",
+      "location": "Netherlands, Netherlands",            
       "summary": "Teaching rsearch",
       "highlights": ["Computational Mechanics"]
     },
+    {
+      "name": "NASA Langley Research Center",
+      "position": "Visiting SCholar",
+      "url": "www.nasa.gov",
+      "startDate": "2004-07-01",
+      "endDate": "2004-09-01",
+      "location": "Hampton VA",            
+      "summary": "Teaching rsearch",
+      "highlights": ["Computational Mechanics"]
+    },    
     {
       "name": "Delft University of Technology",
       "position": "PhD Candidate / Researcher",
       "url": "www.tudelft.nl",
       "startDate": "1999-01-01",
       "endDate": "2006-01-01",
+      "location": "Delft, Netherlands",            
       "summary": "Teaching rsearch",
       "highlights": ["Computational Mechanics"]
-    }    
+    }, 
+    {
+      "name": "Delft University of Technology",
+      "position": "PhD Candidate",
+      "url": "www.tudelft.nl",
+      "startDate": "1999",
+      "endDate": "2002",
+      "location": "Delft, Netherlands",            
+      "summary": "Teaching rsearch",
+      "highlights": ["Computational Mechanics"]
+    }       
   ],
   "education": [
     {
