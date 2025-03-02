@@ -501,6 +501,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-accurate-vat-photopolymerisation",
+          title: 'Accurate VAT Photopolymerisation',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/amazing/";
+            },},{id: "projects-accurate-vat-photopolymerisation",
+          title: 'Accurate VAT Photopolymerisation',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ampere/";
             },},{id: "projects-composites-under-extreme-conditions",
           title: 'Composites under extreme conditions',
           description: "with background image",
@@ -536,6 +546,21 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/semicon05/";
+            },},{id: "projects-accurate-vat-photopolymerisation",
+          title: 'Accurate VAT Photopolymerisation',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tasti/";
+            },},{id: "projects-accurate-vat-photopolymerisation",
+          title: 'Accurate VAT Photopolymerisation',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vat/";
+            },},{id: "projects-accurate-vat-photopolymerisation",
+          title: 'Accurate VAT Photopolymerisation',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vlaio/";
             },},{
         id: 'social-email',
         title: 'email',
