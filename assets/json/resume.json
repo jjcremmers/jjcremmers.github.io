@@ -1,37 +1,64 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Joris Remmers",
+    "label": "Associate Professor",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "j.j.c.remmers@tue.nl",
+    "phone": "+31 (0)40 247 3175",
+    "url": "https://jjcremmers.github.io",
+    "summary": "...",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Gemini Zuid 4.130",
+      "postalCode": "PO Box 513",
+      "city": "Eindhoven",
+      "countryCode": "Netherlands",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "...",
+        "url": "www.linkedin.com"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Eindhoven University of Technology",
+      "position": "Associate Professor",
+      "url": "www.tue.nl",
+      "startDate": "2015",
+      "endDate": "",
+      "summary": "Teaching rsearch",
+      "highlights": ["Computational Mechanics"]
     }
+    {
+      "name": "Eindhoven University of Technology",
+      "position": "Assistant Professor",
+      "url": "www.tue.nl",
+      "startDate": "2007",
+      "endDate": "2015",
+      "summary": "Teaching rsearch",
+      "highlights": ["Computational Mechanics"]
+    }
+    {
+      "name": "Delft University of Technology",
+      "position": "Assistant Professor",
+      "url": "www.tudelft.nl",
+      "startDate": "2006",
+      "endDate": "2007",
+      "summary": "Teaching rsearch",
+      "highlights": ["Computational Mechanics"]
+    }
+    {
+      "name": "Delft University of Technology",
+      "position": "PhD Candidate / Researcher",
+      "url": "www.tudelft.nl",
+      "startDate": "1999",
+      "endDate": "2006",
+      "summary": "Teaching rsearch",
+      "highlights": ["Computational Mechanics"]
+    }    
   ],
   "volunteer": [
     {
