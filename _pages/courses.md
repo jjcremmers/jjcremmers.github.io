@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Education
-permalink: /education/
+title: courses
+permalink: /courses/
 description: A collection of courses I teach.
 nav: true
 nav_order: 4
@@ -9,8 +9,8 @@ display_categories: [mechanics, ai, materials]
 horizontal: false
 ---
 
-<!-- pages/education.md -->
-<div class="education">
+<!-- pages/courses.md -->
+<div class="courses">
 {% if site.enable_course_categories and page.display_categories %}
   <!-- Display categorized courses -->
   {% for category in page.display_categories %}
