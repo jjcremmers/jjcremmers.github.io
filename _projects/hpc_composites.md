@@ -1,7 +1,7 @@
 ---
 layout: page
-title: High Performance COmputing for COmposites
-description: with background image
+title: High Performance Computing for Composites
+description: Multiscale analysis of mechanical behaviour of composites
 img: assets/img/12.jpg
 importance: 1
 category: composites

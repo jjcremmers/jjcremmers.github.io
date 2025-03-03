@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Composites under extreme conditions
-description: with background image
+description: Muliscale modelling of the long term behaviour of composites
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: composites
 related_publications: true
 ---
 

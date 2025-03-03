@@ -34,15 +34,33 @@ profiles:
     more_info: >
       <p>B.H.H.A.Cordewener@tue.nl</p>        
   - align: right
-    image: cordewener_photo.jpg
+    image: sanchez_photo.jpg
     content: about_sanchez.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>B.H.H.A.Cordewener@tue.nl</p> 
+      <p>N.Sanchez@tue.nl</p> 
   - align: left
-    image: cordewener_photo.jpg
+    image: hodzelmans_photo.jpg
     content: about_hodzelmans.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>B.H.H.A.Cordewener@tue.nl</p>               
+      <p>M.M.Hodelmans@tue.nl</p> 
+  - align: right
+    image: timmermans_photo.jpg
+    content: about_timmersmans.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>A.Timmermans@tue.nl</p> 
+  - align: left
+    image: thuy_photo.jpg
+    content: about_thuy.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>D.Thuy@tue.nl</p> 
+  - align: right
+    image: jin_photo.jpg
+    content: about_jin.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>J.Wen@tue.nl</p>                                       
 ---

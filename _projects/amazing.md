@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Accurate VAT Photopolymerisation
-description: with background image
+title: AMAZING
+description: Computational models for sintered ceramics
 img: assets/img/12.jpg
 importance: 1
 category: work

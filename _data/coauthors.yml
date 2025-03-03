@@ -1,42 +1,15 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
-    
 "aarab":
   - firstname: ["Marwan", "M."]
     url: https://research.tue.nl/nl/persons/marwan-aarab
+
+"borjesson":
+  - firstname: ["Elias", "E."]
+    url: www.tue.nl
     
+"dommelen":
+  - firstname: ["Hans", "J.A.W."]
+    url: https://www.tue.nl/en/research/researchers/hans-van-dommelen
+        
 "dorussen":
   - firstname: ["Bram", "B.J.A."]
     url: https://www.linkedin.com/in/bramdorussen/
@@ -53,6 +26,10 @@
   - firstname: ["Faisal", "F."]
     url: https://www.linkedin.com/in/firzal/
 
+"massart":
+  - firstname: ["Thierry", "T.J."]
+    url: www.tue.nl
+    
 "mula":
   - firstname: ["Olga", "O."]
     url: https://www.tue.nl/en/research/researchers/olga-mula-hernandez
@@ -61,6 +38,10 @@
   - firstname: ["Alan", "A."]
     url: https://engineering.tamu.edu/materials/profiles/aneedleman.html
 
+"remmers":
+  - firstname: ["Joris", "J.J.C.", "J."]
+    url: www.jorisremmers.com
+    
 "schmeitz":
   - firstname: ["Ruben", "R."]
     url: https://www.tue.nl/en/research/researchers/ruben-schmeitz

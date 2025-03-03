@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Accurate VAT Photopolymerisation
-description: with background image
+title: AMPERE
+description: Fast simulation of photo-polymerisation processes
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: am
 related_publications: true
 ---
 

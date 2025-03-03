@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maaximus               
-description: with background image
+description: Isogeometric models for thin walled structures
 img: assets/img/12.jpg
 importance: 1
 category: composites

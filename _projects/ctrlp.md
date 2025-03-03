@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ctrl-P
-description: with background image
+description: Machine learning to optimise 3D print processes
 img: assets/img/12.jpg
 importance: 1
 category: work

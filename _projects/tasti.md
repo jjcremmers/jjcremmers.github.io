@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Accurate VAT Photopolymerisation
-description: with background image
+title: Tasti
+description: efficient simulation of contact in biomedical applications
 img: assets/img/12.jpg
 importance: 1
 category: work

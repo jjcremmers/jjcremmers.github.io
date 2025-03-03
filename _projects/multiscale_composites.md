@@ -1,7 +1,7 @@
 ---
 layout: page
-title: multiscale modulling of composites        
-description: with background image
+title: ProTechTion 
+description: multiscale modulling of woven composites       
 img: assets/img/12.jpg
 importance: 1
 category: composites

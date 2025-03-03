@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Accurate VAT Photopolymerisation
-description: with background image
+title: Semicon05
+description: Accurate VAT Photopolymerisation
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: am
 related_publications: true
 ---
 

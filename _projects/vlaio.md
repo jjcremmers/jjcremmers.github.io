@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Accurate VAT Photopolymerisation
-description: with background image
+title: TESCO
+description: Accutate models of FFF printing
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: am
 related_publications: true
 ---
 
