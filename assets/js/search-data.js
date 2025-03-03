@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-courses",
+          title: "courses",
+          description: "A collection of courses I teach.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/courses/";
+          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
@@ -445,7 +452,17 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
+    },{id: "courses-advanced-mechanics",
+          title: 'Advanced Mechanics',
+          description: "A course on advanced structural mechanics and computational methods.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/course1/";
+            },},{id: "courses-ai-in-engineering",
+          title: 'AI in Engineering',
+          description: "Exploring applications of artificial intelligence in engineering.",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/course2/";
+            },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
