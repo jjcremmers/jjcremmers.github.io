@@ -47,7 +47,7 @@ profiles:
       <p>M.M.Hodelmans@tue.nl</p> 
   - align: right
     image: timmermans_photo.jpg
-    content: about_timmersmans.md
+    content: about_timmermans.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>A.Timmermans@tue.nl</p> 
