@@ -501,54 +501,54 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-accurate-vat-photopolymerisation",
-          title: 'Accurate VAT Photopolymerisation',
-          description: "with background image",
+            },},{id: "projects-amazing",
+          title: 'AMAZING',
+          description: "Computational models for sintered ceramics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/amazing/";
-            },},{id: "projects-accurate-vat-photopolymerisation",
-          title: 'Accurate VAT Photopolymerisation',
-          description: "with background image",
+            },},{id: "projects-ampere",
+          title: 'AMPERE',
+          description: "Fast simulation of photo-polymerisation processes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ampere/";
             },},{id: "projects-composites-under-extreme-conditions",
           title: 'Composites under extreme conditions',
-          description: "with background image",
+          description: "Muliscale modelling of the long term behaviour of composites",
           section: "Projects",handler: () => {
               window.location.href = "/projects/composite_harsh/";
             },},{id: "projects-ctrl-p",
           title: 'Ctrl-P',
-          description: "with background image",
+          description: "Machine learning to optimise 3D print processes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ctrlp/";
             },},{id: "projects-high-performance-computing-for-composites",
-          title: 'High Performance COmputing for COmposites',
-          description: "with background image",
+          title: 'High Performance Computing for Composites',
+          description: "Multiscale analysis of mechanical behaviour of composites",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hpc_composites/";
             },},{id: "projects-maaximus",
           title: 'Maaximus',
-          description: "with background image",
+          description: "Isogeometric models for thin walled structures",
           section: "Projects",handler: () => {
               window.location.href = "/projects/maaximus/";
-            },},{id: "projects-multiscale-modulling-of-composites",
-          title: 'multiscale modulling of composites',
-          description: "with background image",
+            },},{id: "projects-protechtion",
+          title: 'ProTechTion',
+          description: "multiscale modulling of woven composites",
           section: "Projects",handler: () => {
               window.location.href = "/projects/multiscale_composites/";
             },},{id: "projects-natural-fibre-composites",
           title: 'Natural fibre composites',
-          description: "with background image",
+          description: "Study on the effecto of moisture",
           section: "Projects",handler: () => {
               window.location.href = "/projects/natural_composites/";
-            },},{id: "projects-accurate-vat-photopolymerisation",
-          title: 'Accurate VAT Photopolymerisation',
-          description: "with background image",
+            },},{id: "projects-semicon05",
+          title: 'Semicon05',
+          description: "Accurate VAT Photopolymerisation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/semicon05/";
-            },},{id: "projects-accurate-vat-photopolymerisation",
-          title: 'Accurate VAT Photopolymerisation',
-          description: "with background image",
+            },},{id: "projects-tasti",
+          title: 'Tasti',
+          description: "efficient simulation of contact in biomedical applications",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tasti/";
             },},{id: "projects-accurate-vat-photopolymerisation",
@@ -556,9 +556,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vat/";
-            },},{id: "projects-accurate-vat-photopolymerisation",
-          title: 'Accurate VAT Photopolymerisation',
-          description: "with background image",
+            },},{id: "projects-tesco",
+          title: 'TESCO',
+          description: "Accutate models of FFF printing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vlaio/";
             },},{
