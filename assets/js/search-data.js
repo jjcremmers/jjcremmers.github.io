@@ -462,6 +462,11 @@ ninja.data = [{
           description: "Exploring applications of artificial intelligence in engineering.",
           section: "Courses",handler: () => {
               window.location.href = "/courses/course2/";
+            },},{id: "courses-engineering-design",
+          title: 'Engineering Design',
+          description: "A second year CBL course for all students at TU/e",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/engineeringdesign/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
