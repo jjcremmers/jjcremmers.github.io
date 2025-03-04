@@ -1,11 +1,11 @@
 ---
 layout: page
-title: courses
+title: Courses
 permalink: /courses/
-description: A collection of courses I teach.
+description: In the past 20 years, I have been teaching numerour
 nav: true
 nav_order: 4
-display_categories: [mechanics, ai, materials]
+display_categories: [bachelor, master, phd]
 horizontal: false
 ---
 
