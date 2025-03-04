@@ -31,8 +31,8 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-courses",
-          title: "courses",
-          description: "A collection of courses I teach.",
+          title: "Courses",
+          description: "In the past 20 years, I have been teaching numerour",
           section: "Navigation",
           handler: () => {
             window.location.href = "/courses/";
