@@ -4,8 +4,7 @@ title: MultiDisciplinary CBL
 description: A Bachelor course
 img: assets/img/12.jpg
 importance: 1
-category: bachelor
-related_publications: true
+category: Bachelor
 ---
 
 

@@ -5,7 +5,7 @@ permalink: /courses/
 description: In the past 20 years, I have been teaching numerous courses on Bachelor, Master and PhD level.
 nav: true
 nav_order: 4
-display_categories: [bachelor, master, phd]
+display_categories: [Bachelor, Master, Phd, Old]
 horizontal: false
 ---
 
