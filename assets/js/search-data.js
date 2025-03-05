@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-courses",
           title: "Courses",
-          description: "In the past 20 years, I have been teaching numerour",
+          description: "In the past 20 years, I have been teaching numerous courses on Bachelor, Master and PhD level.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/courses/";
