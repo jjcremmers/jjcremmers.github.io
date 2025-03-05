@@ -2,7 +2,7 @@
 layout: page
 title: Courses
 permalink: /courses/
-description: In the past 20 years, I have been teaching numerour
+description: In the past 20 years, I have been teaching numerous courses on Bachelor, Master and PhD level.
 nav: true
 nav_order: 4
 display_categories: [bachelor, master, phd]
@@ -24,14 +24,14 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for course in sorted_courses %}
-      {% include course_horizontal.liquid %}
+      {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for course in sorted_courses %}
-      {% include course.liquid %}
+      {% include projects.liquid %}
     {% endfor %}
   </div>
   {% endif %}
@@ -48,14 +48,14 @@ horizontal: false
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for course in sorted_courses %}
-      {% include course_horizontal.liquid %}
+      {% include projects_horizontal.liquid %}
     {% endfor %}
     </div>
   </div>
   {% else %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for course in sorted_courses %}
-      {% include course.liquid %}
+      {% include projects.liquid %}
     {% endfor %}
   </div>
   {% endif %}
