@@ -2,7 +2,7 @@
 layout: page
 title: Courses
 permalink: /courses/
-description: In the past 20 years, I have been teaching numerous courses on [Bachelor](bachelor), Master and PhD level.
+description: In the past 20 years, I have been teaching numerous courses on [Bachelor](#bachelor), Master and PhD level.
 nav: true
 nav_order: 4
 display_categories: [Bachelor, Master, Phd, Old]
