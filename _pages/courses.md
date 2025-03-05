@@ -11,7 +11,7 @@ horizontal: false
 
 <!-- pages/courses.md -->
 <div class="courses">
-{% if site.enable_course_categories and page.display_categories %}
+{% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized courses -->
   {% for category in page.display_categories %}
   <a id="{{ category }}" href=".#{{ category }}">
