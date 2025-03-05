@@ -4,7 +4,7 @@ title: Mechanics
 description: A Bachelor course
 img: assets/img/12.jpg
 importance: 1
-category: bachelor
+category: Old
 related_publications: true
 ---
 

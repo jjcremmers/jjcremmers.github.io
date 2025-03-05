@@ -4,7 +4,7 @@ title: Experimental and Numerical Skills
 description: A Bachelor course
 img: assets/img/12.jpg
 importance: 1
-category: bachelor
+category: Bachelor
 related_publications: true
 ---
 

@@ -4,7 +4,7 @@ title: Composite and Light Weight Materials
 description: A Master course
 img: assets/img/12.jpg
 importance: 1
-category: master
+category: Master
 related_publications: true
 ---
 

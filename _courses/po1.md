@@ -4,7 +4,7 @@ title: The Partition of unitvy Method
 description: A series of lectures part of the ENgineering Mechanics Graduate School
 img: assets/img/12.jpg
 importance: 1
-category: phd
+category: Phd
 related_publications: true
 ---
 

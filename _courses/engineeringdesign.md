@@ -4,7 +4,7 @@ title: Engineering Design
 description: A second year CBL course for all students at TU/e
 img: assets/img/12.jpg
 importance: 1
-category: old
+category: Old
 related_publications: true
 ---
 
