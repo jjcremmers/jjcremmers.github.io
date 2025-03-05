@@ -452,7 +452,17 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "courses-advanced-mechanics",
+    },{id: "courses-advanced-and-additive-manufacturing",
+          title: 'Advanced and Additive Manufacturing',
+          description: "A Master course",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/additivemanufacturing/";
+            },},{id: "courses-composite-and-light-weight-materials",
+          title: 'Composite and Light Weight Materials',
+          description: "A Master course",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/composites/";
+            },},{id: "courses-advanced-mechanics",
           title: 'Advanced Mechanics',
           description: "A course on advanced structural mechanics and computational methods.",
           section: "Courses",handler: () => {
@@ -467,6 +477,46 @@ ninja.data = [{
           description: "A second year CBL course for all students at TU/e",
           section: "Courses",handler: () => {
               window.location.href = "/courses/engineeringdesign/";
+            },},{id: "courses-experimental-and-numerical-skills",
+          title: 'Experimental and Numerical Skills',
+          description: "A Bachelor course",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/expnumskills/";
+            },},{id: "courses-multidisciplinary-cbl",
+          title: 'MultiDisciplinary CBL',
+          description: "A Bachelor course",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/mdcbl/";
+            },},{id: "courses-mechanics",
+          title: 'Mechanics',
+          description: "A Bachelor course",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/mechanics/";
+            },},{id: "courses-the-partition-of-unitvy-method",
+          title: 'The Partition of unitvy Method',
+          description: "A series of lectures part of the ENgineering Mechanics Graduate School",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/po1/";
+            },},{id: "courses-principles-of-design-and-programming",
+          title: 'Principles of Design and Programming',
+          description: "A Bachelor course",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/principles/";
+            },},{id: "courses-programming-project",
+          title: 'Programming Project',
+          description: "A Bachelor course",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/programming/";
+            },},{id: "courses-scientific-computing",
+          title: 'Scientific Computing',
+          description: "A Master course",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/scientificcomputing/";
+            },},{id: "courses-truss-structure-cbl-course",
+          title: 'Truss Structure CBL course',
+          description: "A Bachelor course",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/truss/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
