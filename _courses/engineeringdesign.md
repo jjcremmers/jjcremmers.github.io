@@ -85,5 +85,5 @@ Here's the code for the last row of images above:
 | **Code**                   | 4WBB0                                       |
 | **Level**                  | Bachelor, Year 2                            |
 | **Years**                  | 2015-2023                                   |
-| **Lecturers/Organisers**   | Bart van Esch, Joris Remmers, Eline Vrenken |
+| **Lecturers/Organisers**   | Bart van Esch, Rick de Lange, Joris Remmers, Eline Vrenken, Jaklien Bakermans, Tom van de Zande, Erik Homburg, Michiel van Gorp |
 | **Number of students**     | 1800                                        |
