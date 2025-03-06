@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Engineering Design
-description: A second year CBL course for all students at TU/e
-img: assets/img/4wbb0.jpg
+title: Sustainable Electronics
+description: A project in the MD CBL course
+img: assets/img/4cblw00-11.jpg
 importance: 1
-category: Old
+category: Bachelor
 related_publications: true
 ---
 
