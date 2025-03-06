@@ -2,7 +2,7 @@
 layout: page
 title: Advanced and Additive Manufacturing
 description: A Master course
-img: assets/img/12.jpg
+img: assets/img/4mm60.png
 importance: 1
 category: Master
 related_publications: true

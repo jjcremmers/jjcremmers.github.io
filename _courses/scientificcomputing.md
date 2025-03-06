@@ -2,10 +2,9 @@
 layout: page
 title: Scientific Computing
 description: A Master course
-img: assets/img/12.jpg
-importance: 1
+img: assets/img/4em30.png
+importance: 2
 category: Master
-related_publications: true
 ---
 
 
