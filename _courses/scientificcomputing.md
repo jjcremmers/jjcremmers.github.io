@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scientific Computing
-description: A Master course
+description: 2015-
 img: assets/img/4em30.png
 importance: 2
 category: Master
