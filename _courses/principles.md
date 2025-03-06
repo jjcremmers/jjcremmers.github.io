@@ -2,7 +2,7 @@
 layout: page
 title: Principles of Design and Programming
 description: A Bachelor course
-img: assets/img/12.jpg
+img: assets/img/4ca10.jpg
 importance: 1
 category: Bachelor
 related_publications: true
