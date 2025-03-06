@@ -2,7 +2,7 @@
 layout: page
 title: Natural fibre composites
 description: Study on the effecto of moisture 
-img: assets/img/12.jpg
+img: assets/img/4mm00.jpg
 importance: 1
 category: composites
 related_publications: true
