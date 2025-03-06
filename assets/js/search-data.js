@@ -509,7 +509,7 @@ ninja.data = [{
               window.location.href = "/courses/programming/";
             },},{id: "courses-scientific-computing",
           title: 'Scientific Computing',
-          description: "A Master course",
+          description: "2015-",
           section: "Courses",handler: () => {
               window.location.href = "/courses/scientificcomputing/";
             },},{id: "courses-sustainable-electronics",
