@@ -512,6 +512,11 @@ ninja.data = [{
           description: "A Master course",
           section: "Courses",handler: () => {
               window.location.href = "/courses/scientificcomputing/";
+            },},{id: "courses-sustainable-electronics",
+          title: 'Sustainable Electronics',
+          description: "A project in the MD CBL course",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/sustainableelectronics/";
             },},{id: "courses-truss-structure-cbl-course",
           title: 'Truss Structure CBL course',
           description: "A Bachelor course",
