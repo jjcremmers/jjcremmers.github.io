@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-courses",
           title: "Courses",
-          description: "In the past 20 years, I have been teaching numerous courses on [Bachelor](#Bachelor), Master and PhD level.",
+          description: "In the past 20 years, I have been teaching numerous courses on [Bachelor](/courses/#Bachelor), Master and PhD level.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/courses/";
