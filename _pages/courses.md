@@ -2,12 +2,14 @@
 layout: page
 title: Courses
 permalink: /courses/
-description: In the past 20 years, I have been teaching numerous courses on [Bachelor](/courses/#Bachelor), Master and PhD level.
+description: 
 nav: true
 nav_order: 4
 display_categories: [Bachelor, Master, Phd, Old]
 horizontal: false
 ---
+
+In the past 20 years, I have been teaching numerous courses on [Bachelor](/courses/#Bachelor), Master and PhD level.
 
 <!-- pages/courses.md -->
 <div class="courses">
