@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Supervised MSc Theses"
-permalink: /mythesis/
+permalink: /mscthesis/
 ---
 
 {% include bib_search.liquid %}
