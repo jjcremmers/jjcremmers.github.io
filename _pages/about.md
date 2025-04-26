@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Eindhoven University of Technology</a>
+subtitle: <a href='www.tue.nl'>Eindhoven University of Technology</a>
 
 profile:
   align: right
