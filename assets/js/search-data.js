@@ -457,9 +457,14 @@ ninja.data = [{
           description: "A Master course",
           section: "Courses",handler: () => {
               window.location.href = "/courses/additivemanufacturing/";
+            },},{id: "courses-circular-electronics",
+          title: 'Circular Electronics',
+          description: "A project in the MD-CBL course",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/circularelectronics/";
             },},{id: "courses-composite-and-light-weight-materials",
           title: 'Composite and Light Weight Materials',
-          description: "A Master course",
+          description: "Design and Analysis",
           section: "Courses",handler: () => {
               window.location.href = "/courses/composites/";
             },},{id: "courses-advanced-mechanics",
@@ -482,9 +487,9 @@ ninja.data = [{
           description: "A Bachelor course",
           section: "Courses",handler: () => {
               window.location.href = "/courses/expnumskills/";
-            },},{id: "courses-multidisciplinary-cbl",
-          title: 'MultiDisciplinary CBL',
-          description: "A Bachelor course",
+            },},{id: "courses-multi-disciplinary-cbl",
+          title: 'Multi-Disciplinary CBL',
+          description: "A course in Bachelor College",
           section: "Courses",handler: () => {
               window.location.href = "/courses/mdcbl/";
             },},{id: "courses-mechanics",
@@ -499,7 +504,7 @@ ninja.data = [{
               window.location.href = "/courses/po1/";
             },},{id: "courses-principles-of-design-and-programming",
           title: 'Principles of Design and Programming',
-          description: "A Bachelor course",
+          description: "A First years bachelor course",
           section: "Courses",handler: () => {
               window.location.href = "/courses/principles/";
             },},{id: "courses-programming-project",
@@ -512,11 +517,6 @@ ninja.data = [{
           description: "2015-",
           section: "Courses",handler: () => {
               window.location.href = "/courses/scientificcomputing/";
-            },},{id: "courses-sustainable-electronics",
-          title: 'Sustainable Electronics',
-          description: "A project in the MD CBL course",
-          section: "Courses",handler: () => {
-              window.location.href = "/courses/sustainableelectronics/";
             },},{id: "courses-truss-structure-cbl-course",
           title: 'Truss Structure CBL course',
           description: "A Bachelor course",
@@ -533,7 +533,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-start-of-new-md-cbl-course",
+          title: 'Start of new MD-CBL course',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/mdcbl_start/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
