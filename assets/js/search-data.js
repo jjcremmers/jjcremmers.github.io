@@ -674,7 +674,7 @@ ninja.data = [{
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Joris-Remmers/", "_blank");
+          window.open("https://www.researchgate.net/profile/Joris-Remmers/", "_blank");
         },
       },{
         id: 'social-scholar',
