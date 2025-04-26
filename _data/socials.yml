@@ -46,6 +46,6 @@ scholar_userid: C5l2Pb8AAAAJ # your Google Scholar ID
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: /assets/icons/tuelogo.png # can be png, svg, jpg
+  logo: /assets/img/tuelogo.png # can be png, svg, jpg
   title: University webpage
   url: https://www.tue.nl/en/research/researchers/joris-remmers

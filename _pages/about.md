@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Eindhoven University of Technology</a>
 
 profile:
   align: right
@@ -19,16 +19,24 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 3 # leave blank to include all the news in the `_news` folder
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my personal website. I am an academic professional working at the intersection 
+of engineering education and research. My research focuses on the development of computational 
+models for the mechanical analysis of composite materials, the simulation of 3D printing 
+processes, and the application of high-performance computing techniques, including 
+reduced-order modeling.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Alongside my research activities, I teach a variety of courses in these fields, 
+covering topics such as composite design, additive manufacturing, and computational 
+methods. I am also actively involved in the development and organization of several 
+multidisciplinary Challenge-Based Learning (CBL) courses, aiming to equip students with 
+skills that bridge theory and practice across disciplines.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to my research and teaching, I have a particular interest in the role of 
+Artificial Intelligence in education. I am especially engaged in exploring how Large 
+Language Models can support programming education and enhance student learning processes.
+
+On this website, you can find more information about my [research projects](projects/), 
+the [courses](course/) I am involved in, and my broader initiatives in engineering education.
