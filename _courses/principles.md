@@ -1,17 +1,47 @@
 ---
 layout: page
 title: Principles of Design and Programming
-description: A Bachelor course
+description: A First years bachelor course
 img: assets/img/4ca10.jpg
 importance: 1
 category: Bachelor
 related_publications: true
 ---
 
+The course Principles of Design and Programming was introduced in 
+2023 and fulfills a long-standing ambition of the department to provide 
+first-year Mechanical Engineering students with an early introduction to 
+key skills in both design and programming. The course aims to build a 
+solid foundation for students as they begin their academic and professional 
+journeys.
 
+The course is divided into two parts. The design principles section, taught 
+by Paul Vrancken, introduces students to the general design process, covering 
+concept development, validation, stiffness and weight optimization, control 
+of degrees of freedom, and fundamental aspects of detailing, technical 
+drawing, and manufacturing methods. Through this, students learn how to 
+approach engineering design challenges systematically and creatively.
+
+I am responsible for the programming part of the course, which emphasizes 
+good programming style and practices rather than focusing on a specific 
+language. While the course material is taught using Python and MATLAB, the 
+main goal is to develop a strong understanding of core programming concepts.
+
+Topics covered include the evolution of programming languages, components 
+of a programming language, abstraction of data and functionality, clean 
+coding practices, version management with Git, and the use of libraries for 
+plotting and linear algebra. Students also learn about code design and 
+maintenance to ensure they can write robust and adaptable programs.
+
+The course concludes with a written exam and a practical programming assignment. 
+In the 2024–2025 edition, students were tasked with developing a program to 
+read astronomical data and simulate the orbit of the Moon around the Earth 
+using Newton’s laws of gravity, ultimately predicting the mass of the Earth. 
+This assignment encourages students to apply their knowledge to a real-world 
+inspired challenge, integrating physics, data analysis, and coding.
 
 | **Course name**            | Principles of Design and Programming       |
-| **Code**                   | 4MC00                                       |
+| **Code**                   | 4CA10                                       |
 | **Level**                  | Bachelor, Year 1                            |
 | **Years**                  | 2023-                                 |
 | **Lecturers/Organisers**   | Paul Vrancken, Joris Remmers  |

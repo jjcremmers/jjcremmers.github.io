@@ -1,16 +1,49 @@
 ---
 layout: page
-title: Sustainable Electronics
-description: A project in the MD CBL course
+title: Circular Electronics
+description: A project in the MD-CBL course
 img: assets/img/4cblw00-11.jpg
 importance: 1
 category: Bachelor
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Circular Electronics is one of the 25 multidisciplinary Challenge-Based Learning 
+(CBL) projects launched as part of the MDCBL initiative, with the first edition 
+running in 2025. In this project, students tackle the pressing issue of Waste 
+from Electrical and Electronic Equipment (WEEE), the fastest growing waste 
+stream worldwide. In 2019 alone, an estimated 53.6 million metric tons of E-Waste 
+were generated, a figure expected to rise to 74.7 million metric tons by 2030 if 
+current trends continue.
+
+Students work in teams to explore the complex material composition of WEEE, which 
+includes valuable precious metals, polymers, and hazardous substances. With only 
+17.4% of E-Waste currently documented as properly recycled, the project challenges 
+students to rethink how electronic products are designed, used, and disposed of, 
+aiming to shift from a linear to a more circular economy. Throughout the project, 
+they are encouraged to develop solutions that address technical, regulatory, and 
+business-related barriers to achieving circularity in electronics.
+
+The project is coordinated by Lorenzo Ceccarelli and involves several external 
+stakeholders, including companies such as PreZero and Neways, as well as 
+organizations like Engineers Without Borders. These partners provide real-world 
+perspectives and contribute to shaping the challenges students work on.
+
+My role within the Circular Electronics project is to support students specifically 
+with materials-related challenges. Given the complexity of the materials involved 
+in electronics, I help students understand material properties, recycling 
+constraints, and potential innovations that can facilitate circular design and 
+manufacturing.
+
+
+
+
+| **Course name**            | Circular Electronics              |
+| **Code**                   | 4CBLW00-11                                       |
+| **Level**                  | Bachelr, Year 2                            |
+| **Years**                  | 2025-                                 |
+| **Lecturers/Organisers**   | Lorenzo Ceccarelli, Joris Remmers |
+| **Number of students**     | 48                                        |
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

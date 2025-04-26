@@ -8,6 +8,31 @@ category: Master
 related_publications: true
 ---
 
+The course Advanced and Additive Manufacturing has been offered since 2022 and forms 
+part of the master's curriculum. It is attended by students from a range of backgrounds, 
+including Mechanical Engineering, Industrial Design, and the Built Environment. The 
+course offers a broad overview of advanced additive manufacturing techniques and the 
+materials used, with a particular focus on laser powder bed fusion of metals, polymer 
+printing, and ceramic printing.
+
+Students explore the underlying principles of these technologies, including process 
+mechanics, material behavior, and design opportunities unique to additive manufacturing. 
+Regular guest lectures from companies such as Philips Medical, Additive Industries, and 
+colleagues specializing in concrete printing from the Built Environment faculty provide 
+students with direct insights into current industrial applications and research 
+developments.
+
+Starting with the 2025 edition, students are actively encouraged to design, print, and 
+test a load-carrying object using Fused Deposition Modeling (FDM) techniques with 
+thermoplastic materials. As part of this assignment, students characterize the mechanical 
+properties of different thermoplastics and incorporate this data into their design and 
+analysis. This hands-on component allows them to experience the full design-to-production 
+cycle, emphasizing material selection, process limitations, and performance validation.
+
+Overall, the course aims to equip students with both a strong theoretical understanding 
+and practical experience in additive manufacturing technologies, preparing them to apply 
+these skills in innovative product design, structural engineering, and emerging 
+manufacturing industries.
 
 
 | **Course name**            | Advanced and Additive Manufacturing              |

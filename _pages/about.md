@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: remmers_photo.jpg
+  image: remmers_photo25.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Eindhoven University of Technology</p>

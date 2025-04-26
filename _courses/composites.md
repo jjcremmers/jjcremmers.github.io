@@ -1,18 +1,43 @@
 ---
 layout: page
 title: Composite and Light Weight Materials
-description: A Master course
+description: Design and Analysis
 img: assets/img/4mm00.jpg
 importance: 1
 category: Master
 related_publications: true
 ---
 
+The course Composite and Lightweight Materials: Design and Analysis has been offered 
+since 2011 and is part of the master's program. Each year, it attracts approximately 
+50 students with an interest in advanced materials and structural design. The course 
+provides a comprehensive introduction to the design, analysis, and application of 
+composite materials, combining theoretical foundations with practical insights from 
+industry.
 
+Throughout the course, students explore a variety of topics essential to understanding 
+and working with composite structures. Key subjects include the manufacturing processes 
+of composites, multiscale analysis and homogenization techniques, classical laminate 
+theory, and failure models. We also cover the derivation and application of plate 
+equations, the study of buckling phenomena, and the use of advanced numerical techniques. 
+These techniques include shell elements, continuum shell elements, interface modeling, 
+and the application of specialized solvers for analyzing complex structures.
+
+An important feature of the course is the connection to real-world practice. We regularly 
+invite guest lecturers from leading companies such as BMW and VDL Fibertech Industries, 
+providing students with valuable industry perspectives and examples of cutting-edge 
+applications. In the 2024–2025 edition, we introduced a practical assignment where students 
+were challenged to design, build, and test a composite structure. This hands-on experience 
+allowed them to apply the theoretical concepts learned in class and deepen their 
+understanding of the mechanical behavior of composite materials.
+
+Overall, the course equips students with both the theoretical knowledge and practical skills 
+needed to work with composite and lightweight structures in high-tech industries and 
+research environments.
 
 | **Course name**            | Composite and Lightweight Materials                      |
-| **Code**                   | 4MM00                                       |
+| **Code**                   | 4MM00  (4K680 before 2015)                                      |
 | **Level**                  | Master                            |
-| **Years**                  | 2015-                                 |
+| **Years**                  | 2011-                                 |
 | **Lecturers/Organisers**   | Joris Remmers, Varvara Kouznetsova, Frederik van Loock |
 | **Number of students**     | 50                                        |
