@@ -1,10 +1,18 @@
 "aarab":
   - firstname: ["Marwan", "M."]
     url: https://research.tue.nl/nl/persons/marwan-aarab
+    
+"beemt":
+  - firstname: ["Antoine", "A."]
+    url: https://www.tue.nl/en/research/researchers/antoine-van-den-beemt
 
 "borjesson":
   - firstname: ["Elias", "E."]
     url: www.tue.nl
+    
+"cousigne":
+  - firstname: ["Olivier", "O."]
+    url: www.bmw.com   
     
 "dommelen":
   - firstname: ["Hans", "J.A.W."]
@@ -22,6 +30,10 @@
   - firstname: ["Marc", "M.", "M.G.D."]
     url: https://research.tue.nl/nl/persons/marc-geers
     
+"groothuijsen":
+  - firstname: ["Suzanne", "S."]
+    url: https://www.tue.nl/en/research/researchers/suzanne-groothuijsen
+    
 "irzal":
   - firstname: ["Faisal", "F."]
     url: https://www.linkedin.com/in/firzal/
@@ -30,6 +42,10 @@
   - firstname: ["Thierry", "T.J."]
     url: www.tue.nl
     
+"meeuwen":
+  - firstname: ["Ludo", "L.W."]
+    url: https://www.linkedin.com/in/ludo-van-meeuwen-5667a07/?originalSubdomain=nl
+        
 "mula":
   - firstname: ["Olga", "O."]
     url: https://www.tue.nl/en/research/researchers/olga-mula-hernandez
@@ -40,7 +56,7 @@
 
 "remmers":
   - firstname: ["Joris", "J.J.C.", "J."]
-    url: www.jorisremmers.com
+    url: https://www.jorisremmers.com
     
 "schmeitz":
   - firstname: ["Ruben", "R."]
@@ -53,3 +69,11 @@
 "verhoosel":
   - firstname: ["Clemens", "Clemens V.", "C.V."]
     url: https://www.tue.nl/en/research/researchers/clemens-verhoosel
+    
+"weerts":
+  - firstname: ["Ruben", "R.A.J."]
+    url: https://www.linkedin.com/in/rubenweerts/
+    
+"westbeek":
+  - firstname: ["Steyn", "S."]
+    url: https://www.linkedin.com/in/steynwestbeek/
