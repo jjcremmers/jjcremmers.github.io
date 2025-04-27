@@ -2,7 +2,11 @@
   - firstname: ["Marwan", "M."]
     url: https://research.tue.nl/nl/persons/marwan-aarab
     
-"beemt":
+"de borst":
+  - firstname: ["Rene", "R."]
+    url: https://scholar.google.nl/citations?hl=nl&user=YGIZQhEAAAAJ
+    
+"van den beemt":
   - firstname: ["Antoine", "A."]
     url: https://www.tue.nl/en/research/researchers/antoine-van-den-beemt
 
@@ -42,7 +46,7 @@
   - firstname: ["Thierry", "T.J."]
     url: www.tue.nl
     
-"meeuwen":
+"van meeuwen":
   - firstname: ["Ludo", "L.W."]
     url: https://www.linkedin.com/in/ludo-van-meeuwen-5667a07/?originalSubdomain=nl
         
