@@ -533,16 +533,21 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-phd-defence-britt-cordewener-may-6-2025",
-          title: 'PhD Defence Britt Cordewener, May 6, 2025',
+          section: "News",},{id: "news-new-paper-out",
+          title: 'New paper out!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/defence_britt/";
+              window.location.href = "/news/paper_semicon/";
             },},{id: "news-start-of-new-md-cbl-course",
           title: 'Start of new MD-CBL course',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/mdcbl_start/";
+            },},{id: "news-phd-defence-britt-cordewener-may-6-2025",
+          title: 'PhD Defence Britt Cordewener, May 6, 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/defence_britt/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
