@@ -2,7 +2,7 @@
 layout: post
 title: PhD Defence Britt Cordewener, May 6, 2025
 date: 2025-05-06 11:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
