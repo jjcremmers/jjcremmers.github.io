@@ -543,12 +543,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/mdcbl_start/";
-            },},{id: "news-phd-defence-britt-cordewener-may-6-2025",
-          title: 'PhD Defence Britt Cordewener, May 6, 2025',
+            },},{id: "news-on-tuesday-may-6-at-11-00-britt-cordwener-will-defend-her-phd-thesis-in-atlas-room-0-710-on-the-tu-e-campus-her-thesis-sintered-conductive-materials-under-mechanical-loading-numerical-insights-into-electro-mechanical-performance-and-failure-can-be-downloaded-via-this-link",
+          title: 'On Tuesday May 6 at 11.00, Britt Cordwener will defend her PhD thesis...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/defence_britt/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
