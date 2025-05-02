@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>J.J.C.Remmers@tue.nl</p>
-  - align: left
+  - align: right
     image: aarab_photo.jpg
     content: about_aarab.md
     image_circular: false # crops the image to make it circular
@@ -27,40 +27,40 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>M.Aarab@tue.nl</p>      
-  - align: left
+  - align: right
     image: cordewener_photo.jpg
     content: about_cordewener.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>B.H.H.A.Cordewener@tue.nl</p>        
   - align: right
     image: sanchez_photo.jpg
     content: about_sanchez.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>N.Sanchez@tue.nl</p> 
-  - align: left
+  - align: right
     image: hodzelmans_photo.jpg
     content: about_hodzelmans.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>M.M.Hodelmans@tue.nl</p> 
   - align: right
     image: timmermans_photo.jpg
     content: about_timmermans.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>A.Timmermans@tue.nl</p> 
-  - align: left
+  - align: right
     image: thuy_photo.jpg
     content: about_thuy.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>D.Thuy@tue.nl</p> 
   - align: right
     image: jin_photo.jpg
     content: about_jin.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>J.Wen@tue.nl</p>                                       
 ---
