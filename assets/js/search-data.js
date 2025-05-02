@@ -72,42 +72,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-projects",
-              title: "projects",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "dropdown-theses",
-              title: "Theses",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/thesis/";
-              },
-            },{id: "dropdown-my-theses",
-              title: "My Theses",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/mythesis/";
-              },
-            },{id: "post-a-post-with-image-galleries",
+        },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
