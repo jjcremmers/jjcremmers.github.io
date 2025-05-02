@@ -2,9 +2,12 @@
 layout: page
 title: "AI in education"
 permalink: /ai_in_education/
+related_publications: true
 ---
 
-As AI in Education within the Academy for Learning and Teaching, I am committed 
+As Ambassador for AI in Education within the 
+[Academy for Learning and Teaching](https://www.tue.nl/en/academy-for-learning-and-teaching), 
+I am committed 
 to encouraging an open and constructive dialogue around the responsible 
 integration of generative AI in teaching and learning. My focus is not limited 
 to its application by students to writing, programming assignments and various 
@@ -19,7 +22,7 @@ yet it also introduced risks such as reduced peer interaction, overreliance, and
 diminished critical thinking. These observations led to a formal study in 
 collaboration with the Eindhoven School of Education, which confirmed that 
 while students used AI tools with apparent ease, the learning outcomes did not 
-necessarily improve.
+necessarily improve {% cite Groothuijsen2024 %}.
 
 This experience underscored the need for a more nuanced approach: not whether 
 students should use AI, but how they can use it to enhance rather than replace 
@@ -29,7 +32,8 @@ feedback, and guide student reasoning without simply delivering answers. Ways in
 which AI can be used to improve the learning experience of students and to 
 promote a deeper engagement with course material.
 
-In my role as ambassador within the Academy for Learning and Teaching, I aim to 
+In my role as ambassador within the [Academy for Learning and Teaching](https://www.tue.nl/en/academy-for-learning-and-teaching), 
+I aim to 
 bring together educators across disciplines to explore these possibilities. Our 
 goal is not to adopt AI uncritically, nor to reject it out of caution, but to 
 engage with it thoughtfully. As AI continues to evolve rapidly, we must continually 
@@ -37,4 +41,6 @@ revisit its application in education, our learning objectives and assessment
 strategies to ensure they remain aligned with authentic student learning objectives. 
 I warmly invite colleagues to share experiences, raise questions, and help shape a 
 responsible and future-oriented educational practice.
+
+
 
