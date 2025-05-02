@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='www.tue.nl'>Eindhoven University of Technology</a>
 
