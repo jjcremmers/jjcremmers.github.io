@@ -23,6 +23,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
+            },{id: "dropdown-supervised-phd-theses",
+              title: "Supervised PhD theses",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
             },{id: "dropdown-courses",
               title: "Courses",
               description: "",
@@ -44,15 +51,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "nav-courses",
-          title: "Courses",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/courses/";
-          },
-        },{id: "nav-softare",
-          title: "Softare",
+            },{id: "nav-software",
+          title: "Software",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -65,15 +65,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-people",
-          title: "people",
+          title: "People",
           description: "members of the research group",
           section: "Navigation",
           handler: () => {
