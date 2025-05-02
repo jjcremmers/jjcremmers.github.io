@@ -1,0 +1,40 @@
+---
+layout: page
+title: "AI in education"
+permalink: /ai_in_education/
+---
+
+As AI in Education within the Academy for Learning and Teaching, I am committed 
+to encouraging an open and constructive dialogue around the responsible 
+integration of generative AI in teaching and learning. My focus is not limited 
+to its application by students to writing, programming assignments and various 
+learning activities, but also as a tool to support tutoring and providing 
+formative feedback. These are all areas where AI tools like ChatGPT are already 
+impacting students’ educational experiences.
+
+My interest in this topic emerged while preparing my course Scientific Computing 
+in the fall of 2022. Early experiments with ChatGPT revealed both opportunities 
+and concerns. The tool proved effective in explaining code and identifying errors, 
+yet it also introduced risks such as reduced peer interaction, overreliance, and 
+diminished critical thinking. These observations led to a formal study in 
+collaboration with the Eindhoven School of Education, which confirmed that 
+while students used AI tools with apparent ease, the learning outcomes did not 
+necessarily improve.
+
+This experience underscored the need for a more nuanced approach: not whether 
+students should use AI, but how they can use it to enhance rather than replace 
+learning. I have since explored the integration of AI in my course and the 
+development of customised tutor-like chatbots—AI tools that ask questions, provide 
+feedback, and guide student reasoning without simply delivering answers. Ways in 
+which AI can be used to improve the learning experience of students and to 
+promote a deeper engagement with course material.
+
+In my role as ambassador within the Academy for Learning and Teaching, I aim to 
+bring together educators across disciplines to explore these possibilities. Our 
+goal is not to adopt AI uncritically, nor to reject it out of caution, but to 
+engage with it thoughtfully. As AI continues to evolve rapidly, we must continually 
+revisit its application in education, our learning objectives and assessment 
+strategies to ensure they remain aligned with authentic student learning objectives. 
+I warmly invite colleagues to share experiences, raise questions, and help shape a 
+responsible and future-oriented educational practice.
+
