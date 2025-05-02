@@ -543,8 +543,13 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/mdcbl_start/";
-            },},{id: "news-phd-defence-britt-cordewener-may-6-2025",
-          title: 'PhD Defence Britt Cordewener, May 6, 2025',
+            },},{id: "news-does-chatgpt-make-you-smarter-or-lazier-and-more-dependent-interview-with-cursor",
+          title: 'Does ChatGPT make you smarter? Or lazier and more dependent? Interview with Cursor...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/cursor_chatgpt/";
+            },},{id: "news-phd-defence-britt-cordewener",
+          title: 'PhD Defence Britt Cordewener',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/defence_britt/";
