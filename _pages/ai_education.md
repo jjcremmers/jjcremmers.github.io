@@ -2,6 +2,8 @@
 layout: page
 title: "AI in education"
 permalink: /ai_in_education/
+nav: true
+nav_order: 4
 related_publications: true
 ---
 
