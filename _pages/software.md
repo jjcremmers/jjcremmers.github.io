@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Software
 nav: true
 nav_order: 4
 dropdown: true
