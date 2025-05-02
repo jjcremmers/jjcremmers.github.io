@@ -1,9 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: Software
-nav: true
-nav_order: 4
+title: Repositories
 ---
 
 {% if site.data.repositories.github_users %}

@@ -12,19 +12,19 @@ profiles:
   - align: right
     image: remmers_photo.jpg
     content: about_remmers.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>J.J.C.Remmers@tue.nl</p>
   - align: left
     image: aarab_photo.jpg
     content: about_aarab.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>M.Aarab@tue.nl</p>
   - align: right
     image: schmeitz_photo.jpg
     content: about_schmeitz.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>M.Aarab@tue.nl</p>      
   - align: left
