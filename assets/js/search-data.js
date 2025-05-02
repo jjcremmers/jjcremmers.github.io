@@ -51,7 +51,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "dropdown-dawn",
+            },{id: "nav-ai-in-education",
+          title: "AI in education",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/ai_in_education/";
+          },
+        },{id: "dropdown-dawn",
               title: "Dawn",
               description: "",
               section: "Dropdown",
