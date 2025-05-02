@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='www.tue.nl'>Eindhoven University of Technology</a>
+subtitle: Associate Professor Composite Materials at <a href='www.tue.nl'>Eindhoven University of Technology</a>
 
 profile:
   align: right
@@ -40,3 +40,6 @@ Language Models can support programming education and enhance student learning p
 
 On this website, you can find more information about my [research projects](projects/), 
 the [courses](course/) I am involved in, and my broader initiatives in engineering education.
+
+INformation for (prospective)....
+[Bachelor students](msctheses)  [Master students](msctheses)    [PhD students](projects)
