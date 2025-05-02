@@ -3,8 +3,6 @@ layout: page
 title: Courses
 permalink: /courses/
 description: 
-nav: true
-nav_order: 4
 display_categories: [Bachelor, Master, Phd, Old]
 horizontal: false
 ---
