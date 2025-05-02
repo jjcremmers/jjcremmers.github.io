@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: Repositories
+title: Softare
 nav: true
 nav_order: 4
 ---
