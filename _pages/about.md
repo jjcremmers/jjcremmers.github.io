@@ -45,9 +45,9 @@ For more specific information for prospective students, industrial partners or e
 click one of the buttons below.
 
 <div class="fancy-button-group">
-  <a href="info/bachelorstudents" class="fancy-button">B.Sc. students</a>
-  <a href="info/masterstudents" class="fancy-button">M.Sc. students</a>
+  <a href="info/students" class="fancy-button">Students</a>
   <a href="info/phdstudents" class="fancy-button">Ph.D. students</a>
+  <a href="info/researchers" class="fancy-button">Researchers</a>  
   <a href="info/industry" class="fancy-button">Industry</a>  
   <a href="info/educators" class="fancy-button">Educators</a>    
 </div>
@@ -65,7 +65,7 @@ click one of the buttons below.
   flex: 1 1 150px;              /* Allows shrinking and growing */
   max-width: 200px;
   padding: 12px 28px;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: bold;
   background: linear-gradient(145deg, #007acc, #005f99);
   color: #fff;

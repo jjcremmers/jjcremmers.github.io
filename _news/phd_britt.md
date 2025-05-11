@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brtti Cordwener successfully defended her PhD Thesis.
+title: Britt Cordwener successfully defended her PhD Thesis.
 date: 2025-05-07 11:00-0400
 inline: false
 related_posts: false
