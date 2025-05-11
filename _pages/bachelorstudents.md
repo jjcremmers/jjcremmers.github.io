@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /info/bachelorstudents
-title: PyFEM
+title: Information for Bachelor students
 ---
 
 Information for Bachelor students
