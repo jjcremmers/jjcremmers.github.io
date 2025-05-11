@@ -42,9 +42,11 @@ On this website, you can find more information about my [research projects](proj
 the [courses](course/) I am involved in, and my broader initiatives in engineering education.
 
 <div class="fancy-button-group">
-  <a href="info/bachelorstudents" <button class="fancy-button" onclick="alert('You selected Option A')">Option A</button></a>
-  <button class="fancy-button" onclick="alert('You selected Option B')">Option B</button>
-  <button class="fancy-button" onclick="alert('You selected Option C')">Option C</button>
+  <a href="info/bachelorstudents" class="fancy-button">B.Sc. students</a>
+  <a href="info/masterstudents" class="fancy-button">M.Sc. students</a>
+  <a href="info/phdstudents" class="fancy-button">Ph.D. students</a>
+  <a href="info/industry" class="fancy-button">Industry</a>  
+  <a href="info/educators" class="fancy-button">Educators</a>    
 </div>
 
 <style>

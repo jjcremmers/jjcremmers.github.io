@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /info/education
-title: Information for educational leaders
+permalink: /info/educators
+title: Information for educators
 ---
 
 Information for educational leaders
