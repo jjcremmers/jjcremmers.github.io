@@ -41,5 +41,41 @@ Language Models can support programming education and enhance student learning p
 On this website, you can find more information about my [research projects](projects/), 
 the [courses](course/) I am involved in, and my broader initiatives in engineering education.
 
+<div class="fancy-button-group">
+  <a href="info/bachelorstudents" <button class="fancy-button" onclick="alert('You selected Option A')">Option A</button></a>
+  <button class="fancy-button" onclick="alert('You selected Option B')">Option B</button>
+  <button class="fancy-button" onclick="alert('You selected Option C')">Option C</button>
+</div>
+
+<style>
+.fancy-button-group {
+  display: flex;
+  gap: 15px;
+  margin: 2em 0;
+  justify-content: center;
+}
+
+.fancy-button {
+  padding: 12px 28px;
+  font-size: 16px;
+  font-weight: bold;
+  background: linear-gradient(145deg, #007acc, #005f99);
+  color: #fff;
+  border: none;
+  border-radius: 30px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+  transition: all 0.3s ease;
+  cursor: pointer;
+  letter-spacing: 0.5px;
+}
+
+.fancy-button:hover {
+  background: linear-gradient(145deg, #005f99, #007acc);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.25);
+}
+</style>
+
+
 INformation for (prospective)....
 [Bachelor students](msctheses)  [Master students](msctheses)    [PhD students](projects)
