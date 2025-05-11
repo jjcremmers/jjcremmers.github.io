@@ -75,6 +75,7 @@ the [courses](course/) I am involved in, and my broader initiatives in engineeri
   background: linear-gradient(145deg, #005f99, #007acc);
   transform: translateY(-2px);
   box-shadow: 0 8px 16px rgba(0,0,0,0.25);
+  color: #fff;
 }
 </style>
 

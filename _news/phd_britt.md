@@ -11,5 +11,5 @@ Last Tuesday, May 6, Britt Cordewener successfully defended her PhD Thesis. Cong
 ---
 
 <div>
-<iframe src="https://www.linkedin.com/feed/update/urn:li:activity:7325535375756570625/" height="456" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/feed/update/urn:li:activity:7325535375756570625/?collapsed=1" height="456" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </div>
