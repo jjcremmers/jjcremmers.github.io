@@ -546,8 +546,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/defence_britt/";
-            },},{id: "news-brtti-cordwener-successfully-defended-her-phd-thesis",
-          title: 'Brtti Cordwener successfully defended her PhD Thesis.',
+            },},{id: "news-britt-cordwener-successfully-defended-her-phd-thesis",
+          title: 'Britt Cordwener successfully defended her PhD Thesis.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/phd_britt/";
