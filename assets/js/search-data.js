@@ -37,15 +37,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "dropdown-msc-theses",
-              title: "MSc Theses",
+            },{id: "dropdown-bsc-theses",
+              title: "BSc Theses",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "dropdown-vacancies",
-              title: "Vacancies",
+            },{id: "dropdown-msc-theses",
+              title: "MSc Theses",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -631,6 +631,11 @@ ninja.data = [{
           description: "multiscale modulling of woven composites",
           section: "Projects",handler: () => {
               window.location.href = "/projects/multiscale_composites/";
+            },},{id: "projects-multiscale-computational-poromechanics",
+          title: 'Multiscale computational poromechanics',
+          description: "NWO Must",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/must/";
             },},{id: "projects-natural-fibre-composites",
           title: 'Natural fibre composites',
           description: "Study on the effecto of moisture",
