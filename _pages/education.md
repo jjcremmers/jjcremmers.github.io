@@ -8,9 +8,9 @@ children:
   - title: Courses
     permalink: /courses/
   - title: divider
-  - title: MSc Theses
-    permalink: /msctheses/ 
+  - title: BSc Theses
+    permalink: /bscthesis/     
   - title: divider
-  - title: Vacancies
-    permalink: /mscthesis/     
+  - title: MSc Theses
+    permalink: /mscthesis/    
 ---

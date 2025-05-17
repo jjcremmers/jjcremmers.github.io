@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Supervised MSc Theses"
+title: MSc Theses
 permalink: /mscthesis/
 ---
+
+Information on general Master thesis
 
 {% include bib_search.liquid %}
 
