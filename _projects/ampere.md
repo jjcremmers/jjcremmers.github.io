@@ -6,6 +6,8 @@ img: assets/img/12.jpg
 importance: 1
 category: am
 related_publications: true
+toc:
+  sidebar: left
 ---
 
 Every project has a beautiful feature showcase page.
@@ -60,6 +62,9 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
+## Section A
+
+Content for section A.
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
@@ -79,3 +84,13 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+
+
+
+## Section B
+
+Content for section B.
+
+## Section C
+
+Content for section C.
