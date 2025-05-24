@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Programming Project
-description: A Bachelor course
-img: assets/img/12.jpg
+description: Bachelor, Year 3
+img: assets/img/programming.png
 importance: 1
 category: Old
 ---

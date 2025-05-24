@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Experimental and Numerical Skills
-description: A Bachelor course
+description: 4MC00, Bachelor, Year 3
 img: assets/img/4mc00.jpg
 importance: 3
-category: Bachelor
+category: Old
 related_publications: true
 ---
 
@@ -14,5 +14,5 @@ related_publications: true
 | **Code**                   | 4MC00                                       |
 | **Level**                  | Bachelor, Year 3                            |
 | **Years**                  | 2015-2025                                 |
-| **Lecturers/Organisers**   | Johan Hoefnagels (coordinator), Martien Hulsen. Lambert van Breemen |
+| **Lecturers/Organisers**   | Johan Hoefnagels (coordinator), Martien Hulsen, Lambert van Breemen |
 | **Number of students**     | 16                                        |

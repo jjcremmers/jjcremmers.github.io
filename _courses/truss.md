@@ -2,7 +2,7 @@
 layout: page
 title: Truss Structure CBL course
 description: A Bachelor course
-img: assets/img/12.jpg
+img: assets/img/vakwerkcasus.png
 importance: 1
 category: Old
 related_publications: true
