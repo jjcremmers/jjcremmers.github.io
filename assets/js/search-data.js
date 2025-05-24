@@ -470,6 +470,11 @@ ninja.data = [{
           description: "Exploring applications of artificial intelligence in engineering.",
           section: "Courses",handler: () => {
               window.location.href = "/courses/course2/";
+            },},{id: "courses-dynamics",
+          title: 'Dynamics',
+          description: "Bachelor, Year 1, Delft University of Technology",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/dynamics/";
             },},{id: "courses-engineering-design",
           title: 'Engineering Design',
           description: "A second year CBL course for all students at TU/e",
@@ -477,7 +482,7 @@ ninja.data = [{
               window.location.href = "/courses/engineeringdesign/";
             },},{id: "courses-experimental-and-numerical-skills",
           title: 'Experimental and Numerical Skills',
-          description: "A Bachelor course",
+          description: "4MC00, Bachelor, Year 3",
           section: "Courses",handler: () => {
               window.location.href = "/courses/expnumskills/";
             },},{id: "courses-multi-disciplinary-cbl",
@@ -502,7 +507,7 @@ ninja.data = [{
               window.location.href = "/courses/principles/";
             },},{id: "courses-programming-project",
           title: 'Programming Project',
-          description: "A Bachelor course",
+          description: "Bachelor, Year 3",
           section: "Courses",handler: () => {
               window.location.href = "/courses/programming/";
             },},{id: "courses-scientific-computing",
@@ -510,6 +515,11 @@ ninja.data = [{
           description: "2015-",
           section: "Courses",handler: () => {
               window.location.href = "/courses/scientificcomputing/";
+            },},{id: "courses-statics",
+          title: 'Statics',
+          description: "Bachelor, Year 1, Delft University of Technology",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/statics/";
             },},{id: "courses-truss-structure-cbl-course",
           title: 'Truss Structure CBL course',
           description: "A Bachelor course",
