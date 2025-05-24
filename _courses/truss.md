@@ -8,7 +8,7 @@ category: Old
 related_publications: true
 ---
 
-
+https://www.youtube.com/watch?v=wnxKTK0R3Bc
 
 | **Course name**            | Truss Structure CBL course   |
 | **Code**                   | ?                                      |

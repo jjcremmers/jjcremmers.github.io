@@ -12,6 +12,8 @@ profile:
     <p>Eindhoven University of Technology</p>
     <p>Dept. Mechanical Engineering</p>    
     <p>Eindhoven, The Netherlands</p>
+    <p>Tel: +31 40 2473175</p>
+    <p>E-mail: J.J.C.Remmers@tue.nl<p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -24,14 +26,16 @@ announcements:
 
 Welcome to my personal website. I am an academic professional working at the intersection 
 of engineering education and research. My research focuses on the development of computational 
-models for the mechanical analysis of composite materials, the simulation of 3D printing 
-processes, and the application of high-performance computing techniques, including 
+models for the mechanical analysis of [composite materials](projects/#composites), 
+the simulation of [3D printing processes](projects/#additivemanufacturing), and the application of 
+[high-performance computing techniques](/projects/#hpc), including 
 reduced-order modeling.
 
 Alongside my research activities, I teach a variety of courses in these fields, 
-covering topics such as composite design, additive manufacturing, and computational 
-methods. I am also actively involved in the development and organization of several 
-multidisciplinary Challenge-Based Learning (CBL) courses, aiming to equip students with 
+covering topics such as [composite design](courses/composites/), [additive manufacturing](courses/additivemanufacturing), 
+and [computational methods](courses/scientifcomputing). I am also actively involved in the 
+development and organization of several 
+[Multidisciplinary Challenge-Based Learning (CBL)](courses/mdcbl) courses, aiming to equip students with 
 skills that bridge theory and practice across disciplines.
 
 In addition to my research and teaching, I have a particular interest in the role of 
