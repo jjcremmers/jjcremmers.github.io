@@ -1,10 +1,8 @@
 ---
 layout: page
-permalink: /pyfem/
-title: PyFEM
+permalink: /foodfestival/
+title: Foodfestival
 ---
-
-The pyfem finite element package
 
 During the COVID-19 lockdowns, when it was no longer possible to meet in person on 
 campus, our research group found a creative way to stay connected: we launched a 
