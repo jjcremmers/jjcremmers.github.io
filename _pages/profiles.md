@@ -2,9 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: members of the research group
-nav: true
-nav_order: 7
+description: Current and former members of the research group
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -62,5 +60,29 @@ profiles:
     content: about_jin.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>J.Wen@tue.nl</p>                                       
+      <p>J.Wen@tue.nl</p>      
+  - align: right
+    image: remij_photo.jpg
+    content: about_remij.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>...</p>        
+  - align: right
+    image: irani_photo.jpg
+    content: about_irani.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>...</p>                                        
+  - align: right
+    image: hosseini_photo.jpg
+    content: about_hosseini.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>...</p>      
+  - align: right
+    image: irzal_photo.jpg
+    content: about_irzal.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>...</p>        
 ---
