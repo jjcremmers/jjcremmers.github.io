@@ -1,56 +1,68 @@
 ---
 layout: default
-title: Scroll Demo
+title: Apple Style Scroll
 permalink: /scroll/
 custom_css: scroll.css
-custom_js: scroll.js
 ---
 
-<div id="scroll-container">
-  <section class="panel intro">
-    <h1>Welcome</h1>
-    <p>This is a scroll-driven animation page.</p>
-  </section>
+<!-- Hero Section -->
+<section class="panel hero">
+  <img src="/assets/img/product-hero.jpg" alt="Product Hero">
+  <div class="overlay-text">
+    <h1>Introducing the Future</h1>
+    <p>Sleek. Smart. Stunning.</p>
+  </div>
+</section>
 
-  <section class="panel pinned-section">
-    <div class="pinned-text">
-      <h2>Scroll to Discover</h2>
-      <p>This text stays while you scroll past other content.</p>
-    </div>
-  </section>
+<!-- Pinned Image Section -->
+<section class="panel pin-section">
+  <div class="pin-image-container">
+    <img src="/assets/img/product-angle.jpg" id="pin-image" alt="Product View">
+  </div>
+  <div class="text-sequence">
+    <div class="text-box">Ultra-lightweight titanium design</div>
+    <div class="text-box">Brilliant Retina display with 120Hz refresh</div>
+    <div class="text-box">Battery life that adapts to your day</div>
+  </div>
+</section>
 
-  <section class="panel feature">
-    <h2>Feature One</h2>
-    <p>Engaging visuals and motion bring the content to life.</p>
-  </section>
+<!-- Feature Sections -->
+<section class="panel feature" style="background:#fafafa">
+  <img src="/assets/img/product-feature1.jpg" alt="Feature 1">
+  <h2>Crystal Clear Audio</h2>
+  <p>Immersive stereo speakers that redefine portable sound.</p>
+</section>
 
-  <section class="panel feature">
-    <h2>Feature Two</h2>
-    <p>Scroll-based animations feel intuitive and immersive.</p>
-  </section>
+<section class="panel feature" style="background:#f0f0f0">
+  <img src="/assets/img/product-feature2.jpg" alt="Feature 2">
+  <h2>Secure & Fast</h2>
+  <p>Unlock with Face ID and experience lightning-fast performance.</p>
+</section>
 
-  <section class="panel outro">
-    <h2>That's It!</h2>
-    <p>You've reached the end of the scroll experience.</p>
-  </section>
-</div>
+<!-- Outro -->
+<section class="panel outro">
+  <h2>Ready to Experience It?</h2>
+  <p>Scroll back or click below to learn more.</p>
+  <a href="/" class="btn">Go to Home</a>
+</section>
 
-<!-- Load GSAP via CDN -->
+<!-- Scripts -->
 <script src="https://cdn.jsdelivr.net/npm/gsap@3/dist/gsap.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/gsap@3/dist/ScrollTrigger.min.js"></script>
-
-<!-- Your custom scroll animation -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   gsap.registerPlugin(ScrollTrigger);
 
-  gsap.utils.toArray(".panel").forEach((panel, i) => {
-    gsap.from(panel, {
+  // Animate text boxes in sequence during pin
+  gsap.utils.toArray(".text-box").forEach((box, i) => {
+    gsap.from(box, {
       scrollTrigger: {
-        trigger: panel,
-        start: "top 80%",
-        end: "bottom 60%",
+        trigger: box,
+        containerAnimation: null,
+        start: "top center+=" + i * 100,
+        end: "bottom center+=" + (i + 1) * 100,
         scrub: true,
+        toggleActions: "play none none reverse"
       },
       opacity: 0,
       y: 50,
@@ -58,13 +70,16 @@ document.addEventListener("DOMContentLoaded", function () {
     });
   });
 
+  // Pin image while text scrolls
   ScrollTrigger.create({
-    trigger: ".pinned-section",
+    trigger: ".pin-section",
     start: "top top",
-    end: "+=100%",
-    pin: true,
+    end: "+=150%",
+    pin: ".pin-image-container",
     pinSpacing: true
   });
 });
 </script>
+
+
 
