@@ -638,6 +638,11 @@ ninja.data = [{
           description: "Machine learning to optimise 3D print processes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ctrlp/";
+            },},{id: "projects-ctrl-p",
+          title: 'Ctrl-P',
+          description: "Machine learning to optimise 3D print processes 2",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ctrlp2/";
             },},{id: "projects-high-performance-computing-for-composites",
           title: 'High Performance Computing for Composites',
           description: "Multiscale analysis of mechanical behaviour of composites",
