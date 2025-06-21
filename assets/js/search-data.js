@@ -638,8 +638,8 @@ ninja.data = [{
           description: "Machine learning to optimise 3D print processes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ctrlp/";
-            },},{id: "projects-ctrl-p",
-          title: 'Ctrl-P',
+            },},{id: "projects-ctrl-p2",
+          title: 'Ctrl-P2',
           description: "Machine learning to optimise 3D print processes 2",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ctrlp2/";
