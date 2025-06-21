@@ -8,7 +8,7 @@ toc:
 
 Information for Bachelor and Master students
 
-# Bachelor students
+## Bachelor students
 
 ## Master students
 

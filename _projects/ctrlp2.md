@@ -5,7 +5,6 @@ description: Machine learning to optimise 3D print processes 2
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
 ---
 
 # Beat the AI Agent: Hand‑Crafted Fill Strategies vs. RL Fill Agent
@@ -31,11 +30,18 @@ choose each move strategically, beating zigzag on new shapes by using significan
 fewer moves and avoiding needless backtracking—while simpler, handcrafted rules (spirals, 
 edge-following, etc.) have yet to be explored.
 
-| AI Agent Path | Zigzag Pattern Path |
-|:-------------:|:-------------------:|
-| ![AI Agent Path](./assets/AI_path.gif) | ![Zigzag Path](./assets/ZigZag_path.gif) |
-**Video 1.** The zigzag approach must be toggled on and off to fill the path, whereas 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/AI_path.gif" title="AI path" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/ZigZag_path.gif" title="ZigZag path" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+The zigzag approach must be toggled on and off to fill the path, whereas 
 our AI Agent completes the entire shape in one continuous pass.
+</div>
 
 ## Research Challenge
 
