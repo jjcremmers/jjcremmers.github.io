@@ -645,11 +645,6 @@ ninja.data = [{
           description: "Machine learning to optimise 3D print processes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ctrlp/";
-            },},{id: "projects-ctrl-p2",
-          title: 'Ctrl-P2',
-          description: "Machine learning to optimise 3D print processes 2",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/ctrlp2/";
             },},{id: "projects-high-performance-computing-for-composites",
           title: 'High Performance Computing for Composites',
           description: "Multiscale analysis of mechanical behaviour of composites",
@@ -695,6 +690,11 @@ ninja.data = [{
           description: "Accutate models of FFF printing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vlaio/";
+            },},{id: "studentprojects-ctrl-p2",
+          title: 'Ctrl-P2',
+          description: "Machine learning to optimise 3D print processes 2",
+          section: "Studentprojects",handler: () => {
+              window.location.href = "/studentprojects/ctrlp2/";
             },},{
         id: 'social-email',
         title: 'email',
