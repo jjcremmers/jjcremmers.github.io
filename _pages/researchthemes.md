@@ -31,7 +31,7 @@ increased ductility.
 </div>
 
 
-## Addtive Manufacturing
+## Additive Manufacturing
 
 Additive Manufacturing (or 3D printing) is a technique to produce unique products with 
 complex geometries. Due to new innovations in printing concepts and material systems, 
@@ -96,6 +96,17 @@ in order to create a network of fractures.
 
 
 ## AI in Education
+
+My interest in AI in education began in 2022 while preparing my Scientific Computing course. 
+Early experiments with ChatGPT showed both promise and pitfalls—improved explanation and 
+debugging, but also reduced peer interaction and critical thinking. This led to a formal 
+study with the Eindhoven School of Education, revealing that while students used AI tools 
+easily, learning outcomes did not always improve. Since then, I have focused on researching 
+effective AI integration in teaching, including tutor-like chatbots that prompt reasoning 
+rather than give answers. I invite colleagues to explore how AI can truly support, not substitute, 
+meaningful student learning.
+
+More information [here](/ai_in_education).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

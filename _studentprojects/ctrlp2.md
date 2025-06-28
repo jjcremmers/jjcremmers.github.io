@@ -32,15 +32,15 @@ edge-following, etc.) have yet to be explored.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/AI_path.gif" title="AI path" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ZigZag_path.gif" title="ZigZag path" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ZigZag_path.gif" title="ZigZag path" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/AI_path.gif" title="AI path" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-The zigzag approach must be toggled on and off to fill the path, whereas 
-our AI Agent completes the entire shape in one continuous pass.
+The zigzag approach must be toggled on and off to fill the path (left), whereas 
+our AI Agent completes the entire shape in one continuous pass (right).
 </div>
 
 ## Research Challenge
@@ -80,13 +80,4 @@ sweeps, boundary tracing, or region partitioning.
 - **[DRL for Toolpath Optimization in LPBF](https://doi.org/10.1016/j.addma.2023.103937)**
 - **[RL for Thermal Control in Metal Printing](https://arxiv.org/abs/2102.03355)**
 - **[Automated Toolpath Design](https://arxiv.org/abs/2009.14365)**
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
 
