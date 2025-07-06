@@ -2,7 +2,7 @@
 layout: about
 title: About
 description: "An overview of my current and past research projects in computational materials."
-permalink: /about/
+permalink: /
 subtitle: Associate Professor Composite Materials at <a href='www.tue.nl'>Eindhoven University of Technology</a>
 
 profile:
