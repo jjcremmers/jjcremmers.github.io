@@ -1,7 +1,7 @@
 ---
 layout: none
 permalink: /home/
-description: "An overview of my current and past research projects in computational materials."
+description: An overview of my current and past research projects in computational materials.
 ---
 
 <!DOCTYPE html>
