@@ -187,3 +187,11 @@
 {% if page.tikzjax %}
   <link defer rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
 {% endif %}
+
+{% if page.description %}
+  <meta name="description" content="{{ page.description | escape }}">
+  <meta property="og:description" content="{{ page.description | escape }}">
+{% else %}
+  <meta name="description" content="Default site description here.">
+  <meta property="og:description" content="Default site description here.">
+{% endif %}
