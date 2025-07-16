@@ -1,12 +1,22 @@
 ---
 layout: page
-title: Hydrogen tank
-description: Muliscale modelling of the long term behaviour of composites
+title: The impact behavior of thick-walled composite-overwrapped pressure vessels
+description: BMW
 img: assets/img/bmw_tank.jpg
-importance: 1
+importance: 7
 category: composites
 related_publications: true
 ---
+
+
+| **Project**            | The impact behavior of thick-walled composite-overwrapped pressure vessels |
+| **Funding**            | BMW Forschungs- und Innovationszentrum |
+| **Years**              | 2017-2021                                  |
+| **PhD-candidate**      | Ruben Weerts  |
+| **Supervisors**        | Joris Remmers, Olivier Cousigne |
+
+
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

@@ -1,12 +1,19 @@
 ---
 layout: page
-title: ProTechTion 
-description: multiscale modulling of woven composites       
+title:    Multiscale modulling of woven composites   
+description:    ProTechTion
 img: assets/img/4mm00.jpg
 importance: 1
 category: composites
 related_publications: true
 ---
+
+| **Project**            | ProTechTion: Robust modelling of 3D composite materials for aeronautical applications |
+| **Funding**            | Horizon 2020 research and innovation programme |
+| **Years**              | 2019-2024                                  |
+| **PhD-candidate**      | Anqi Li   |
+| **Supervisors**        | Marc Geers, Thierry Massart, Joris Remmers |
+| **Collaborators**      | Universite Libre Bruxelles, SONACA |
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
