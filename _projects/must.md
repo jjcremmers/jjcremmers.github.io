@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Multiscale computational poromechanics
-description: NWO Must
+title:  MuST
+description: Multiscale computational poromechanics
 img: assets/img/must.jpg
 importance: 1
 category: work
@@ -65,6 +65,13 @@ the project exemplifies how fundamental modeling can lead to unexpected
 insights and real-world impact across multiple fields.
 
 ## Project details
+
+| **Project**            | MuST: Multiscale computational poromechanics |
+| **Funding**            | NWO |
+| **Years**              | 2010-2014                                   |
+| **PhD-candidate**      | Faisal Irzal    |
+| **Supervisors**        | Jacques Huyghe, Joris Remmers, Rene de Borst |
+| **Collaborators**      | P&G |
 
 ## More information
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title:    Multiscale modulling of woven composites   
-description:    ProTechTion
+title:   ProTechTion       
+description:   Multiscale modulling of woven composites 
 img: assets/img/4mm00.jpg
 importance: 1
 category: composites

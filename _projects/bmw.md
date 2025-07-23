@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The impact behavior of thick-walled composite-overwrapped pressure vessels
-description: BMW
+title: Impact
+description: Impact behavior of thick-walled composite-overwrapped pressure vessels
 img: assets/img/bmw_tank.jpg
 importance: 7
 category: composites

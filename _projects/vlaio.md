@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TESCO
-description: Accutate models of FFF printing
+description: Accutate models for FFF printing
 img: assets/img/12.jpg
 importance: 1
 category: am

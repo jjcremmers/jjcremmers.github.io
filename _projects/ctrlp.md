@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Machine learning to optimise 3D print processes
-description: Ctrl-P
+title:  Ctrl-P 
+description: Machine learning to optimise 3D print processes
 img: assets/img/12.jpg
 importance: 1
 category: am

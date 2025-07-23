@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Muliscale modelling of the long term behaviour of composites
-description: Composites under extreme conditions.
+title: Extreme composites
+description: Muliscale modelling of the long term behaviour of composites in harsh conditions
 img: assets/img/4mm00.jpg
 importance: 1
 category: composites

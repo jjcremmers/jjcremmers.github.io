@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Computational models for sintered ceramics
-description: AMAZING
+title: AMAZING
+description: Computational models for sintered ceramics
 img: assets/img/12.jpg
 importance: 1
 category: ceramics

@@ -1,12 +1,24 @@
 ---
 layout: page
-title: Maaximus               
+title: MAAXIMUS              
 description: Isogeometric models for thin walled structures
 img: assets/img/maaximus_logo.jpg
 importance: 1
 category: composites
 related_publications: true
 ---
+
+
+| **Project**            | MAAXIMUS |
+| **Funding**            | H2020 |
+| **Years**              | 2008-2012                                   |
+| **PhD Candidate**      | Saman Hosseini     |
+| **Supervisors**        | Joris Remmers, Clemens Verhoosel, Rene de Borst |
+| **Collaborators**      | Airbus, NLR (a.o.) |
+
+
+
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

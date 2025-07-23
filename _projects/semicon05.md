@@ -1,7 +1,7 @@
 ---
 layout: page
-title: multi-physics, accurate simulation of VAT Photopolymerisation processes
-description: Semicon05  
+title:  Semicon05
+description:    Multi-physics, accurate simulation of VAT Photopolymerisation processes
 img: assets/img/12.jpg
 importance: 1
 category: am
