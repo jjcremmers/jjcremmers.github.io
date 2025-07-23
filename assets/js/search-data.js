@@ -620,64 +620,64 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "projects-computational-models-for-sintered-ceramics",
-          title: 'Computational models for sintered ceramics',
-          description: "AMAZING",
+            },},{id: "projects-amazing",
+          title: 'AMAZING',
+          description: "Computational models for sintered ceramics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/amazing/";
-            },},{id: "projects-fast-simulation-of-photo-polymerisation-processes",
-          title: 'Fast simulation of photo-polymerisation processes',
-          description: "AMPERE",
+            },},{id: "projects-ampere",
+          title: 'AMPERE',
+          description: "Fast simulation of photo-polymerisation processes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ampere/";
-            },},{id: "projects-the-impact-behavior-of-thick-walled-composite-overwrapped-pressure-vessels",
-          title: 'The impact behavior of thick-walled composite-overwrapped pressure vessels',
-          description: "BMW",
+            },},{id: "projects-impact",
+          title: 'Impact',
+          description: "Impact behavior of thick-walled composite-overwrapped pressure vessels",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bmw/";
-            },},{id: "projects-muliscale-modelling-of-the-long-term-behaviour-of-composites",
-          title: 'Muliscale modelling of the long term behaviour of composites',
-          description: "Composites under extreme conditions.",
+            },},{id: "projects-extreme-composites",
+          title: 'Extreme composites',
+          description: "Muliscale modelling of the long term behaviour of composites in harsh conditions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/composite_PVDF/";
-            },},{id: "projects-machine-learning-to-optimise-3d-print-processes",
-          title: 'Machine learning to optimise 3D print processes',
-          description: "Ctrl-P",
+            },},{id: "projects-ctrl-p",
+          title: 'Ctrl-P',
+          description: "Machine learning to optimise 3D print processes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ctrlp/";
-            },},{id: "projects-deposition-of-metal-powder-for-3d-printing",
-          title: 'Deposition of metal powder for 3D printing',
-          description: "DIPMET",
+            },},{id: "projects-dipmet",
+          title: 'DIPMET',
+          description: "Deposition of metal powder for 3D printing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dipmet/";
-            },},{id: "projects-high-performance-computing-for-composites",
-          title: 'High Performance Computing for Composites',
-          description: "LIGHTer",
+            },},{id: "projects-lighter",
+          title: 'LIGHTer',
+          description: "High Performance Computing for Composites",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hpc_composites/";
-            },},{id: "projects-multi-physics-simulations-for-faiure-in-conductive-materials",
-          title: 'Multi-physics simulations for faiure in conductive materials',
-          description: "LEE-BED",
+            },},{id: "projects-lee-bed",
+          title: 'LEE-BED',
+          description: "Multi-physics simulations for faiure in conductive materials",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lee-bed/";
             },},{id: "projects-maaximus",
-          title: 'Maaximus',
+          title: 'MAAXIMUS',
           description: "Isogeometric models for thin walled structures",
           section: "Projects",handler: () => {
               window.location.href = "/projects/maaximus/";
-            },},{id: "projects-production-of-metal-powder",
-          title: 'Production of Metal Powder',
-          description: "METPAM",
+            },},{id: "projects-metpam",
+          title: 'METPAM',
+          description: "Production of Metal Powder",
           section: "Projects",handler: () => {
               window.location.href = "/projects/metpam/";
-            },},{id: "projects-multiscale-modulling-of-woven-composites",
-          title: 'Multiscale modulling of woven composites',
-          description: "ProTechTion",
+            },},{id: "projects-protechtion",
+          title: 'ProTechTion',
+          description: "Multiscale modulling of woven composites",
           section: "Projects",handler: () => {
               window.location.href = "/projects/multiscale_composites/";
-            },},{id: "projects-multiscale-computational-poromechanics",
-          title: 'Multiscale computational poromechanics',
-          description: "NWO Must",
+            },},{id: "projects-must",
+          title: 'MuST',
+          description: "Multiscale computational poromechanics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/must/";
             },},{id: "projects-natural-fibre-composites",
@@ -685,14 +685,19 @@ ninja.data = [{
           description: "Study on the effecto of moisture",
           section: "Projects",handler: () => {
               window.location.href = "/projects/natural_composites/";
-            },},{id: "projects-multi-physics-accurate-simulation-of-vat-photopolymerisation-processes",
-          title: 'multi-physics, accurate simulation of VAT Photopolymerisation processes',
-          description: "Semicon05",
+            },},{id: "projects-semicon05",
+          title: 'Semicon05',
+          description: "Multi-physics, accurate simulation of VAT Photopolymerisation processes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/semicon05/";
-            },},{id: "projects-efficient-simulation-of-contact-for-biomedical-applications",
-          title: 'Efficient simulation of contact for biomedical applications',
-          description: "TASTI",
+            },},{id: "projects-shawave",
+          title: 'SHAWave',
+          description: "Efficient analysis of wave propgation in shallow subsurfaces",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/shawave/";
+            },},{id: "projects-tasti",
+          title: 'TASTI',
+          description: "Efficient simulation of contact for biomedical applications",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tasti/";
             },},{id: "projects-numerical-simulation-of-fff-printing-processes",
@@ -705,14 +710,14 @@ ninja.data = [{
           description: "UPSIM",
           section: "Projects",handler: () => {
               window.location.href = "/projects/upsim/";
-            },},{id: "projects-accurate-vat-photopolymerisation",
-          title: 'Accurate VAT Photopolymerisation',
-          description: "with background image",
+            },},{id: "projects-ceramic-printing",
+          title: 'Ceramic printing',
+          description: "Accurate VAT Photopolymerisation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vat/";
             },},{id: "projects-tesco",
           title: 'TESCO',
-          description: "Accutate models of FFF printing",
+          description: "Accutate models for FFF printing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vlaio/";
             },},{id: "studentprojects-ctrl-p2",
