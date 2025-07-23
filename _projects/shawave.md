@@ -13,7 +13,7 @@ related_publications: true
 | **Years**              | 2023-                                   |
 | **PhD Candidates**     | Maarten Hodzelmans       |
 | **Supervisors**        | Clemens Verhoosel, Joris Remmers |
-| **Collaborator**       | University of Twente |
+| **Collaborators**       | University of Twente, KNMI |
 
 
 
