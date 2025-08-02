@@ -93,6 +93,24 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/silhouette_F.jpg" class="img-fluid rounded shadow-sm" alt="Jin Wen">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.tue.nl/en/research/researchers/jin-wen">Jin Wen</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/dipmet/">DIPMET</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2023-</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
      <img src="/assets/img/thuy_photo.jpg" class="img-fluid rounded shadow-sm" alt="Dennis Thuy">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
@@ -106,6 +124,42 @@ PhD students currently in my group.
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
             <td>2021-</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/babbepalliy_photo.jpg" class="img-fluid rounded shadow-sm" alt="Phani-Ram Babbepalli">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.tue.nl/en/research/researchers/phaniram-babbepalli">Phani-Ram Babbepalli</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/tast/">TASTI</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2021-</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/timmermans_photo.jpg" class="img-fluid rounded shadow-sm" alt="Anne Timmermans">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.tue.nl/en/research/researchers/anne-timmermans">Anne Timmermans</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/leebed/">LEE-BED</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2024-</td>
           </tr>
         </tbody>
       </table>
@@ -133,6 +187,294 @@ PhD students currently in my group.
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
             <td>2020-2025</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/lenders_photo.jpg" class="img-fluid rounded shadow-sm" alt="Tom Lenders">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.linkedin.com/in/tomlenders/">Tom Lenders</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/leebed/">LEE-BED</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2020-2025</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/li_photo.jpg" class="img-fluid rounded shadow-sm" alt="Anqi Li">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.linkedin.com/in/anqi2024/">Anqi Li</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/leebed/">Matel3D</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2018-2023</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/shi_photo.jpg" class="img-fluid rounded shadow-sm" alt="Hao Shi">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.linkedin.com/in/haoshi-nl/">Hao Shi</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/leebed/">Matel3D</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2018-2023</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/dorussen_photo.jpg" class="img-fluid rounded shadow-sm" alt="Bram Dorussen">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.linkedin.com/in/bramdorussen/">Bram Dorussen</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/leebed/">Metal3D</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2018-2023</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/bergkamp_photo.jpg" class="img-fluid rounded shadow-sm" alt="Elisa Bergkamp">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.linkedin.com/in/elisabergkamp/">Elisa Bergkamp</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/leebed/">LEE-BED</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2017-2022</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/pini_photo.jpg" class="img-fluid rounded shadow-sm" alt="Tommaso Pini">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.linkedin.com/in/tommaso-pini/">Tommaso Pini</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/leebed/">LEE-BED</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2020-2025</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/weerts_photo.jpg" class="img-fluid rounded shadow-sm" alt="Ruben Weerts">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.linkedin.com/in/rubenweerts/">Ruben Weerts</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/leebed/">LEE-BED</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2028-2021</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/westbeek_photo.jpg" class="img-fluid rounded shadow-sm" alt="Steyn Westbeek">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.linkedin.com/in/steynwestbeek/">Steyn Westbeek</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/amsystems/">Ceramics</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2016-2020</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/vantuijl_photo.jpg" class="img-fluid rounded shadow-sm" alt="Rody van Tuijl">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.linkedin.com/in/rody-van-tuijl/">Rody van Tuijl</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/leebed/">LEE-BED</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2015-2019</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/valliappan_photo.jpg" class="img-fluid rounded shadow-sm" alt="Valliappan Valliappan">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.researchgate.net/profile/Valliappan-Valliappan-2">Valliappan Valliappan</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/leebed/">LEE-BED</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2015-2019</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/schormans_photo.jpg" class="img-fluid rounded shadow-sm" alt="Jim Schormans">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.linkedin.com/in/jim-schormans-3a482a46/">Jim Schormans</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/leebed/">LEE-BED</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2020-2025</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/ding_photo.jpg" class="img-fluid rounded shadow-sm" alt="Jingqian Ding">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.linkedin.com/in/jingqianding">Jingqian Ding</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/leebed/">LEE-BED</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2020-2025</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/remij_photo.jpg" class="img-fluid rounded shadow-sm" alt="Ernst Remij">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.linkedin.com/in/ernst-remij-00a22a6b/">Ernst Remij</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/leebed/">LEE-BED</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2013-2017</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/nilgoon_photo.jpg" class="img-fluid rounded shadow-sm" alt="Nilgoon Irani">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.linkedin.com/in/nilgoonirani/">Nilgoon Irani</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/dislocations/">Dislocations</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2011-2016</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/hosseini_photo.jpg" class="img-fluid rounded shadow-sm" alt="Saman Hosseini">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.linkedin.com/in/saman-hosseini-8046a363/">Saman Hosseini</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/maaximus/">MAAXIMUS</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2010-2014</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/hosseini_photo.jpg" class="img-fluid rounded shadow-sm" alt="Faisal Irzal">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://www.linkedin.com/in/firzal/">Faisal Irzal</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/must/">MuST</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2009-2013</td>
           </tr>
         </tbody>
       </table>
