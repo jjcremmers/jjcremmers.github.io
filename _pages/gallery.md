@@ -8,6 +8,8 @@ toc:
 
 ## Current
 
+PhD students currently in my group.
+
 <div class="container">
   <div class="row">
     <div class="col-md-4 col-12 mb-4 text-center">
@@ -55,7 +57,7 @@ toc:
           </tr>         
           <tr>
             <td><strong>Project</strong></td>
-            <td>Ctrl-P</td>
+            <td><a href="/projects/ctrlp/">Ctrl-P</a>Ctrl-P</td>
           </tr>
           <tr>
             <td><strong>Years:</strong></td>
@@ -69,7 +71,7 @@ toc:
 
 ## Affiliated
 
-Some text
+PhD candidates and PostDocs that I collaborate with.
 
 <div class="container">
   <div class="row">
@@ -168,7 +170,7 @@ Some text
 
 ## Former 
 
-Some text
+Former PhD students and Postdocs
 
 <div class="container">
   <div class="row">
@@ -190,6 +192,25 @@ Some text
         </tbody>
       </table>
     </div>
+    
+    <div class="col-md-4 col-12 mb-4 text-center">
+      <img src="/assets/img/borjesson_photo.jpg" class="img-fluid rounded shadow-sm" alt="Elias Borjesson">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td><strong>Elias Borjesson</strong></td>
+          </tr>         
+          <tr>
+            <td><strong>Project</strong></td>
+            <td>Ctrl-P</td>
+          </tr>
+          <tr>
+            <td><strong>Years:</strong></td>
+            <td>2024-</td>
+          </tr>          
+        </tbody>
+      </table>
+    </div>    
     
     <div class="col-md-4 col-12 mb-4 text-center">
       <img src="/assets/img/pini_photo.jpg" class="img-fluid rounded shadow-sm" alt="Image 1">
