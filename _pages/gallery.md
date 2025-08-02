@@ -10,19 +10,19 @@ permalink: /gallery/
   <div class="row">
     <div class="col-md-4 col-12 mb-4 text-center">
       <img src="/assets/img/remmers_photo.jpg" class="img-fluid rounded shadow-sm" alt="Image 1">
-<table class="table table-sm mt-2">
+<table class="table table-sm mt-2" style="text-align: left;">
   <tbody>
     <tr>
-      <td class="text-start"><strong>Label 1</strong></td>
-      <td class="text-start">Value 1</td>
+      <td><strong>Label 1</strong></td>
+      <td>Value 1</td>
     </tr>
     <tr>
-      <td class="text-start"><strong>Label 2</strong></td>
-      <td class="text-start">Value 2</td>
+      <td><strong>Label 2</strong></td>
+      <td>Value 2</td>
     </tr>
     <tr>
-      <td class="text-start"><strong>Label 3</strong></td>
-      <td class="text-start">Value 3</td>
+      <td><strong>Label 3</strong></td>
+      <td>Value 3</td>
     </tr>
   </tbody>
 </table>
