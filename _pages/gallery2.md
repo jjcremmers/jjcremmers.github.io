@@ -79,7 +79,7 @@ PhD students currently in my group.
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
-            <td colspan="2"><strong><a href="https://www.tue.nl/en/research/researchers/maarten-hodzelmans">Maarten Hodzelmans</a></strong></td>
+            <td colspan="2"><strong><a href="https://research.tue.nl/nl/persons/maarten-m-hodzelmans">Maarten Hodzelmans</a></strong></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
@@ -93,11 +93,11 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/silhouette_F.jpg" class="img-fluid rounded shadow-sm" alt="Jin Wen">
+     <img src="/assets/img/silhouette_F.jpg" class="img-fluid rounded shadow-sm" alt="Wen Jin">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
-            <td colspan="2"><strong><a href="https://www.tue.nl/en/research/researchers/jin-wen">Jin Wen</a></strong></td>
+            <td colspan="2"><strong><a href="https://www.tue.nl/en/research/researchers/wen-jin">Wen Jin</a></strong></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
@@ -129,11 +129,11 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/babbepalliy_photo.jpg" class="img-fluid rounded shadow-sm" alt="Phani-Ram Babbepalli">
+     <img src="/assets/img/babbepalli_photo.jpg" class="img-fluid rounded shadow-sm" alt="Phani-Ram Babbepalli">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
-            <td colspan="2"><strong><a href="https://www.tue.nl/en/research/researchers/phaniram-babbepalli">Phani-Ram Babbepalli</a></strong></td>
+            <td colspan="2"><strong><a href="https://www.tue.nl/en/research/researchers/phani-ram-babbepalli">Phani-Ram Babbepalli</a></strong></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
@@ -210,7 +210,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/li_photo.jpg" class="img-fluid rounded shadow-sm" alt="Anqi Li">
+     <img src="/assets/img/silhouette_F.jpg" class="img-fluid rounded shadow-sm" alt="Anqi Li">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
@@ -264,7 +264,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/bergkamp_photo.jpg" class="img-fluid rounded shadow-sm" alt="Elisa Bergkamp">
+     <img src="/assets/img/silhouette_F.jpg" class="img-fluid rounded shadow-sm" alt="Elisa Bergkamp">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
@@ -282,7 +282,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/pini_photo.jpg" class="img-fluid rounded shadow-sm" alt="Tommaso Pini">
+     <img src="/assets/img/silhouette.jpg" class="img-fluid rounded shadow-sm" alt="Tommaso Pini">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
@@ -300,7 +300,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/weerts_photo.jpg" class="img-fluid rounded shadow-sm" alt="Ruben Weerts">
+     <img src="/assets/img/silhouette.jpg" class="img-fluid rounded shadow-sm" alt="Ruben Weerts">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
@@ -336,7 +336,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/vantuijl_photo.jpg" class="img-fluid rounded shadow-sm" alt="Rody van Tuijl">
+     <img src="/assets/img/silhouette.jpg" class="img-fluid rounded shadow-sm" alt="Rody van Tuijl">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
@@ -354,7 +354,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/valliappan_photo.jpg" class="img-fluid rounded shadow-sm" alt="Valliappan Valliappan">
+     <img src="/assets/img/silhouette_F.jpg" class="img-fluid rounded shadow-sm" alt="Valliappan Valliappan">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
@@ -372,7 +372,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/schormans_photo.jpg" class="img-fluid rounded shadow-sm" alt="Jim Schormans">
+     <img src="/assets/img/silhouette.jpg" class="img-fluid rounded shadow-sm" alt="Jim Schormans">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
@@ -390,7 +390,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/ding_photo.jpg" class="img-fluid rounded shadow-sm" alt="Jingqian Ding">
+     <img src="/assets/img/silhouette_F.jpg" class="img-fluid rounded shadow-sm" alt="Jingqian Ding">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
@@ -426,7 +426,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/nilgoon_photo.jpg" class="img-fluid rounded shadow-sm" alt="Nilgoon Irani">
+     <img src="/assets/img/silhouette_F.jpg" class="img-fluid rounded shadow-sm" alt="Nilgoon Irani">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
@@ -444,7 +444,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/hosseini_photo.jpg" class="img-fluid rounded shadow-sm" alt="Saman Hosseini">
+     <img src="/assets/img/silhouette.jpg" class="img-fluid rounded shadow-sm" alt="Saman Hosseini">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
@@ -462,7 +462,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/hosseini_photo.jpg" class="img-fluid rounded shadow-sm" alt="Faisal Irzal">
+     <img src="/assets/img/silhouette.jpg" class="img-fluid rounded shadow-sm" alt="Faisal Irzal">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
