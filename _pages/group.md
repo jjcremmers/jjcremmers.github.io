@@ -6,7 +6,7 @@ nav_order: 7
 dropdown: true
 children:
   - title: People
-    permalink: /people/
+    permalink: /people2/
   - title: divider
   - title: Food Festival
     permalink: /foodfestival/        
