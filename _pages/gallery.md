@@ -17,14 +17,14 @@ PhD students currently in my group.
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
-            <td><strong>Nelson Sanchez</strong></td>
+            <td colspan="2"><strong>Nelson Sanchez Martinez</strong></td>
           </tr>
           <tr>
-            <td><strong>Project</strong></td>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
             <td>AMPERE</td>
           </tr>
           <tr>
-            <td><strong>Years:</strong></td>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
             <td>2021-</td>
           </tr>          
         </tbody>
@@ -35,14 +35,14 @@ PhD students currently in my group.
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
-            <td><strong>Marwan Aarab</strong></td>
+            <td colspan="2><strong>Marwan Aarab</strong></td>
           </tr>        
           <tr>
-            <td><strong>Project</strong></td>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
             <td>Semicon5</td>
           </tr>
           <tr>
-            <td><strong>Years:</strong></td>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
             <td>2024-</td>
           </tr>          
         </tbody>
@@ -53,14 +53,14 @@ PhD students currently in my group.
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
-            <td><strong>Ruben Schmeitz</strong></td>
+            <td colspan="2><strong>Ruben Schmeitz</strong></td>
           </tr>         
           <tr>
-            <td><strong>Project</strong></td>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
             <td><a href="/projects/ctrlp/">Ctrl-P</a>Ctrl-P</td>
           </tr>
           <tr>
-            <td><strong>Years:</strong></td>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
             <td>2024-</td>
           </tr>          
         </tbody>
