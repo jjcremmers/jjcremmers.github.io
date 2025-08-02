@@ -57,7 +57,7 @@ PhD students currently in my group.
           </tr>         
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/ctrlp/">Ctrl-P</a>Ctrl-P</td>
+            <td><a href="/projects/ctrlp/">Ctrl-P</a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
@@ -71,7 +71,7 @@ PhD students currently in my group.
 
 ## Affiliated
 
-PhD candidates and PostDocs that I collaborate with.
+PhD candidates and PostDocs that I co-supervise or collaborate with.
 
 <div class="container">
   <div class="row">
