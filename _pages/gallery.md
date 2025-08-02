@@ -35,7 +35,7 @@ PhD students currently in my group.
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
-            <td colspan="2><strong>Marwan Aarab</strong></td>
+            <td colspan="2"><strong>Marwan Aarab</strong></td>
           </tr>        
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
@@ -53,7 +53,7 @@ PhD students currently in my group.
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
-            <td colspan="2><strong>Ruben Schmeitz</strong></td>
+            <td colspan="2"><strong>Ruben Schmeitz</strong></td>
           </tr>         
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
