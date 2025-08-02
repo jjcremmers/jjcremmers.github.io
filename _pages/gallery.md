@@ -2,7 +2,8 @@
 layout: default
 title: Image Gallery
 permalink: /gallery/
-toc: true
+toc:
+  sidebar: left
 ---
 
 ## Current
@@ -65,7 +66,7 @@ Some text
       <p class="mt-2">Caption for Image 1</p>
     </div>
     <div class="col-md-3 col-12 mb-4 text-center">
-      <img src="/assets/img/remmers_photo.jpg" class="img-fluid rounded shadow-sm" alt="Image 2">
+      <img src="/assets/img/silhouette_F.jpg" class="img-fluid rounded shadow-sm" alt="Image 2">
       <p class="mt-2">Caption for Image 2</p>
     </div>
     <div class="col-md-3 col-12 mb-4 text-center">
