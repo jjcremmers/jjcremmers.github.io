@@ -2,10 +2,12 @@
 layout: default
 title: Image Gallery
 permalink: /gallery2/
+toc:
+  sidebar: left
 ---
 
 
-## Current
+## Current members
 
 PhD students currently in my group.
 
@@ -68,9 +70,9 @@ PhD students currently in my group.
   </div>
 </div>
 
-## Affiliated
+## Affiliated members
 
-PhD students currently in my group.
+PhD students and Post-Docs that I supervise or collaborate with.
 
 <div class="container">
   <div class="row">
@@ -167,9 +169,9 @@ PhD students currently in my group.
   </div>
 </div>
 
-## Previous
+## Former members
 
-PhD students currently in my group.
+Former PhD students and Post-Docs that I supervised or collaborated with.
 
 <div class="container">
   <div class="row">
@@ -282,7 +284,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/silhouette.jpg" class="img-fluid rounded shadow-sm" alt="Tommaso Pini">
+     <img src="/assets/img/silhouette_M.jpg" class="img-fluid rounded shadow-sm" alt="Tommaso Pini">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
@@ -300,7 +302,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/silhouette.jpg" class="img-fluid rounded shadow-sm" alt="Ruben Weerts">
+     <img src="/assets/img/silhouette_M.jpg" class="img-fluid rounded shadow-sm" alt="Ruben Weerts">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
@@ -336,7 +338,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/silhouette.jpg" class="img-fluid rounded shadow-sm" alt="Rody van Tuijl">
+     <img src="/assets/img/silhouette_M.jpg" class="img-fluid rounded shadow-sm" alt="Rody van Tuijl">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
@@ -372,7 +374,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/silhouette.jpg" class="img-fluid rounded shadow-sm" alt="Jim Schormans">
+     <img src="/assets/img/silhouette_M.jpg" class="img-fluid rounded shadow-sm" alt="Jim Schormans">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
@@ -444,7 +446,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/silhouette.jpg" class="img-fluid rounded shadow-sm" alt="Saman Hosseini">
+     <img src="/assets/img/silhouette_M.jpg" class="img-fluid rounded shadow-sm" alt="Saman Hosseini">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
@@ -462,7 +464,7 @@ PhD students currently in my group.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/silhouette.jpg" class="img-fluid rounded shadow-sm" alt="Faisal Irzal">
+     <img src="/assets/img/silhouette_M.jpg" class="img-fluid rounded shadow-sm" alt="Faisal Irzal">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>

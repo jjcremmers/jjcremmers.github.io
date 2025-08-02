@@ -1,0 +1,26 @@
+{"name": "Marwan Aarab", "link": "https://www.tue.nl/en/research/researchers/marwan-aarab", "pic": "aarab_photo.jpg", "project": "Semicon05", "plink": "semicon05", "years": "2024-", "stat": "curr" }
+{"name": "Ruben Schmeitz", "link": "https://www.tue.nl/en/research/researchers/ruben-schmeitz", "pic": "schmeitz_photo.jpg", "project": "Ctrl-P", "plink": "ctrlp", "years": "2024-", "stat": "curr" }
+{"name": "Nelson Sanchez Martinez", "link": "https://research.tue.nl/en/persons/nelson-sanchez-martinez", "pic": "sanchez_photo.jpg", "project": "AMPERE", "plink": "ampere", "years": "2021-", "stat": "curr" }
+{"name": "Maarten Hodzelmans", "link": "https://research.tue.nl/nl/persons/maarten-m-hodzelmans", "pic": "hodzelmans_photo.jpg", "project": "SHAWave", "plink": "shawave", "years": "2024-", "stat": "affil" }
+{"name": "Wen Jin", "link": "https://www.tue.nl/en/research/researchers/wen-jin", "pic": "silhouette_F.jpg", "project": "DIPMET", "plink": "dipmet", "years": "2023-", "stat": "affil" }
+{"name": "Dennis Thuy", "link": "https://www.tue.nl/en/research/researchers/dennis-thuy", "pic": "thuy_photo.jpg", "project": "LEE-BED", "plink": "leebed", "years": "2021-", "stat": "affil" }
+{"name": "Phani-Ram Babbepalli", "link": "https://www.tue.nl/en/research/researchers/phani-ram-babbepalli", "pic": "babbepalli_photo.jpg", "project": "TASTI", "plink": "tast", "years": "2021-", "stat": "affil" }
+{"name": "Anne Timmermans", "link": "https://www.tue.nl/en/research/researchers/anne-timmermans", "pic": "timmermans_photo.jpg", "project": "LEE-BED", "plink": "leebed", "years": "2024-", "stat": "affil" }
+{"name": "Britt Cordewener", "link": "https://www.linkedin.com/in/britt-cordewener-a16336b4/?originalSubdomain=nl", "pic": "cordewener_photo.jpg", "project": "LEE-BED", "plink": "leedbed", "years": "2020-2025", "stat": "prev" }
+{"name": "Tom Lenders", "link": "https://www.linkedin.com/in/tomlenders/", "pic": "lenders_photo.jpg", "project": "LEE-BED", "plink": "leebed", "years": "2020-2025", "stat": "prev" }
+{"name": "Anqi Li", "link": "https://www.linkedin.com/in/anqi2024/", "pic": "silhouette_F.jpg", "project": "Matel3D", "plink": "leebed", "years": "2018-2023", "stat": "prev" }
+{"name": "Hao Shi", "link": "https://www.linkedin.com/in/haoshi-nl/", "pic": "shi_photo.jpg", "project": "Matel3D", "plink": "leebed", "years": "2018-2023", "stat": "prev" }
+{"name": "Bram Dorussen", "link": "https://www.linkedin.com/in/bramdorussen/", "pic": "dorussen_photo.jpg", "project": "Metal3D", "plink": "leebed", "years": "2018-2023", "stat": "prev" }
+{"name": "Elisa Bergkamp", "link": "https://www.linkedin.com/in/elisabergkamp/", "pic": "silhouette_F.jpg", "project": "LEE-BED", "plink": "leebed", "years": "2017-2022", "stat": "prev" }
+{"name": "Tommaso Pini", "link": "https://www.linkedin.com/in/tommaso-pini/", "pic": "silhouette.jpg", "project": "LEE-BED", "plink": "leebed", "years": "2020-2025", "stat": "prev" }
+{"name": "Ruben Weerts", "link": "https://www.linkedin.com/in/rubenweerts/", "pic": "silhouette.jpg", "project": "LEE-BED", "plink": "leebed", "years": "2028-2021", "stat": "prev" }
+{"name": "Steyn Westbeek", "link": "https://www.linkedin.com/in/steynwestbeek/", "pic": "westbeek_photo.jpg", "project": "Ceramics", "plink": "amsystems", "years": "2016-2020", "stat": "prev" }
+{"name": "Rody van Tuijl", "link": "https://www.linkedin.com/in/rody-van-tuijl/", "pic": "silhouette.jpg", "project": "LEE-BED", "plink": "leebed", "years": "2015-2019", "stat": "prev" }
+{"name": "Valliappan Valliappan", "link": "https://www.researchgate.net/profile/Valliappan-Valliappan-2", "pic": "silhouette_F.jpg", "project": "LEE-BED", "plink": "leebed", "years": "2015-2019", "stat": "prev" }
+{"name": "Jim Schormans", "link": "https://www.linkedin.com/in/jim-schormans-3a482a46/", "pic": "silhouette.jpg", "project": "LEE-BED", "plink": "leebed", "years": "2020-2025", "stat": "prev" }
+{"name": "Jingqian Ding", "link": "https://www.linkedin.com/in/jingqianding", "pic": "silhouette_F.jpg", "project": "LEE-BED", "plink": "leebed", "years": "2020-2025", "stat": "prev" }
+{"name": "Ernst Remij", "link": "https://www.linkedin.com/in/ernst-remij-00a22a6b/", "pic": "remij_photo.jpg", "project": "LEE-BED", "plink": "leebed", "years": "2013-2017", "stat": "prev" }
+{"name": "Nilgoon Irani", "link": "https://www.linkedin.com/in/nilgoonirani/", "pic": "silhouette_F.jpg", "project": "Dislocations", "plink": "dislocations", "years": "2011-2016", "stat": "prev" }
+{"name": "Saman Hosseini", "link": "https://www.linkedin.com/in/saman-hosseini-8046a363/", "pic": "silhouette.jpg", "project": "MAAXIMUS", "plink": "maaximus", "years": "2010-2014", "stat": "prev" }
+{"name": "Faisal Irzal", "link": "https://www.linkedin.com/in/firzal/", "pic": "silhouette.jpg", "project": "MuST", "plink": "must", "years": "2009-2013", "stat": "prev" }
+
