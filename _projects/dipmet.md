@@ -3,8 +3,8 @@ layout: page
 title:  DIPMET
 description:  Deposition of metal powder for 3D printing
 img: assets/img/12.jpg
-importance: 1
-category: am
+importance: 6
+category: running
 related_publications: true
 ---
 
@@ -12,5 +12,5 @@ related_publications: true
 | **Funding**            | Advisory Committee for Design, dept. Mechanical Engineering |
 | **Years**              | 2023-2026 |
 | **PhD-candidate**      | Wen Jin     |
-| **Supervisors**        | Giulia Finotello, Niels Deen, Joris Remmers |
+| **Supervisors**        | Giulia Finotello (PI), Niels Deen, Joris Remmers |
 

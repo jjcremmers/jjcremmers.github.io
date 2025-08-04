@@ -3,8 +3,8 @@ layout: page
 title:  METPAM  
 description: Production of Metal Powder
 img: assets/img/12.jpg
-importance: 3
-category: am
+importance: 7
+category: running
 related_publications: true
 ---
 
@@ -12,5 +12,5 @@ related_publications: true
 | **Funding**            | Internal funding, Section Power and Flow |
 | **Years**              | 2021-2025                                   |
 | **PhD Candidate**      | Dennis Thuy     |
-| **Supervisors**        | Giulia Finotello, Joris Remmers, Niels Deen |
+| **Supervisors**        | Giulia Finotello (PI), Joris Remmers, Niels Deen |
 

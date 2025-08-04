@@ -3,8 +3,8 @@ layout: page
 title:  TASTI
 description:  Efficient simulation of contact for biomedical applications
 img: assets/img/12.jpg
-importance: 1
-category: hpc
+importance: 5
+category: running
 related_publications: true
 ---
 
@@ -12,5 +12,5 @@ related_publications: true
 | **Funding**            | EUREKA |
 | **Years**              | 2023-2027                                   |
 | **Contributors**       | Rani van Hoof, Phani Ram Babbepalli     |
-| **Supervisors**        | Olaf van der Sluis, Joris Remmers, Clemens Verhoosel |
+| **Supervisors**        | Olaf van der Sluis (PI), Joris Remmers, Clemens Verhoosel |
 | **Collaborators**      | Delft University of Technology, Philips, Sioux, Solvay, Universit\'e Libre Bruxelles (o.a.) |

@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  LIGHTer
-description:  High Performance Computing for Composites
+title:  MultiScale Composites
+description:  Multiscale modelling of failure in thin-ply textile composites using Isogeometric Analysis
 img: assets/img/12.jpg
 importance: 1
-category: composites
+category: finsihed
 related_publications: true
 ---
 

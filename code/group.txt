@@ -5,13 +5,13 @@
 {"name": "Wen Jin", "link": "https://www.tue.nl/en/research/researchers/wen-jin", "pic": "silhouette_F.jpg", "project": "DIPMET", "plink": "dipmet", "years": "2023-", "stat": "affil" }
 {"name": "Dennis Thuy", "link": "https://www.tue.nl/en/research/researchers/dennis-thuy", "pic": "thuy_photo.jpg", "project": "METPAM", "plink": "metpam", "years": "2021-", "stat": "affil" }
 {"name": "Phani-Ram Babbepalli", "link": "https://www.tue.nl/en/research/researchers/phani-ram-babbepalli", "pic": "babbepalli_photo.jpg", "project": "UPSIM", "plink": "upsim", "years": "2021-", "stat": "affil" }
-{"name": "Anne Timmermans", "link": "https://www.tue.nl/en/research/researchers/anne-timmermans", "pic": "timmermans_photo.jpg", "project": "LEE-BED", "plink": "leebed", "years": "2024-", "stat": "affil" }
+{"name": "Anne Timmermans", "link": "https://www.tue.nl/en/research/researchers/anne-timmermans", "pic": "timmermans_photo.jpg", "project": "EIRES", "plink": "eires", "years": "2024-", "stat": "affil" }
 {"name": "Britt Cordewener", "link": "https://www.linkedin.com/in/britt-cordewener-a16336b4/?originalSubdomain=nl", "pic": "cordewener_photo.jpg", "project": "LEE-BED", "plink": "lee-bed", "years": "2020-2025", "stat": "prev" }
 {"name": "Tom Lenders", "link": "https://www.linkedin.com/in/tomlenders/", "pic": "lenders_photo.jpg", "project": "Extreme Composites", "plink": "composite_PVDF", "years": "2020-2025", "stat": "prev" }
-{"name": "Anqi Li", "link": "https://www.linkedin.com/in/anqi2024/", "pic": "silhouette_F.jpg", "project": "Matel3D", "plink": "leebed", "years": "2018-2023", "stat": "prev" }
+{"name": "Anqi Li", "link": "https://www.linkedin.com/in/anqi2024/", "pic": "silhouette_F.jpg", "project": "ProTechTion", "plink": "protechtion", "years": "2018-2023", "stat": "prev" }
 {"name": "Hao Shi", "link": "https://www.linkedin.com/in/haoshi-nl/", "pic": "shi_photo.jpg", "project": "AMAZING", "plink": "amazing", "years": "2018-2023", "stat": "prev" }
-{"name": "Bram Dorussen", "link": "https://www.linkedin.com/in/bramdorussen/", "pic": "dorussen_photo.jpg", "project": "Metal3D", "plink": "leebed", "years": "2018-2023", "stat": "prev" }
-{"name": "Elias Borjesson", "link": "https://www.linkedin.com/in/bramdorussen/", "pic": "silhouette_M.jpg", "project": "Composites", "plink": "hpc-composites", "years": "2018-2024", "stat": "prev" }
+{"name": "Bram Dorussen", "link": "https://www.linkedin.com/in/bramdorussen/", "pic": "dorussen_photo.jpg", "project": "Metal3D", "plink": "multimatam", "years": "2018-2023", "stat": "prev" }
+{"name": "Elias Borjesson", "link": "https://www.linkedin.com/in/eliasborjesson/", "pic": "silhouette_M.jpg", "project": "MultiScale Composites", "plink": "lighter", "years": "2018-2024", "stat": "prev" }
 {"name": "Elisa Bergkamp", "link": "https://www.linkedin.com/in/elisabergkamp/", "pic": "silhouette_F.jpg", "project": "LEE-BED", "plink": "leebed", "years": "2017-2022", "stat": "prev" }
 {"name": "Tommaso Pini", "link": "https://www.linkedin.com/in/tommaso-pini/", "pic": "silhouette_M.jpg", "project": "Extreme Composites", "plink": "composite_PVDF", "years": "2020-2025", "stat": "prev" }
 {"name": "Ruben Weerts", "link": "https://www.linkedin.com/in/rubenweerts/", "pic": "silhouette_M.jpg", "project": "Pressure Vessels", "plink": "bmw", "years": "2028-2021", "stat": "prev" }

@@ -3,8 +3,8 @@ layout: page
 title:  Ctrl-P 
 description: Machine learning to optimise 3D print processes
 img: assets/img/12.jpg
-importance: 1
-category: am
+importance: 3
+category: running
 related_publications: true
 ---
 
@@ -12,7 +12,7 @@ related_publications: true
 | **Funding**            | EMDAIR (Eindhoven Artificial Intelligence Systems Institute) |
 | **Years**              | 2023-                                   |
 | **PhD Candidates**     | Ruben Schmeitz and Benjamin Caris       |
-| **Supervisors**        | Joris Remmers, Rob Wolfs, Olga Mula, Rafael Bailo |
+| **Supervisors**        | Joris Remmers (PI), Rob Wolfs, Olga Mula, Rafael Bailo |
 
 
 

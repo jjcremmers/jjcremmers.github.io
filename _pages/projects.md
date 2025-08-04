@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 description: A growing collection of your cool projects.
-display_categories: [composites, am, work, fun]
+display_categories: [current,finished,composites, am, work]
 horizontal: false
 ---
 

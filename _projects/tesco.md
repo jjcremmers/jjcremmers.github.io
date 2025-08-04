@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Numerical simulation of FFF printing processes
-description: TESCO
+title: TESCO
+description: Numerical simulation of FFF printing processes
 img: assets/img/12.jpg
 importance: 1
-category: ceramics
+category: running
 related_publications: true
 ---
 
@@ -13,5 +13,5 @@ related_publications: true
 | **Years**              | 2023-2027                                   |
 | **PhD Candidate**      | Vacancy      |
 | **PostDoc**            | Vacancy      |
-| **Supervisors**        | Joris Remmer |
+| **Supervisors**        | Joris Remmers (PI), Eleonora Ferraris (KU Leuven) |
 | **Collaborators**      | Deceuninck (coordinator), Signify, KU Leuven, HDM, Centexbel |

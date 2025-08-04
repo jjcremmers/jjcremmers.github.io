@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Reduced Order Models for Contact simulations
-description: UPSIM
+title: UPSIM 
+description: Reduced Order Models for Contact simulations
 img: assets/img/12.jpg
 importance: 1
-category: hpc
+category: running
 related_publications: true
 ---
 
@@ -12,5 +12,5 @@ related_publications: true
 | **Funding**            | ITEA3 |
 | **Years**              | 2020-2024                                   |
 | **PhD-candidate**      | Phani Ram Babbepalli     |
-| **Supervisors**        | Olaf van der Sluis, Joris Remmers |
+| **Supervisors**        | Olaf van der Sluis (PI), Joris Remmers |
 | **Collaborators**      | Philips (coordinator), NLR (among others) |

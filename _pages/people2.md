@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Image Gallery
-permalink: /gallery2/
+title: Group members
+permalink: /people2/
 toc:
   sidebar: left
 ---
@@ -157,7 +157,7 @@ PhD students and Post-Docs that I supervise or collaborate with.
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/leebed/">LEE-BED</a></td>
+            <td><a href="/projects/eires/">EIRES</a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
@@ -220,7 +220,7 @@ Former PhD students and Post-Docs that I supervised or collaborated with.
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/leebed/">Matel3D</a></td>
+            <td><a href="/projects/protechtion/">ProTechTion</a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
@@ -256,7 +256,7 @@ Former PhD students and Post-Docs that I supervised or collaborated with.
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/leebed/">Metal3D</a></td>
+            <td><a href="/projects/multimatam/">Metal3D</a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
@@ -270,11 +270,11 @@ Former PhD students and Post-Docs that I supervised or collaborated with.
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
-            <td colspan="2"><strong><a href="https://www.linkedin.com/in/bramdorussen/">Elias Borjesson</a></strong></td>
+            <td colspan="2"><strong><a href="https://www.linkedin.com/in/eliasborjesson/">Elias Borjesson</a></strong></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/hpc-composites/">Composites</a></td>
+            <td><a href="/projects/lighter/">MultiScale Composites</a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
