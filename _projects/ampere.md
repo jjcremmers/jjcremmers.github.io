@@ -2,7 +2,7 @@
 layout: page
 title: AMPERE 
 description: Fast simulation of photo-polymerisation processes
-img: assets/img/ampere.jpg
+img: assets/img/am_std.jpg
 importance: 5
 category: running
 related_publications: true

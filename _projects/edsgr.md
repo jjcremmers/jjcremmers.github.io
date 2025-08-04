@@ -2,7 +2,7 @@
 layout: page
 title:  EDSGR 
 description: --
-img: assets/img/12.jpg
+img: assets/img/hpc_std.jpg
 importance: 1
 category: running
 related_publications: true

@@ -2,7 +2,7 @@
 layout: page
 title:  EIRES
 description: .
-img: assets/img/12.jpg
+img: assets/img/ceramics_std.jpg
 importance: 1
 category: running
 related_publications: true

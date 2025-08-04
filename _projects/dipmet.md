@@ -2,7 +2,7 @@
 layout: page
 title:  DIPMET
 description:  Deposition of metal powder for 3D printing
-img: assets/img/12.jpg
+img: assets/img/am_std.jpg
 importance: 6
 category: running
 related_publications: true

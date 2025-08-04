@@ -2,7 +2,7 @@
 layout: page
 title: AMAZING
 description: Computational models for sintered ceramics
-img: assets/img/12.jpg
+img: assets/img/ceramics_std.jpg
 importance: 100
 category: finished
 related_publications: true

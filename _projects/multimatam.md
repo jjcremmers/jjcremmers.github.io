@@ -2,7 +2,7 @@
 layout: page
 title:  MultiMaterial AM
 description: 
-img: assets/img/12.jpg
+img: assets/img/am_std.jpg
 importance: 5
 category: finished
 related_publications: true

@@ -2,7 +2,7 @@
 layout: page
 title: UPSIM 
 description: Reduced Order Models for Contact simulations
-img: assets/img/12.jpg
+img: assets/img/hpc_std.jpg
 importance: 1
 category: running
 related_publications: true

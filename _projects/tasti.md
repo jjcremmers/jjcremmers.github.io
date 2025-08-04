@@ -2,7 +2,7 @@
 layout: page
 title:  TASTI
 description:  Efficient simulation of contact for biomedical applications
-img: assets/img/12.jpg
+img: assets/img/hpc_std.jpg
 importance: 5
 category: running
 related_publications: true

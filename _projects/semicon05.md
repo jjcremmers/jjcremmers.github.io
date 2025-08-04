@@ -2,7 +2,7 @@
 layout: page
 title:  Semicon05
 description: Accurate, multi-physics simulations of VAT Photopolymerisation processes
-img: assets/img/12.jpg
+img: assets/img/am_std.jpg
 importance: 2
 category: running
 related_publications: true
