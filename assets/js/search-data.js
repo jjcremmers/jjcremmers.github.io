@@ -685,6 +685,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/multimatam/";
+            },},{id: "projects-protechtion",
+          title: 'ProTechTion',
+          description: "Multiscale modulling of woven composites",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/multiscale_composites/";
             },},{id: "projects-must",
           title: 'MuST',
           description: "Multiscale computational poromechanics",
