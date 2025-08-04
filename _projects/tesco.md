@@ -14,4 +14,4 @@ related_publications: true
 | **PhD Candidate**      | Vacancy      |
 | **PostDoc**            | Vacancy      |
 | **Supervisors**        | Joris Remmers (PI), Eleonora Ferraris (KU Leuven) |
-| **Collaborators**      | Deceuninck (coordinator), Signify, KU Leuven, HDM, Centexbel |
+| **Collaborators**      | Deceuninck (coordinator), Signify, KU Leuven, HDM, Centexbel |	

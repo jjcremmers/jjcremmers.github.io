@@ -2,7 +2,7 @@
 layout: page
 title:  Ctrl-P 
 description: Machine learning to optimise 3D print processes
-img: assets/img/12.jpg
+img: assets/img/hpc_std.jpg
 importance: 3
 category: running
 related_publications: true

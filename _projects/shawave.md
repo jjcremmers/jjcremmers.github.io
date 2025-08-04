@@ -2,7 +2,7 @@
 layout: page
 title:  SHAWave
 description: Efficient analysis of wave propgation in shallow subsurfaces
-img: assets/img/12.jpg
+img: assets/img/hpc_std.jpg
 importance: 1
 category: running
 related_publications: true
