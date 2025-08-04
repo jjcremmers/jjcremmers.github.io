@@ -20,11 +20,11 @@ data = read_entries(fname)
 
 cat = ["curr","affil","prev"]
 
-with open('../_pages/gallery2.md', 'w') as f:
+with open('../_pages/people2.md', 'w') as f:
     f.write("---\n")
     f.write("layout: default\n")
-    f.write("title: Image Gallery\n")
-    f.write("permalink: /gallery2/\n")
+    f.write("title: Group members\n")
+    f.write("permalink: /people2/\n")
     f.write("toc:\n")
     f.write("  sidebar: left\n")
     f.write("---\n\n")    

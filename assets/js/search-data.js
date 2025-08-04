@@ -650,16 +650,26 @@ ninja.data = [{
           description: "Deposition of metal powder for 3D printing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dipmet/";
-            },},{id: "projects-lighter",
-          title: 'LIGHTer',
-          description: "High Performance Computing for Composites",
+            },},{id: "projects-edsgr",
+          title: 'EDSGR',
+          description: "--",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/hpc_composites/";
+              window.location.href = "/projects/edsgr/";
+            },},{id: "projects-eires",
+          title: 'EIRES',
+          description: ".",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/eires/";
             },},{id: "projects-lee-bed",
           title: 'LEE-BED',
           description: "Multi-physics simulations for faiure in conductive materials",
           section: "Projects",handler: () => {
               window.location.href = "/projects/lee-bed/";
+            },},{id: "projects-multiscale-composites",
+          title: 'MultiScale Composites',
+          description: "Multiscale modelling of failure in thin-ply textile composites using Isogeometric Analysis",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/lighter/";
             },},{id: "projects-maaximus",
           title: 'MAAXIMUS',
           description: "Isogeometric models for thin walled structures",
@@ -670,11 +680,11 @@ ninja.data = [{
           description: "Production of Metal Powder",
           section: "Projects",handler: () => {
               window.location.href = "/projects/metpam/";
-            },},{id: "projects-protechtion",
-          title: 'ProTechTion',
-          description: "Multiscale modulling of woven composites",
+            },},{id: "projects-multimaterial-am",
+          title: 'MultiMaterial AM',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/multiscale_composites/";
+              window.location.href = "/projects/multimatam/";
             },},{id: "projects-must",
           title: 'MuST',
           description: "Multiscale computational poromechanics",
@@ -685,9 +695,14 @@ ninja.data = [{
           description: "Study on the effecto of moisture",
           section: "Projects",handler: () => {
               window.location.href = "/projects/natural_composites/";
+            },},{id: "projects-protechtion",
+          title: 'ProTechTion',
+          description: "Multiscale modulling of woven composites",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/protecttion/";
             },},{id: "projects-semicon05",
           title: 'Semicon05',
-          description: "Multi-physics, accurate simulation of VAT Photopolymerisation processes",
+          description: "Accurate, multi-physics simulations of VAT Photopolymerisation processes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/semicon05/";
             },},{id: "projects-shawave",
@@ -700,14 +715,14 @@ ninja.data = [{
           description: "Efficient simulation of contact for biomedical applications",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tasti/";
-            },},{id: "projects-numerical-simulation-of-fff-printing-processes",
-          title: 'Numerical simulation of FFF printing processes',
-          description: "TESCO",
+            },},{id: "projects-tesco",
+          title: 'TESCO',
+          description: "Numerical simulation of FFF printing processes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tesco/";
-            },},{id: "projects-reduced-order-models-for-contact-simulations",
-          title: 'Reduced Order Models for Contact simulations',
-          description: "UPSIM",
+            },},{id: "projects-upsim",
+          title: 'UPSIM',
+          description: "Reduced Order Models for Contact simulations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/upsim/";
             },},{id: "projects-ceramic-printing",
