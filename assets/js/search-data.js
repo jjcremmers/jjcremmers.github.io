@@ -575,6 +575,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/phd_britt/";
+            },},{id: "news-ai-connector",
+          title: 'AI Connector',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/ai_connector/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
