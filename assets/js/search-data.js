@@ -459,76 +459,66 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "courses-advanced-and-additive-manufacturing",
-          title: 'Advanced and Additive Manufacturing',
-          description: "A Master course",
+    },{id: "courses-principles-of-design-and-programming",
+          title: 'Principles of Design and Programming',
+          description: "2023-",
           section: "Courses",handler: () => {
-              window.location.href = "/courses/additivemanufacturing/";
+              window.location.href = "/courses/4ca10/";
             },},{id: "courses-circular-electronics",
           title: 'Circular Electronics',
-          description: "A project in the MD-CBL course",
+          description: "2024-",
           section: "Courses",handler: () => {
-              window.location.href = "/courses/circularelectronics/";
+              window.location.href = "/courses/4cblw00-11/";
+            },},{id: "courses-multi-disciplinary-cbl",
+          title: 'Multi-Disciplinary CBL',
+          description: "2025-",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/4cblw00/";
+            },},{id: "courses-programming-project",
+          title: 'Programming Project',
+          description: "Bachelor, Year 3",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/4ee12/";
+            },},{id: "courses-scientific-computing",
+          title: 'Scientific Computing',
+          description: "2015-",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/4em30/";
+            },},{id: "courses-experimental-and-numerical-skills",
+          title: 'Experimental and Numerical Skills',
+          description: "2015-2025",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/4mc00/";
             },},{id: "courses-composite-and-light-weight-materials",
           title: 'Composite and Light Weight Materials',
           description: "Design and Analysis",
           section: "Courses",handler: () => {
-              window.location.href = "/courses/composites/";
-            },},{id: "courses-advanced-mechanics",
-          title: 'Advanced Mechanics',
-          description: "A course on advanced structural mechanics and computational methods.",
+              window.location.href = "/courses/4mm00/";
+            },},{id: "courses-advanced-and-additive-manufacturing",
+          title: 'Advanced and Additive Manufacturing',
+          description: "2022-",
           section: "Courses",handler: () => {
-              window.location.href = "/courses/course1/";
-            },},{id: "courses-ai-in-engineering",
-          title: 'AI in Engineering',
-          description: "Exploring applications of artificial intelligence in engineering.",
+              window.location.href = "/courses/4mm60/";
+            },},{id: "courses-mechanics",
+          title: 'Mechanics',
+          description: "2008-2023",
           section: "Courses",handler: () => {
-              window.location.href = "/courses/course2/";
+              window.location.href = "/courses/4ra00/";
+            },},{id: "courses-engineering-design",
+          title: 'Engineering Design',
+          description: "2015-2023",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/4wbb0/";
             },},{id: "courses-dynamics",
           title: 'Dynamics',
           description: "Bachelor, Year 1, Delft University of Technology",
           section: "Courses",handler: () => {
               window.location.href = "/courses/dynamics/";
-            },},{id: "courses-engineering-design",
-          title: 'Engineering Design',
-          description: "A second year CBL course for all students at TU/e",
-          section: "Courses",handler: () => {
-              window.location.href = "/courses/engineeringdesign/";
-            },},{id: "courses-experimental-and-numerical-skills",
-          title: 'Experimental and Numerical Skills',
-          description: "4MC00, Bachelor, Year 3",
-          section: "Courses",handler: () => {
-              window.location.href = "/courses/expnumskills/";
-            },},{id: "courses-multi-disciplinary-cbl",
-          title: 'Multi-Disciplinary CBL',
-          description: "A course in Bachelor College",
-          section: "Courses",handler: () => {
-              window.location.href = "/courses/mdcbl/";
-            },},{id: "courses-mechanics",
-          title: 'Mechanics',
-          description: "A Bachelor course",
-          section: "Courses",handler: () => {
-              window.location.href = "/courses/mechanics/";
             },},{id: "courses-the-partition-of-unitvy-method",
           title: 'The Partition of unitvy Method',
           description: "A series of lectures part of the ENgineering Mechanics Graduate School",
           section: "Courses",handler: () => {
               window.location.href = "/courses/po1/";
-            },},{id: "courses-principles-of-design-and-programming",
-          title: 'Principles of Design and Programming',
-          description: "A First years bachelor course",
-          section: "Courses",handler: () => {
-              window.location.href = "/courses/principles/";
-            },},{id: "courses-programming-project",
-          title: 'Programming Project',
-          description: "Bachelor, Year 3",
-          section: "Courses",handler: () => {
-              window.location.href = "/courses/programming/";
-            },},{id: "courses-scientific-computing",
-          title: 'Scientific Computing',
-          description: "2015-",
-          section: "Courses",handler: () => {
-              window.location.href = "/courses/scientificcomputing/";
             },},{id: "courses-statics",
           title: 'Statics',
           description: "Bachelor, Year 1, Delft University of Technology",
@@ -536,7 +526,7 @@ ninja.data = [{
               window.location.href = "/courses/statics/";
             },},{id: "courses-truss-structure-cbl-course",
           title: 'Truss Structure CBL course',
-          description: "A Bachelor course",
+          description: "2008-2015",
           section: "Courses",handler: () => {
               window.location.href = "/courses/truss/";
             },},{id: "news-a-simple-inline-announcement",
@@ -640,6 +630,11 @@ ninja.data = [{
           description: "Impact behavior of thick-walled composite-overwrapped pressure vessels",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bmw/";
+            },},{id: "projects-carbfrac",
+          title: 'CARBFRAC',
+          description: "--",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/carbfrac/";
             },},{id: "projects-extreme-composites",
           title: 'Extreme composites',
           description: "Muliscale modelling of the long term behaviour of composites in harsh conditions",
@@ -665,6 +660,11 @@ ninja.data = [{
           description: ".",
           section: "Projects",handler: () => {
               window.location.href = "/projects/eires/";
+            },},{id: "projects-jubart",
+          title: 'JuBART',
+          description: "--",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/jubart/";
             },},{id: "projects-lee-bed",
           title: 'LEE-BED',
           description: "Multi-physics simulations for faiure in conductive materials",
