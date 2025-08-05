@@ -4,7 +4,7 @@ title: Extreme composites
 description: Muliscale modelling of the long term behaviour of composites in harsh conditions
 img: assets/img/4mm00.jpg
 importance: 1
-category: composites
+category: finished 
 related_publications: true
 ---
 

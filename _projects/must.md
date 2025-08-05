@@ -4,7 +4,7 @@ title:  MuST
 description: Multiscale computational poromechanics
 img: assets/img/must.jpg
 importance: 1
-category: work
+category: finished 
 related_publications: true
 toc:
   sidebar: left

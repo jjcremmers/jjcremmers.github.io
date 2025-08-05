@@ -4,7 +4,7 @@ title:  Ceramic printing
 description: Accurate VAT Photopolymerisation
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: finished 
 related_publications: true
 ---
 

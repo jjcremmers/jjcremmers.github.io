@@ -4,7 +4,7 @@ title:  JuBART
 description: --
 img: assets/img/hpc_std.jpg
 importance: 11
-category: finsihed
+category: finished
 ---
 
 More information will be added soon.

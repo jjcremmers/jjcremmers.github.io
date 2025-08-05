@@ -4,7 +4,7 @@ title:  LEE-BED
 description: Multi-physics simulations for faiure in conductive materials
 img: assets/img/12.jpg
 importance: 1
-category: hpc
+category: finished 
 related_publications: true
 ---
 
