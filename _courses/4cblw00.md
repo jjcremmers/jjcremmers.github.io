@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multi-Disciplinary CBL 
-description: A course in Bachelor College
+description: 2025-
 img: assets/img/12.jpg
 importance: 2
 category: Bachelor
