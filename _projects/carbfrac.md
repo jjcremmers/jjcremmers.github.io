@@ -4,7 +4,7 @@ title:  CARBFRAC
 description: --
 img: assets/img/hpc_std.jpg
 importance: 11
-category: finsihed
+category: finished
 related_publications: true
 ---
 
@@ -19,6 +19,8 @@ analogs, numerical modeling, and mechanic experiments.
 {% cite Bergkamp2020 %}
 {% cite Bergkamp2022 %}
 {% cite Bergkamp2023 %}
+{% cite Bergkamp2022 --bibliography _bibliography/theses.bib}
+
 
 | **Project**            | CarbFrac |
 | **Funding**            | EBN, Neptune Energy, Wintershall and the TKI New Gas 

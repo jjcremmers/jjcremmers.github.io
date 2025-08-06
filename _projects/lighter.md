@@ -2,11 +2,20 @@
 layout: page
 title:  MultiScale Composites
 description:  Multiscale modelling of failure in thin-ply textile composites using Isogeometric Analysis
-img: assets/img/12.jpg
+img: assets/img/4mm00.jpg
 importance: 1
 category: finished 
 related_publications: true
 ---
+
+More information will follow soon
+
+{% cite Borjesson2022 %}
+{% cite Borjesson2022Shell %}
+{% cite Borjesson2024  %}
+{% cite BorjessonHomog2023  %}
+{% cite Adams2020  %}
+{% cite Borjesson2024 --bibliography _bibliography/theses.bib}
 
 
 | **Project**            | Multiscale modelling of failure in thin-ply textile composites using Isogeometric Analysis |
