@@ -256,7 +256,7 @@ Former PhD students and Post-Docs that I supervised or collaborated with.
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/multimatam/">Metal3D</a></td>
+            <td><a href="/projects/mm3d/">MM3D</a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
@@ -274,7 +274,7 @@ Former PhD students and Post-Docs that I supervised or collaborated with.
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/lighter/">MultiScale Composites</a></td>
+            <td><a href="/projects/lighter/">LIGHTer</a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
@@ -292,7 +292,7 @@ Former PhD students and Post-Docs that I supervised or collaborated with.
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/leebed/">LEE-BED</a></td>
+            <td><a href="/projects/carbfrac/">CARB-FRAC</a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
@@ -328,7 +328,7 @@ Former PhD students and Post-Docs that I supervised or collaborated with.
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/bmw/">Pressure Vessels</a></td>
+            <td><a href="/projects/bmw/">Composite Pressure Vessels</a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
@@ -346,7 +346,7 @@ Former PhD students and Post-Docs that I supervised or collaborated with.
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/vat/">Ceramics</a></td>
+            <td><a href="/projects/vat/">Materials and Processes for Additive Manufacturing</a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
@@ -364,7 +364,7 @@ Former PhD students and Post-Docs that I supervised or collaborated with.
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/leebed/">LEE-BED</a></td>
+            <td><a href="/projects/metamat/">METAMAT</a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
@@ -374,7 +374,7 @@ Former PhD students and Post-Docs that I supervised or collaborated with.
       </table>
     </div>
     <div class="col-md-4 col-12 mb-4 text-center">
-     <img src="/assets/img/silhouette_F.jpg" class="img-fluid rounded shadow-sm" alt="Valliappan Valliappan">
+     <img src="/assets/img/silhouette_M.jpg" class="img-fluid rounded shadow-sm" alt="Valliappan Valliappan">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>
           <tr>
@@ -382,7 +382,7 @@ Former PhD students and Post-Docs that I supervised or collaborated with.
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/leebed/">LEE-BED</a></td>
+            <td><a href="/projects/anistropic_cracks/">Fracture Network Formation</a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
@@ -400,11 +400,11 @@ Former PhD students and Post-Docs that I supervised or collaborated with.
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/leebed/">LEE-BED</a></td>
+            <td><a href="/projects/physicsbasedcomposites/">Failure in textile composites</a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
-            <td>2020-2025</td>
+            <td>2011-2016</td>
           </tr>
         </tbody>
       </table>
@@ -418,11 +418,11 @@ Former PhD students and Post-Docs that I supervised or collaborated with.
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/leebed/">LEE-BED</a></td>
+            <td><a href="/projects/-/">-</a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
-            <td>2020-2025</td>
+            <td>2011-2016</td>
           </tr>
         </tbody>
       </table>
@@ -436,11 +436,11 @@ Former PhD students and Post-Docs that I supervised or collaborated with.
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/leebed/">LEE-BED</a></td>
+            <td><a href="/projects/2f2s/">2F2S</a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
-            <td>2013-2017</td>
+            <td>2012-2017</td>
           </tr>
         </tbody>
       </table>
@@ -454,7 +454,7 @@ Former PhD students and Post-Docs that I supervised or collaborated with.
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/dislocations/">Dislocations</a></td>
+            <td><a href="/projects/dislocations/">Finite Strain Discrete Dislocation Plasticity </a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>
@@ -490,7 +490,7 @@ Former PhD students and Post-Docs that I supervised or collaborated with.
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Project</strong></td>
-            <td><a href="/projects/must/">MuST</a></td>
+            <td><a href="/projects/must/">POROMult</a></td>
           </tr>
           <tr>
             <td style="white-space: nowrap;"><strong>Years:</strong></td>

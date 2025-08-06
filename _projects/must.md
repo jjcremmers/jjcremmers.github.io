@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  MuST
+title:  POROMult
 description: Multiscale computational poromechanics
 img: assets/img/must.jpg
 importance: 1
@@ -63,6 +63,8 @@ top layer of gel grains can block further absorption.
 By bridging biomechanics, civil engineering, and industrial applications, 
 the project exemplifies how fundamental modeling can lead to unexpected 
 insights and real-world impact across multiple fields.
+
+{% cite IrzalPhD %}.
 
 ## Project details
 

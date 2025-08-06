@@ -2,7 +2,7 @@
 layout: page
 title: TESCO
 description: Numerical simulation of FFF printing processes
-img: assets/img/am_std.jpg
+img: assets/img/am_fff.png
 importance: 1
 category: running
 related_publications: true

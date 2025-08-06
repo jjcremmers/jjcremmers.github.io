@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Impact
-description: Impact behavior of thick-walled composite-overwrapped pressure vessels
-img: assets/img/bmw_tank.jpg
+title: METAMAT
+description: Reduced Order Modelling using Wavelet discretisation
+img: assets/img/metamat.png
 importance: 7
 category: finished 
 related_publications: true
@@ -12,9 +12,10 @@ This project was part of the bigger METAMAT project, under the supervision of Ma
 
 {% cite vanTuijl2019 %}
 {% cite vanTuijl2018 %}
+{% cite vanTuijl2020 %}
 {% cite Kaiser2023 %}
 {% cite Kaiser2022 %}
-{% cite Tuijl2019 --bibliography _bibliography/theses.bib %}
+{% cite vanTuijlPhD %}
 
 
 | **Project**            | METAMAT |
