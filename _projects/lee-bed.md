@@ -2,7 +2,7 @@
 layout: page
 title:  LEE-BED
 description: Multi-physics simulations for faiure in conductive materials
-img: assets/img/12.jpg
+img: assets/img/lee-bed.png
 importance: 1
 category: finished 
 related_publications: true
@@ -14,3 +14,4 @@ related_publications: true
 | **PhD-candidate**      | Britt Cordewener    |
 | **Supervisors**        | Joris Remmers, Marc Geers |
 | **Collaborators**      | DTI (coordinator), TNO, Fraunhofer, RISE (among others) |
+| **Website**            | [https://www.lee-bed.eu](https://www.lee-bed.eu) |
