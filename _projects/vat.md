@@ -10,7 +10,7 @@ related_publications: true
 
 More information will follow soon.
 
-{% cite Westbeek2020 --bibliography _bibliography/theses.bib %}
+{% cite WestbeekPhD %}
 
 | **Project**            | AMSystems |
 | **Funding**            | TNO, TU/e , AMSystemsCenter, TKI |

@@ -10,40 +10,38 @@ related_publications: true
 
 More information will follow soon.
 
-{% cite cordewenerPhD %}
+{% cite CordewenerPhD %}
 
-
-| **Project**            | LEE-BED: Open Innovation Test Bed for development and production of nanomaterials for lightweigth embedded electronics |
-| **Funding**            | Horizon 2020 research and innovation programme |
-| **Years**              | 2019-2023                                   |
-| **PhD-candidate**      | Britt Cordewener    |
-| **Supervisors**        | Joris Remmers, Marc Geers |
-| **Collaborators**      | DTI (coordinator), TNO, Fraunhofer, RISE (among others) |
-| **Website**            | [https://www.lee-bed.eu](https://www.lee-bed.eu) |
 
 <table class="table table-bordered table-striped table-hover">
-  <thead>
-    <tr>
-      <th>Year</th>
-      <th>Project</th>
-      <th>Description</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td>2023</td>
-      <td><a href="/projects/ctrlp">Ctrl-P</a></td>
-      <td>3D-printed structures for architectural applications</td>
+      <td>Project</td>
+      <td>LEE-BED: Open Innovation Test Bed for development and production of nanomaterials for lightweigth embedded electronics</td>
     </tr>
     <tr>
-      <td>2024</td>
-      <td>SkyNet</td>
-      <td>Development of autonomous navigation systems for drones</td>
+      <td>Funding</td>
+      <td>Horizon 2020 research and innovation programme</td>
     </tr>
     <tr>
-      <td>2025</td>
-      <td>SolarSense</td>
-      <td>IoT-based sensors for predictive solar energy management</td>
+      <td>Years</td>
+      <td>2019-2023 </td>
     </tr>
+    <tr>
+      <td>PhD-candidate</td>
+      <td>Britt Cordewener</td>
+    </tr>
+    <tr>
+      <td>Supervisors</td>
+      <td>Joris Remmers, Marc Geers</td>
+    </tr>
+    <tr>
+      <td>Collaborators</td>
+      <td>DTI (coordinator), TNO, Fraunhofer, RISE (among others)</td>
+    </tr>            
+    <tr>
+      <td>Website</td>
+      <td><a href="https://www.lee-bed.eu">https://www.lee-bed.eu</a></td>
+    </tr>    
   </tbody>
 </table>

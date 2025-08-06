@@ -13,7 +13,7 @@ More information will follow soon
 {% cite Li2025 %}
 {% cite LiLevelSet2023 %}
 {% cite Li2023 %}
-{% cite li2023 --bibliography _bibliography/theses.bib %}
+{% cite LiPhD %}
 
 
 | **Project**            | ProTechTion: Robust modelling of 3D composite materials for aeronautical applications |
