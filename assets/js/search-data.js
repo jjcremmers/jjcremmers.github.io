@@ -715,11 +715,6 @@ ninja.data = [{
           description: "Multiscale modulling of woven composites",
           section: "Projects",handler: () => {
               window.location.href = "/projects/protechtion/";
-            },},{id: "projects-protechtion",
-          title: 'ProTechTion',
-          description: "Multiscale modulling of woven composites",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/protecttion/";
             },},{id: "projects-semicon05",
           title: 'Semicon05',
           description: "Accurate, multi-physics simulations of VAT Photopolymerisation processes",
