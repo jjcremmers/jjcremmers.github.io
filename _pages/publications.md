@@ -12,6 +12,6 @@ title: Publications
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --file publications %}
 
 </div>
