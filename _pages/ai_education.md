@@ -44,5 +44,15 @@ with genuine student understanding. I warmly invite colleagues to share
 experiences, raise questions, and help shape a responsible, future-oriented 
 educational practice.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/remmers_ai.jpg" title="remmers_ai" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/remmers_lectureroom.jpg" title="remmers_lectureroom" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
 
 
