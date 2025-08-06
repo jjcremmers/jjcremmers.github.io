@@ -14,7 +14,7 @@ This project was part of the bigger METAMAT project, under the supervision of Ma
 {% cite vanTuijl2018 %}
 {% cite Kaiser2023 %}
 {% cite Kaiser2022 %}
-{% cite Tuijl2019 --bibliography _bibliography/theses.bib}
+{% cite Tuijl2019 --bibliography _bibliography/theses.bib %}
 
 
 | **Project**            | METAMAT |

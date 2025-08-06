@@ -14,7 +14,7 @@ More information will follow soon
 {% cite Lenders2024 %}
 {% cite LendersPolymer2023 %}
 {% cite Pini2021 %}
-{% cite lenders2025 --bibliography _bibliography/theses.bib}
+{% cite lenders2025 --bibliography _bibliography/theses.bib %}
 
 | **Project**            | Muliscale modelling of the long term behaviour of fibre reinforced PVDF |
 | **Funding**            | Shell                                   |

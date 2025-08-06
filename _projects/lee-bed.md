@@ -10,7 +10,7 @@ related_publications: true
 
 More information will follow soon.
 
-{% cite cordewener2025 --bibliography _bibliography/theses.bib}
+{% cite cordewener2025 --bibliography _bibliography/theses.bib %}
 
 
 | **Project**            | LEE-BED: Open Innovation Test Bed for development and production of nanomaterials for lightweigth embedded electronics |

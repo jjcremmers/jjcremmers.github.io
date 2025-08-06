@@ -19,7 +19,7 @@ analogs, numerical modeling, and mechanic experiments.
 {% cite Bergkamp2020 %}
 {% cite Bergkamp2022 %}
 {% cite Bergkamp2023 %}
-{% cite Bergkamp2022 --bibliography _bibliography/theses.bib}
+{% cite Bergkamp2022 --bibliography _bibliography/theses.bib %}
 
 
 | **Project**            | CarbFrac |

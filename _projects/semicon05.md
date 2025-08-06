@@ -8,6 +8,8 @@ category: running
 related_publications: true
 ---
 
+{% cite sol2025high %}
+
 | **Project**            | Semicon 5: Deposition and Printing for Heterogeneous assembly |
 | **Funding**            | NXTGEN HIGHTECH, Groeifonds |
 | **Years**              | 2023-2027                                   |
