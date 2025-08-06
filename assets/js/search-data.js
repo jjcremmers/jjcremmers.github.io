@@ -740,11 +740,6 @@ ninja.data = [{
           description: "Accurate VAT Photopolymerisation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vat/";
-            },},{id: "projects-tesco",
-          title: 'TESCO',
-          description: "Accutate models for FFF printing",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/vlaio/";
             },},{id: "studentprojects-ctrl-p2",
           title: 'Ctrl-P2',
           description: "Machine learning to optimise 3D print processes 2",
