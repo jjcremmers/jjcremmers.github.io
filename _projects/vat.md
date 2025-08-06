@@ -1,12 +1,16 @@
 ---
 layout: page
 title:  Ceramic printing
-description: Accurate VAT Photopolymerisation
-img: assets/img/12.jpg
-importance: 1
+description: Accurate Simulation of the VAT Photopolymerisation process for ceramics
+img: assets/img/ceramics_std.jpg
+importance: 5
 category: finished 
 related_publications: true
 ---
+
+More information will follow soon.
+
+{% cite Westbeek2020 --bibliography _bibliography/theses.bib}
 
 | **Project**            | AMSystems |
 | **Funding**            | TNO, TU/e , AMSystemsCenter, TKI |
