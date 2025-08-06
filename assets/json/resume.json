@@ -5,8 +5,7 @@
     "image": "",
     "email": "j.j.c.remmers@tue.nl",
     "phone": "+31 (0)40 247 3175",
-    "url": "https://jjcremmers.github.io",
-    "summary": "...",
+    "url": "https://www.jorisremmers.com",
     "location": {
       "address": "Vector 2.413",
       "postalCode": "PO Box 513",
@@ -27,7 +26,7 @@
       "name": "Eindhoven University of Technology",
       "position": "Associate Professor",
       "url": "www.tue.nl",
-      "startDate": "2015-01-01",
+      "startDate": "2015-01",
       "location": "Eindhoven, Netherlands",      
       "summary": "Teaching rsearch",
       "highlights": ["Computational Mechanics"]
@@ -46,8 +45,8 @@
       "name": "Eindhoven University of Technology",
       "position": "Assistant Professor",
       "url": "www.tue.nl",
-      "startDate": "2007-01-01",
-      "endDate": "2015-01-01",
+      "startDate": "2007-09",
+      "endDate": "2015-01",
       "location": "Eindhoven, Netherlands",            
       "summary": "Teaching rsearch",
       "highlights": ["Computational Mechanics"]
@@ -56,8 +55,8 @@
       "name": "Institute Lorentz for Theoretical Physics, Leiden University",
       "position": "Visiting Scholar",
       "url": "www.tue.nl",
-      "startDate": "2006-09-01",
-      "endDate": "2007-06-01",
+      "startDate": "2007-09",
+      "endDate": "2008-06",
       "location": "Leiden, Netherlands",            
       "summary": "Teaching rsearch",
       "highlights": ["Computational Mechanics"]
@@ -66,12 +65,20 @@
       "name": "Delft University of Technology",
       "position": "Assistant Professor",
       "url": "www.tudelft.nl",
-      "startDate": "2006-01-01",
-      "endDate": "2007-01-01",
+      "startDate": "2006-11",
+      "endDate": "2007-08",
       "location": "Netherlands, Netherlands",            
       "summary": "Teaching rsearch",
       "highlights": ["Computational Mechanics"]
     },
+    {
+      "name": "Brown University",
+      "position": "Visiting scholar",
+      "url": "www.brown.edu",
+      "startDate": "2002-02",
+      "endDate": "2003-08",
+      "location": "Providence, RI"
+    },    
     {
       "name": "NASA Langley Research Center",
       "position": "Visiting SCholar",
@@ -86,8 +93,8 @@
       "name": "Delft University of Technology",
       "position": "PhD Candidate / Researcher",
       "url": "www.tudelft.nl",
-      "startDate": "1999-01-01",
-      "endDate": "2006-01-01",
+      "startDate": "2003-01",
+      "endDate": "2006-10",
       "location": "Delft, Netherlands",            
       "summary": "Teaching rsearch",
       "highlights": ["Computational Mechanics"]
@@ -96,19 +103,37 @@
       "name": "Delft University of Technology",
       "position": "PhD Candidate",
       "url": "www.tudelft.nl",
-      "startDate": "1999",
-      "endDate": "2002",
+      "startDate": "1999-01",
+      "endDate": "2002-12",
       "location": "Delft, Netherlands",            
       "summary": "Teaching rsearch",
       "highlights": ["Computational Mechanics"]
-    }         
+    },
+    {
+      "name": "Delft University of Technology",
+      "position": "Teaching Assistant",
+      "url": "www.tudelft.nl",
+      "startDate": "1997",
+      "endDate": "1998",
+      "location": "Delft, Netherlands",            
+      "summary": "Teaching rsearch",
+      "highlights": ["Mechanics"]
+    },
+    {
+      "name": "Netherlands Aerospace Centre (NLR)",
+      "position": "Trainee",
+      "url": "www.nlr.nl",
+      "startDate": "1995-07",
+      "endDate": "1995-09",
+      "location": "Marknesse, Netherlands"
+    }    
   ],
   "education": [
     {
       "institution": "Delft University of Technology",
       "location": "Delft, Netherlands",
       "url": "https://www.tudelft.nl/",
-      "area": "SComputational Fracture Mechanics",
+      "area": "Computational Fracture Mechanics",
       "studyType": "PhD",
       "startDate": "1999-01-01",
       "endDate": "2006-10-25",
@@ -121,8 +146,7 @@
       "area": "Computational Mechanics",
       "studyType": "MsC",
       "startDate": "1992-09-01",
-      "endDate": "1999-10-01",
-      "score": "Cum Laude"
+      "endDate": "1999-10-01"
     }
   ],
   "volunteer": [
@@ -132,8 +156,7 @@
       "position": "Football Coach",
       "startDate": "2012",
       "endDate": "2025",
-      "summary": "Coaching several youth teams",
-      "highlights": ["....."]
+      "summary": "Coaching several youth teams"
     }
   ]  
 }
