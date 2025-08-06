@@ -680,6 +680,11 @@ ninja.data = [{
           description: "Isogeometric models for thin walled structures",
           section: "Projects",handler: () => {
               window.location.href = "/projects/maaximus/";
+            },},{id: "projects-impact",
+          title: 'Impact',
+          description: "Impact behavior of thick-walled composite-overwrapped pressure vessels",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/metamat/";
             },},{id: "projects-metpam",
           title: 'METPAM',
           description: "Production of Metal Powder",
@@ -705,6 +710,11 @@ ninja.data = [{
           description: "Study on the effecto of moisture",
           section: "Projects",handler: () => {
               window.location.href = "/projects/natural_composites/";
+            },},{id: "projects-protechtion",
+          title: 'ProTechTion',
+          description: "Multiscale modulling of woven composites",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/protechtion/";
             },},{id: "projects-protechtion",
           title: 'ProTechTion',
           description: "Multiscale modulling of woven composites",
@@ -737,7 +747,7 @@ ninja.data = [{
               window.location.href = "/projects/upsim/";
             },},{id: "projects-ceramic-printing",
           title: 'Ceramic printing',
-          description: "Accurate VAT Photopolymerisation",
+          description: "Accurate Simulation of the VAT Photopolymerisation process for ceramics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vat/";
             },},{id: "studentprojects-ctrl-p2",
