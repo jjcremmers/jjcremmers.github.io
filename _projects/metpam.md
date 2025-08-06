@@ -2,7 +2,7 @@
 layout: page
 title:  METPAM  
 description: Production of Metal Powder
-img: assets/img/am_std.jpg
+img: assets/img/metpam.jpg
 importance: 7
 category: running
 related_publications: true
