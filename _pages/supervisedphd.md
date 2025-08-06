@@ -12,7 +12,7 @@ Organize your courses by years, topics, or universities, however you like!
 
 <div class="publications">
 
-{% bibliography --file theses %}
+{% bibliography --query "@phdthesis" %}
 
 </div>
 
