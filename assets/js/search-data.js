@@ -580,6 +580,11 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-2f2s",
+          title: '2F2S',
+          description: "Numerical modelling of Hydraulic Fracturing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2f2s/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
@@ -615,6 +620,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-admire",
+          title: 'ADMIRE',
+          description: "Adaptive Delamination Modelling with Isogeometric Analysis Representation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/admire/";
             },},{id: "projects-amazing",
           title: 'AMAZING',
           description: "Computational models for sintered ceramics",
@@ -625,8 +635,13 @@ ninja.data = [{
           description: "Fast simulation of photo-polymerisation processes",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ampere/";
-            },},{id: "projects-impact",
-          title: 'Impact',
+            },},{id: "projects-fracture-network-formation",
+          title: 'Fracture Network Formation',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/anistropic_cracks/";
+            },},{id: "projects-composite-pressure-vessels",
+          title: 'Composite Pressure Vessels',
           description: "Impact behavior of thick-walled composite-overwrapped pressure vessels",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bmw/";
@@ -650,6 +665,11 @@ ninja.data = [{
           description: "Deposition of metal powder for 3D printing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dipmet/";
+            },},{id: "projects-finite-strain-discrete-dislocation-plasticity",
+          title: 'Finite Strain Discrete Dislocation Plasticity',
+          description: "Applications and New Developments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dislocations/";
             },},{id: "projects-edsgr",
           title: 'EDSGR',
           description: "--",
@@ -660,6 +680,11 @@ ninja.data = [{
           description: ".",
           section: "Projects",handler: () => {
               window.location.href = "/projects/eires/";
+            },},{id: "projects-hybman",
+          title: 'HYBMAN',
+          description: "Numerical simulation of FFF printing processes for structural electronics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hybman/";
             },},{id: "projects-jubart",
           title: 'JuBART',
           description: "--",
@@ -680,9 +705,9 @@ ninja.data = [{
           description: "Isogeometric models for thin walled structures",
           section: "Projects",handler: () => {
               window.location.href = "/projects/maaximus/";
-            },},{id: "projects-impact",
-          title: 'Impact',
-          description: "Impact behavior of thick-walled composite-overwrapped pressure vessels",
+            },},{id: "projects-metamat",
+          title: 'METAMAT',
+          description: "Reduced Order Modelling using Wavelet discretisation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/metamat/";
             },},{id: "projects-metpam",
@@ -690,18 +715,18 @@ ninja.data = [{
           description: "Production of Metal Powder",
           section: "Projects",handler: () => {
               window.location.href = "/projects/metpam/";
-            },},{id: "projects-multimaterial-am",
-          title: 'MultiMaterial AM',
-          description: "",
+            },},{id: "projects-mm3d",
+          title: 'MM3D',
+          description: "Fieldlab Multimaterial 3D Printing",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/multimatam/";
+              window.location.href = "/projects/mm3d/";
             },},{id: "projects-protechtion",
           title: 'ProTechTion',
           description: "Multiscale modulling of woven composites",
           section: "Projects",handler: () => {
               window.location.href = "/projects/multiscale_composites/";
-            },},{id: "projects-must",
-          title: 'MuST',
+            },},{id: "projects-poromult",
+          title: 'POROMult',
           description: "Multiscale computational poromechanics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/must/";
@@ -710,6 +735,11 @@ ninja.data = [{
           description: "Study on the effecto of moisture",
           section: "Projects",handler: () => {
               window.location.href = "/projects/natural_composites/";
+            },},{id: "projects-failure-in-textile-composites",
+          title: 'Failure in textile composites',
+          description: "A physics based modelling approach",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/physicsbasedcomposites/";
             },},{id: "projects-protechtion",
           title: 'ProTechTion',
           description: "Multiscale modulling of woven composites",
@@ -740,8 +770,8 @@ ninja.data = [{
           description: "Reduced Order Models for Contact simulations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/upsim/";
-            },},{id: "projects-ceramic-printing",
-          title: 'Ceramic printing',
+            },},{id: "projects-materials-and-processes-for-additive-manufacturing",
+          title: 'Materials and Processes for Additive Manufacturing',
           description: "Accurate Simulation of the VAT Photopolymerisation process for ceramics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vat/";
