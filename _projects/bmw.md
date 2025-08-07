@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Composite Pressure Vessels
+title: Pressure Vessels
 description: Impact behavior of thick-walled composite-overwrapped pressure vessels
 img: assets/img/bmw_tank.jpg
-importance: 7
+importance: 4
 category: finished 
 related_publications: true
 ---

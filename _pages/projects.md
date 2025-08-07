@@ -2,8 +2,8 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-display_categories: [running,finished,composites, am, work]
+description: An overview of the current and past projects I am involved in.
+display_categories: [running,finished]
 horizontal: false
 ---
 

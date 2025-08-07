@@ -3,7 +3,7 @@ layout: page
 title:  POROMult
 description: Multiscale computational poromechanics
 img: assets/img/must.jpg
-importance: 1
+importance: 90
 category: finished 
 related_publications: true
 toc:
@@ -64,7 +64,10 @@ By bridging biomechanics, civil engineering, and industrial applications,
 the project exemplifies how fundamental modeling can lead to unexpected 
 insights and real-world impact across multiple fields.
 
-{% cite IrzalPhD %}.
+{% cite Irzal2013b %}
+{% cite Irzal2014 %}
+{% cite Irzal2013 %}
+{% cite IrzalPhD %}
 
 ## Project details
 

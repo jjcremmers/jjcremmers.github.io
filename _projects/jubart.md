@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  JuBART 
-description: --
+description: Reporting tool for students in higher education
 img: assets/img/hpc_std.jpg
 importance: 11
 category: finished

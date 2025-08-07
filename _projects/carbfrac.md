@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  CARBFRAC
-description: --
+description: Multiscale model for crack growth in saturated porous media
 img: assets/img/hpc_std.jpg
 importance: 11
 category: finished
