@@ -637,17 +637,17 @@ ninja.data = [{
               window.location.href = "/projects/ampere/";
             },},{id: "projects-fracture-network-formation",
           title: 'Fracture Network Formation',
-          description: "",
+          description: "Numerical modeling and validation of fracture network formation in anisotropic media",
           section: "Projects",handler: () => {
               window.location.href = "/projects/anistropic_cracks/";
-            },},{id: "projects-composite-pressure-vessels",
-          title: 'Composite Pressure Vessels',
+            },},{id: "projects-pressure-vessels",
+          title: 'Pressure Vessels',
           description: "Impact behavior of thick-walled composite-overwrapped pressure vessels",
           section: "Projects",handler: () => {
               window.location.href = "/projects/bmw/";
             },},{id: "projects-carbfrac",
           title: 'CARBFRAC',
-          description: "--",
+          description: "Multiscale model for crack growth in saturated porous media",
           section: "Projects",handler: () => {
               window.location.href = "/projects/carbfrac/";
             },},{id: "projects-extreme-composites",
@@ -672,12 +672,12 @@ ninja.data = [{
               window.location.href = "/projects/dislocations/";
             },},{id: "projects-edsgr",
           title: 'EDSGR',
-          description: "--",
+          description: "a dedicated tool to tutor students in programming exercises",
           section: "Projects",handler: () => {
               window.location.href = "/projects/edsgr/";
             },},{id: "projects-eires",
           title: 'EIRES',
-          description: ".",
+          description: "Numerical and Experimental Analysis of the Sintering Behaviour of Ceramic Bilayer Membranes for Hydrogen Separation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/eires/";
             },},{id: "projects-hybman",
@@ -687,7 +687,7 @@ ninja.data = [{
               window.location.href = "/projects/hybman/";
             },},{id: "projects-jubart",
           title: 'JuBART',
-          description: "--",
+          description: "Reporting tool for students in higher education",
           section: "Projects",handler: () => {
               window.location.href = "/projects/jubart/";
             },},{id: "projects-lee-bed",
@@ -717,7 +717,7 @@ ninja.data = [{
               window.location.href = "/projects/metpam/";
             },},{id: "projects-mm3d",
           title: 'MM3D',
-          description: "Fieldlab Multimaterial 3D Printing",
+          description: "Computational model for metal powderbed fusion printing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mm3d/";
             },},{id: "projects-protechtion",
