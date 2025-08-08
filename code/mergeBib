@@ -1,1 +1,2 @@
 cat ../_bibliography/mytheses.bib ../_bibliography/theses.bib ../_bibliography/publications.bib > ../_bibliography/papers.bib
+git add ../_bibliography/papers.bib
