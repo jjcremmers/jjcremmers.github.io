@@ -16,6 +16,7 @@ related_publications: true
     <tr>
       <td colspan="2" style="background-color: lightgray; font-size: 1.2em;"><strong>
         Semicon 5: Deposition and Printing for Heterogeneous assembly
+      </strong>
       </td>
     </tr>
     <tr>

@@ -22,8 +22,8 @@ More information will follow soon.
   <tbody>
     <tr>
       <td colspan="2" style="background-color: lightgray;"><strong>
-        The impact behavior of thick-walled composite-overwrapped pressure vessels</strong>
-      </td>
+        The impact behavior of thick-walled composite-overwrapped pressure vessels
+      </strong></td>
     </tr>
     <tr>
       <td style="white-space: nowrap;"><strong>Funding</strong></td>
