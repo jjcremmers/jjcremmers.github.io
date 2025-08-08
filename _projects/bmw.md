@@ -21,14 +21,14 @@ More information will follow soon.
 <table class="table table-sm mt-2" style="text-align: left;">
   <tbody>
     <tr>
-      <td colspan="2"><strong>
+      <td colspan="2" style="background-color: lightgray;"><strong>
         The impact behavior of thick-walled composite-overwrapped pressure vessels</strong>
       </td>
     </tr>
     <tr>
       <td style="white-space: nowrap;"><strong>Funding</strong></td>
       <td>
-        Horizon 2020 research and innovation programme
+        BMW Forschungs- und Innovationszentrum
       </td>
     </tr>
     <tr>
@@ -50,4 +50,7 @@ More information will follow soon.
   </tbody>
 </table>
 <br>
+
+
+
 
