@@ -17,13 +17,37 @@ More information will follow soon.
 {% cite Weerts2022Impact %}
 {% cite WeertsPhD %}
 
-
-| **Project**            | The impact behavior of thick-walled composite-overwrapped pressure vessels |
-| **Funding**            | BMW Forschungs- und Innovationszentrum |
-| **Years**              | 2017-2021                                  |
-| **PhD-candidate**      | Ruben Weerts  |
-| **Supervisors**        | Joris Remmers, Olivier Cousigne |
-
-
-
+<br>
+<table class="table table-sm mt-2" style="text-align: left;">
+  <tbody>
+    <tr>
+      <td colspan="2"><strong>
+        The impact behavior of thick-walled composite-overwrapped pressure vessels</strong>
+      </td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;"><strong>Funding</strong></td>
+      <td>
+        Horizon 2020 research and innovation programme
+      </td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;"><strong>Years</strong></td>
+      <td>
+        2017-2021
+      </td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;"><strong>PhD-candidate</strong></td>
+      <td>
+        Ruben Weerts
+      </td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;"><strong>Supervisors</strong></td>
+      <td>Joris Remmers, Marc Geers, Olivier Cousign&eacute; (BMW)</td>
+    </tr>    
+  </tbody>
+</table>
+<br>
 
