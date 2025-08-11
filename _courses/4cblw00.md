@@ -31,7 +31,7 @@ own contribution and that of their teammates, promoting both personal growth and
 
 
 | **Course name**            | Multidisciplinary Challenge Based Learning (MD-CBL)        |
-| **Code**                   | 4WCBL00                                                    |
+| **Code**                   | 4CBLW00                                                    |
 | **Level**                  | Bachelor, Year 2                                           |
 | **Years**                  | 2025-                                                      |
 | **Lecturers/Organisers**   | Bart van Esch, Joris Remmers, Eine Vrenken, Didi S\"uwester  |

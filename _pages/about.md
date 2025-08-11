@@ -25,29 +25,33 @@ announcements:
   limit: 3 # leave blank to include all the news in the `_news` folder
 ---
 
-Welcome to my personal website. I am an academic professional working at the intersection 
-of engineering education and research. My research focuses on the development of computational 
-models for the mechanical analysis of [composite materials](projects/#composites), 
-the simulation of [3D printing processes](projects/#additivemanufacturing), and the application of 
-[high-performance computing techniques](/projects/#hpc), including 
+Welcome to my personal website. I am an academic professional working at the 
+intersection of engineering education and research. My research focuses on the 
+development of computational models for the mechanical analysis of 
+[composite materials](themes/#composites), the simulation of 
+[3D printing processes](themes/#additive-manufacturing), and the application of 
+[high-performance computing techniques](/themes/#high-poerformance-computing), including 
 reduced-order modeling.
 
 Alongside my research activities, I teach a variety of courses in these fields, 
-covering topics such as [composite design](courses/composites/), [additive manufacturing](courses/additivemanufacturing), 
-and [computational methods](courses/scientifcomputing). I am also actively involved in the 
-development and organization of several 
-[Multidisciplinary Challenge-Based Learning (CBL)](courses/mdcbl) courses, aiming to equip students with 
-skills that bridge theory and practice across disciplines.
+covering topics such as [composite design](courses/4mm00/), 
+[additive manufacturing](courses/4mm60), and [computational methods](courses/4em30). 
+I am also actively involved in the development and organization of several 
+[Multidisciplinary Challenge-Based Learning (CBL)](courses/4cblw00) courses, 
+aiming to equip students with skills that bridge theory and practice across 
+disciplines.
 
-In addition to my research and teaching, I have a particular interest in the role of 
-Artificial Intelligence in education. I am especially engaged in exploring how Large 
-Language Models can support programming education and enhance student learning processes.
+In addition to my research and teaching, I have a particular interest in the 
+role of [Generative AI in education](ai_in_education/). I am especially engaged 
+in exploring how Large Language Models can support programming education and 
+enhance student learning processes.
 
 On this website, you can find more information about my [research projects](projects/), 
-the [courses](course/) I am involved in, and my broader initiatives in engineering education.
+the [courses](courses/) I am involved in, and my broader initiatives in 
+engineering education.
 
-For more specific information for prospective students, industrial partners or educators, please 
-click one of the buttons below.
+For more specific information for prospective students, industrial partners or 
+educators, please click one of the buttons below.
 
 <div class="fancy-button-group">
   <a href="info/students" class="fancy-button">Students</a>
