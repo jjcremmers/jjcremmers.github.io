@@ -199,7 +199,7 @@
     url: https://en.wikipedia.org/wiki/Michael_Anthony_Crisfield
        
 "smeulders":
-  - firstname: ["David", "D.", "D.J.M."]
+  - firstname: ["David", "D.", "D.M.J."]
     url: https://www.tue.nl/en/research/researchers/david-smeulders
 
 "huyghe":
@@ -229,5 +229,29 @@
 "wintiba":
   - firstname: ["B.", "Roland"]
     url: https://scholar.google.com/citations?user=DGIB5T0AAAAJ&hl=fr
+    
+"bergkamp":
+  - firstname: ["Elisa", "E."]
+    url: https://www.linkedin.com/in/elisabergkamp/?originalSubdomain=nl
+    
+"adams":
+  - firstname: ["Camiel", "C."]
+    url: https://www.linkedin.com/in/camiel-adams/
+    
+"ding":
+  - firstname: ["Jingqian", "J.","J.Q."]
+    url: https://www.linkedin.com/in/jingqianding/
+    
+"meza":
+  - firstname: ["Lucas", "L.R."]
+    url: https://www.me.washington.edu/facultyfinder/lucas-r-meza
+    
+"schormans":
+  - firstname: ["Jim, "J.M.J."]
+    url: https://www.linkedin.com/in/jim-schormans-3a482a46/?originalSubdomain=nl
+    
+"deshpande":
+  - firstname: ["Vikram", "V.","V.S."]
+    url: https://www.eng.cam.ac.uk/profiles/vsd20
 
     
