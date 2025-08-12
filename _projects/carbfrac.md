@@ -28,6 +28,6 @@ foundation |
 | **PhD Candidate**      | Elisa Bergkamp     |
 | **Years**              | 2017-2022|
 | **Supervisors**        | Clemens Verhoosel (PI), Joris Remmers, David SMeulders |
-| **Website**            | [www.2f2s.org](2f2s.org) |
+| **Website**            | [www.2f2s.org](http://www.2f2s.org) |
 
 

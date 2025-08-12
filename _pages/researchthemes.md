@@ -37,7 +37,7 @@ these models as [constitutive laws](/projects/composite_PVDF) within
 computational costs, we employ advanced discretisation techniques, 
 including the 
 [partition of unity method](/projects/dioc10) and 
-[isogeometric analysis](projects/maaximus).
+[isogeometric analysis](/projects/maaximus).
 
 
 ## Additive Manufacturing
