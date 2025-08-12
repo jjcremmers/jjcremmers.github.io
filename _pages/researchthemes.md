@@ -6,7 +6,7 @@ toc:
   sidebar: left
 ---
 
-## Composites
+## Composite Materials
 
 Fibre reinforced composite materials are increasingly used in automotive and aerospace 
 applications due to their high stiffness and strength in combination with low specific 
@@ -15,8 +15,8 @@ failure mechanisms of these materials: Under what conditions will the material
 fail and what is its residual strength? This information is useful to design even 
 more efficient but safe lightweight structures and to modify the design of the 
 material itself in order to improve its performance. A good example is the development 
-of braided and 3D woven composites, which combine a high stiffness and strength with an 
-increased ductility.
+of braided and 3D woven composites, which combine a high stiffness and strength 
+with an increased ductility.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -26,6 +26,18 @@ increased ductility.
         {% include figure.liquid loading="eager" path="assets/img/composites_mesh.png" title="Mesh generation for owven composites" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+In my group, we develop numerical tools to predict the failure behaviour of 
+[woven](/projects/protechtion/) and 
+[3D interwoven composites](/projects/physicsbasedcomposites). We also design 
+[computational homogenisation schemes](/projects/protechtion/) to incorporate 
+these models as [constitutive laws](/projects/composite_PVDF) within 
+[continuum shell elements](/projects/dioc10), enabling 
+[structural-scale performance](/projects/lighter) analysis. To reduce
+computational costs, we employ advanced discretisation techniques, 
+including the 
+[partition of unity method](/projects/dioc10) and 
+[isogeometric analysis](projects/maaximus).
 
 
 ## Additive Manufacturing

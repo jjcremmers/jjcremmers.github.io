@@ -1,9 +1,11 @@
 ---
 layout: about
 title: About
-description: An overview of my current and past research projects in computational materials.
+description: An overview of my activities
+in computational structural materials science and education.
 permalink: /
-subtitle: Associate Professor Composite Materials at <a href='https://www.tue.nl'>Eindhoven University of Technology</a>
+subtitle: Associate Professor Composite Materials at 
+<a href='https://www.tue.nl'>Eindhoven University of Technology</a>
 
 profile:
   align: right
@@ -13,8 +15,9 @@ profile:
     <p>Eindhoven University of Technology</p>
     <p>Dept. Mechanical Engineering</p>    
     <p>Eindhoven, The Netherlands</p>
+    <p>Office: Vector 2.413</p>
     <p>Tel: +31 40 2473175</p>
-    <p>E-mail: J.J.C.Remmers@tue.nl<p>
+    <p>E-mail: J.J.C.Remmers@tue.nl</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,9 +31,9 @@ announcements:
 Welcome to my personal website. I am an academic professional working at the 
 intersection of engineering education and research. My research focuses on the 
 development of computational models for the mechanical analysis of 
-[composite materials](themes/#composites), the simulation of 
+[composite materials](themes/#composite-materials), the simulation of 
 [3D printing processes](themes/#additive-manufacturing), and the application of 
-[high-performance computing techniques](/themes/#high-poerformance-computing), including 
+[high-performance computing techniques](/themes/#high-performance-computing), including 
 reduced-order modeling.
 
 Alongside my research activities, I teach a variety of courses in these fields, 
@@ -50,8 +53,8 @@ On this website, you can find more information about my [research projects](proj
 the [courses](courses/) I am involved in, and my broader initiatives in 
 engineering education.
 
-For more specific information for prospective students, industrial partners or 
-educators, please click one of the buttons below.
+For more specific information for prospective students, industrial and academic 
+partners or educators, please click one of the buttons below.
 
 <div class="fancy-button-group">
   <a href="info/students" class="fancy-button">Students</a>
