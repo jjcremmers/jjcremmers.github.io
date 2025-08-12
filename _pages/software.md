@@ -9,7 +9,7 @@ children:
     permalink: /dawn/
   - title: divider
   - title: PyFEM
-    permalink: /pyfem/ 
+    permalink: /pyfem2/ 
   - title: divider
   - title: Other codes
     permalink: /repositories/     
