@@ -4,8 +4,7 @@ title: About
 description: An overview of my activities
 in computational structural materials science and education.
 permalink: /
-subtitle: Associate Professor Composite Materials at 
-<a href='https://www.tue.nl'>Eindhoven University of Technology</a>
+subtitle: Associate Professor Composite Materials at <a href='https://www.tue.nl'>Eindhoven University of Technology</a>
 
 profile:
   align: right
