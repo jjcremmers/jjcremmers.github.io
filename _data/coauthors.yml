@@ -19,7 +19,7 @@
     url: www.bmw.com   
     
 "van dommelen":
-  - firstname: ["Hans", "J.A.W."]
+  - firstname: ["Hans", "J.A.W.", "H."]
     url: https://www.tue.nl/en/research/researchers/hans-van-dommelen
         
 "dorussen":
@@ -205,6 +205,29 @@
 "huyghe":
   - firstname: ["Jacques", "J.", "J.M."]
     url: https://www.ul.ie/bernal/jacques-huyghe-bernal-chair
+    
+"larsson":
+  - firstname: ["Fredrik", "F."]
+    url: https://www.chalmers.se/en/persons/lafr/
+    
+"runesson":
+  - firstname: ["Kenneth", "K."]
+    url: https://www.chalmers.se/en/persons/keru/
+    
+"kaiser":
+  - firstname: ["Tobias", "T."]
+    url: https://im.mb.tu-dortmund.de/institut/team/tobias-kaiser/
+    
+"raasch":
+  - firstname: ["Thorsten", "T."]
+    url: https://www.uni-siegen.de/fb6/numerik/nmitarbeiter/raasch/
+
+"moustafa kamel":
+  - firstname: ["Karim", "K."]
+    url: https://batir.polytech.ulb.be/team/kehab
+    
+"wintiba":
+  - firstname: ["B.", "Roland"]
+    url: https://scholar.google.com/citations?user=DGIB5T0AAAAJ&hl=fr
 
     
-      
