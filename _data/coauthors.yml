@@ -56,7 +56,7 @@
     
 "needleman":
   - firstname: ["Alan", "A."]
-    url: https://engineering.tamu.edu/materials/profiles/aneedleman.html
+    url: https://hias.tamu.edu/fellow/dr-alan-needleman/
 
 "remmers":
   - firstname: ["Joris", "J.J.C.", "J."]
@@ -134,5 +134,77 @@
   - firstname: ["Diletta", "D."]
     url: https://www.linkedin.com/in/diletta-giuntini-b0352448/
     
+"maalderink":
+  - firstname: ["Hessel", "H.", "H.H."]
+    url: https://www.linkedin.com/in/hesselmaalderink/?originalSubdomain=nl
+    
+"classens":
+  - firstname: ["Koen", "K."]
+    url: https://www.linkedin.com/in/koen-classens/
+    
+"hafkamp":
+  - firstname: ["Thomas", "T."]
+    url: https://www.linkedin.com/in/thomashafkamp/
+    
+"tuijl":
+  - firstname: ["Rody", "R.", "R.A."]
+    url: https://www.linkedin.com/in/rody-van-tuijl/
+    
+"remij":
+  - firstname: ["Ernst", "E.", "E.W."]
+    url: https://www.linkedin.com/in/ernst-remij-00a22a6b/
+    
+"hosseini":
+  - firstname: ["Saman", "S."]
+    url: https://www.linkedin.com/in/saman-hosseini-8046a363/
+    
+"woldhuis":
+  - firstname: ["Erik", "E."]
+    url: https://www.linkedin.com/in/erik-woldhuis-797a37128/
+    
+"gutierrez":
+  - firstname: ["Miguel", "M.", "M.A."]
+    url: https://www.linkedin.com/in/miguelgutierrez919b7bb/
+    
+"weiland":
+  - firstname: ["Miguel", "M.", "M.A."]
+    url: https://www.tue.nl/en/research/researchers/siep-weiland
+    
+"harnish":
+  - firstname: ["Cale", "C."]
+    url: https://scholar.google.com/citations?user=ajDnCHAAAAAJ&hl=en
+    
+"matous":
+  - firstname: ["Karel", "K."]
+    url: https://engineering.nd.edu/faculty/karel-matous/
         
+"tighe":
+  - firstname: ["Brian", "B.", "B.P."]
+    url: https://www.tudelft.nl/staff/b.p.tighe
+        
+"saarlos":
+  - firstname: ["Wim", "W."]
+    url: https://www.universiteitleiden.nl/medewerkers/wim-van-saarloos
+        
+"hecke":
+  - firstname: ["Martin", "M."]
+    url: https://amolf.nl/people/martin-van-hecke
+        
+"wells":
+  - firstname: ["Garth", "G.", "G.N."]
+    url: https://www.eng.cam.ac.uk/profiles/gnw20
+        
+"crisfield":
+  - firstname: ["Michael", "Mike", "M.A."]
+    url: https://en.wikipedia.org/wiki/Michael_Anthony_Crisfield
+       
+"smeulders":
+  - firstname: ["David", "D.", "D.J.M."]
+    url: https://www.tue.nl/en/research/researchers/david-smeulders
+
+"huyghe":
+  - firstname: ["Jacques", "J.", "J.M."]
+    url: https://www.ul.ie/bernal/jacques-huyghe-bernal-chair
+
+    
       
