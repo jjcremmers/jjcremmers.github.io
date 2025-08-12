@@ -42,14 +42,16 @@ including the
 
 ## Additive Manufacturing
 
-Additive Manufacturing (or 3D printing) is a technique to produce unique products with 
-complex geometries. Due to new innovations in printing concepts and material systems, 
-the list of materials that can be printed is growing constantly. In our group, we study 
-the mechanical properties of these materials as a function of the printing process conditions. 
-By understanding this relation, we aim at improving material properties and printed product 
-quality. We develop multi-scale and multi physics numerical tools to simulate the 
-microstructural evolution of the material and the actual printing process. These models are 
-used in combination with advanced in-situ measurements closed loop control algorithms to improve the quality of 3D printed products.
+Additive Manufacturing (or 3D printing) is a technique to produce unique products 
+with complex geometries. Due to new innovations in printing concepts and material 
+systems, the list of materials that can be printed is growing constantly. In our 
+group, we study the mechanical properties of these materials as a function of 
+the printing process conditions. By understanding this relation, we aim at 
+improving material properties and printed product quality. We develop 
+multi-scale and multi physics [numerical tools](/software/dawn) to simulate 
+the microstructural evolution of the material and the actual printing process. 
+These models are used in combination with advanced in-situ measurements closed 
+loop control algorithms to improve the quality of 3D printed products.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -62,6 +64,8 @@ used in combination with advanced in-situ measurements closed loop control algor
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
+
+We do not focus on a single material or print technique. We have developed models for bed based printing of metals, fff printing of polymers, vat based printed electronics and 
 
 ## High performance computing
 
