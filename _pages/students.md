@@ -2,8 +2,6 @@
 layout: page
 permalink: /info/students
 title: Information for Bachelor and Master students
-toc:
-  sidebar: left
 ---
 
 Information for Bachelor and Master students
@@ -24,9 +22,28 @@ and or structural design, you can opt for a Bachelor Final Project within
 our section (Mechanics of Materials). Here, you will have the chance to work 
 on a project supervised by one of our PhD students and myself.
 
-A list of currently available projects can be found here.
+A list of currently available projects can be found [here](/studentprojects/).
 
 ## Master students
+
+My research group is part of the Section [Mechanics of Materials](https://www.tue.nl/mechmat), 
+which in turn belongs to the Division of [Computational and Experimental Mechanics](cem). I am involved 
+in three Master’s courses: [Composites and Lightweight Materials](/courses/4mm00), 
+[Scientific Computing for Mechanical Engineering](/courses/4em30/), 
+and [Advanced and Additive Manufacturing](/courses/4mm60).
+
+Any student in the Master’s program in Mechanical Engineering can follow these courses. 
+Students from other departments such as the Built Environment, Applied Physics, or Industrial Design
+are also welcome to take them as electives.
+
+If you are enrolled in the Section [Mechanics of Materials](https://www.tue.nl/mechmat), or in one of 
+the tracks 
+[Materials for High Tech Systems Design](https://www.tue.nl/studeren/graduate-school/mastertrack-materials-for-high-tech-systems-design), 
+[Computational Engineering](https://www.tue.nl/studeren/graduate-school/mastertrack-computational-engineering), 
+[Solid Mechanics](https://www.tue.nl/studeren/graduate-school/mastertrack-engineering-solid-mechanics), or 
+[Advanced Manufacturing Across the Scales](https://www.tue.nl/studeren/graduate-school/mastertrack-advanced-manufacturing-across-the-scales), 
+I can serve as your mentor and supervise your [internship](#internships) or 
+[Master’s thesis project](#master-thesis-projects).
 
 ### Internships
 
@@ -58,3 +75,9 @@ projects with greater academic depth. In some cases, they have also served as a
 stepping stone toward PhD research opportunities in related fields.
 
 ### Master Thesis projects
+
+Master’s thesis projects typically last 7 to 9 months and are usually connected to one of 
+our ongoing [research activities](/projects). In some cases, we use a Master’s project as an 
+opportunity to explore an entirely new field—sometimes even leading to new, funded PhD positions.
+
+A list of previous projects can be found [here](/mscthesis/). Current available projects can be found [here](studentprojects).
