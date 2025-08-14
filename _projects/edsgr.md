@@ -12,7 +12,7 @@ With generative AI tools like ChatGPT and Copilot increasingly able to produce f
 programming education faces a new challenge. While these tools can support learning, they also 
 risk encouraging students to bypass core skills such as abstraction, syntax, and problem-solving. 
 Responsible and effective use of AI requires a solid programming foundation, enabling students 
-to critically assess and refine AI-generated output {% cite groothuizen2024 }.
+to critically assess and refine AI-generated output {% cite groothuizen2024 %}.
 
 The EDSGR project proposes developing a dedicated Large Language Model tailored to TU/e 
 programming education. Unlike general-purpose tools, it will align with specific course 
