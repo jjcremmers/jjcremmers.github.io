@@ -10,6 +10,7 @@ related_publications: true
 
 {% cite Schmeitz2024 %}
 
+
 <br>
 <table class="table table-sm mt-2" style="text-align: left;">
   <tbody>

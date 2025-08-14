@@ -8,7 +8,8 @@ category: running
 related_publications: true
 ---
 
-With generative AI tools like ChatGPT and Copilot increasingly able to produce functional code, 
+With generative AI tools like ChatGPT and Copilot increasingly able to produce 
+functional code, 
 programming education faces a new challenge. While these tools can support learning, they also 
 risk encouraging students to bypass core skills such as abstraction, syntax, and problem-solving. 
 Responsible and effective use of AI requires a solid programming foundation, enabling students 
