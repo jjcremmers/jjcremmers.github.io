@@ -16,7 +16,7 @@ related_publications: true
     <tr>
       <td colspan="2" style="background-color: lightgray;"><strong>
         Ctrl-P: Compute-TRain-Learn 3d Printing
-      </td>
+      </strong></td>
     </tr>
     <tr>
       <td style="white-space: nowrap;"><strong>Funding</strong></td>
