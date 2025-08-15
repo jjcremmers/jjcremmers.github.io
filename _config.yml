@@ -149,7 +149,7 @@ collections:
     permalink: /:collection/:title/
   projects:
     output: true
-    permalink: /:collection/:title/
+    permalink: /projects/:title/
   courses:
     output: true
     permalink: /:collection/:title/    
@@ -226,6 +226,11 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: "_studentprojects"
+      type: "studentprojects"
+    values:
+      layout: project     
 
 sass:
   style: compressed
