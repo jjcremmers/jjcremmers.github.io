@@ -685,8 +685,8 @@ ninja.data = [{
           description: "Numerical and Experimental Analysis of the Sintering Behaviour of Ceramic Bilayer Membranes for Hydrogen Separation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/eires/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-development-of-a-g-code-reader-for-finite-element-simulations-of-additive-manufacturing-processes",
+          title: 'Development of a G-Code reader for Finite Element Simulations of Additive Manufacturing processes...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gcodereader/";
