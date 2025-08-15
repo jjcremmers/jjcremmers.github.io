@@ -155,9 +155,12 @@ collections:
     permalink: /:collection/:title/    
   studentprojects:
     output: true
-    permalink: /:collection/:title/     
+    permalink: /studentprojects/:title/     
     
-collections_dir: /    
+defaults:
+  - scope: { path: "_studentprojects", type: "studentprojects" }
+    values:
+      layout: project   # reuse the single-item “project” layout 
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
