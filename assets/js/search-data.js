@@ -58,6 +58,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
+            },{id: "dropdown-vacancies",
+              title: "Vacancies",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
             },{id: "nav-ai-in-education",
           title: "AI in education",
           description: "",
@@ -685,11 +692,6 @@ ninja.data = [{
           description: "Numerical and Experimental Analysis of the Sintering Behaviour of Ceramic Bilayer Membranes for Hydrogen Separation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/eires/";
-            },},{id: "projects-development-of-a-g-code-reader-for-finite-element-simulations-of-additive-manufacturing-processes",
-          title: 'Development of a G-Code reader for Finite Element Simulations of Additive Manufacturing processes...',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/gcodereader/";
             },},{id: "projects-hybman",
           title: 'HYBMAN',
           description: "Numerical simulation of FFF printing processes for structural electronics",
@@ -785,16 +787,26 @@ ninja.data = [{
           description: "Accurate Simulation of the VAT Photopolymerisation process for ceramics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vat/";
-            },},{id: "studentprojects-ctrl-p2",
-          title: 'Ctrl-P2',
-          description: "Machine learning to optimise 3D print processes 2",
+            },},{id: "studentprojects-beat-the-ai-agent",
+          title: 'Beat the AI Agent',
+          description: "Hand‑Crafted Fill Strategies vs. RL Fill Agent",
           section: "Studentprojects",handler: () => {
-              window.location.href = "/studentprojects/ctrlp2/";
-            },},{id: "studentprojects-testctrl-p2",
-          title: 'TESTCtrl-P2',
-          description: "Machine learning to optimise 3D print processes 2",
+              window.location.href = "/studentprojects/ctrlp/";
+            },},{id: "studentprojects-development-of-a-g-code-reader-for-finite-element-simulations-of-additive-manufacturing-processes",
+          title: 'Development of a G-Code reader for Finite Element Simulations of Additive Manufacturing processes...',
+          description: "",
           section: "Studentprojects",handler: () => {
-              window.location.href = "/studentprojects/ctrlp3/";
+              window.location.href = "/studentprojects/gcodereader/";
+            },},{id: "studentprojects-race-against-time",
+          title: 'Race Against Time',
+          description: "GPU-Accelerated Finite Element Methods for High-Performance Computing",
+          section: "Studentprojects",handler: () => {
+              window.location.href = "/studentprojects/race/";
+            },},{id: "studentprojects-thermo-mechanical-fem-solver",
+          title: 'Thermo-Mechanical FEM Solver',
+          description: "Coupling Thermal and Mechanical Simulation in Python",
+          section: "Studentprojects",handler: () => {
+              window.location.href = "/studentprojects/thermomech/";
             },},{
         id: 'social-email',
         title: 'email',
