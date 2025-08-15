@@ -5,6 +5,7 @@ permalink: /studentprojects/
 description: An overview of
 display_categories: [Bachelor,Master,Internship]
 horizontal: false
+collection: studentprojects
 ---
 
 <!-- pages/projects.md -->
