@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: page
 title: Student projects
 permalink: /studentprojects/
 description: An overview of
@@ -7,7 +7,7 @@ display_categories: [Bachelor, Master, Internship]
 horizontal: false
 ---
 
-<div class="studentprojects">
+<div class="projects studentprojects">
 {% assign all_items = site.studentprojects %}
 
 {% if site.enable_project_categories and page.display_categories %}
