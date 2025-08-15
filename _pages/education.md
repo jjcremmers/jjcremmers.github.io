@@ -13,4 +13,7 @@ children:
   - title: divider
   - title: MSc Theses
     permalink: /mscthesis/    
+  - title: divider
+  - title: Vacancies
+    permalink: /studentprojects/     
 ---
