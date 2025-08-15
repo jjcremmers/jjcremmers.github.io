@@ -156,6 +156,8 @@ collections:
   studentprojects:
     output: true
     permalink: /:collection/:title/     
+    
+collections_dir: /    
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
