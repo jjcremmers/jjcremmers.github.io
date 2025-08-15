@@ -640,6 +640,11 @@ ninja.data = [{
           description: "Numerical modeling and validation of fracture network formation in anisotropic media",
           section: "Projects",handler: () => {
               window.location.href = "/projects/anistropic_cracks/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gcodereader/";
             },},{id: "projects-pressure-vessels",
           title: 'Pressure Vessels',
           description: "Impact behavior of thick-walled composite-overwrapped pressure vessels",
@@ -785,11 +790,6 @@ ninja.data = [{
           description: "Machine learning to optimise 3D print processes 2",
           section: "Studentprojects",handler: () => {
               window.location.href = "/studentprojects/ctrlp2/";
-            },},{id: "studentprojects-",
-          title: '',
-          description: "",
-          section: "Studentprojects",handler: () => {
-              window.location.href = "/studentprojects/gcodereader/";
             },},{
         id: 'social-email',
         title: 'email',
