@@ -640,11 +640,6 @@ ninja.data = [{
           description: "Numerical modeling and validation of fracture network formation in anisotropic media",
           section: "Projects",handler: () => {
               window.location.href = "/projects/anistropic_cracks/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/gcodereader/";
             },},{id: "projects-pressure-vessels",
           title: 'Pressure Vessels',
           description: "Impact behavior of thick-walled composite-overwrapped pressure vessels",
@@ -690,6 +685,11 @@ ninja.data = [{
           description: "Numerical and Experimental Analysis of the Sintering Behaviour of Ceramic Bilayer Membranes for Hydrogen Separation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/eires/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gcodereader/";
             },},{id: "projects-hybman",
           title: 'HYBMAN',
           description: "Numerical simulation of FFF printing processes for structural electronics",
