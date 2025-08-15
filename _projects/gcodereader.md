@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Development of a G-Code reader for Finite Element
-Simulations of Additive Manufacturing processes
+title: Development of a G-Code reader for Finite Element Simulations of Additive Manufacturing processes
 description: 
 img: assets/img/12.jpg
 importance: 1
