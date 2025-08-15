@@ -780,6 +780,11 @@ ninja.data = [{
           description: "Machine learning to optimise 3D print processes 2",
           section: "Studentprojects",handler: () => {
               window.location.href = "/studentprojects/ctrlp2/";
+            },},{id: "studentprojects-",
+          title: '',
+          description: "",
+          section: "Studentprojects",handler: () => {
+              window.location.href = "/studentprojects/gcodereader/";
             },},{
         id: 'social-email',
         title: 'email',
