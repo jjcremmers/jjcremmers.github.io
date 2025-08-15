@@ -4,7 +4,7 @@ title: Ctrl-P2
 description: Machine learning to optimise 3D print processes 2
 img: assets/img/12.jpg
 importance: 1
-category: BEP 
+category: Bachelor 
 ---
 
 # Beat the AI Agent: Hand‑Crafted Fill Strategies vs. RL Fill Agent
