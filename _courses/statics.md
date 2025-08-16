@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Statics
-description: Bachelor, Year 1, Delft University of Technology
+description: AE1-914, BSc, Year 1, Delft University of Technology
 img: assets/img/statics_delft.png
 importance: 12
 category: Old

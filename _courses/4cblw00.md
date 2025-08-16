@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Multi-Disciplinary CBL 
-description: 2025-
+description: 4CBLW00, BSc Year 2
 img: assets/img/12.jpg
 importance: 2
 category: Bachelor

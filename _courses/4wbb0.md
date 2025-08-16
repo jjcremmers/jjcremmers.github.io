@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Engineering Design
-description: 2015-2023                                             
+description: 4WBB0, BSc Year 2                                          
 img: assets/img/4wbb0.jpg
 importance: 1
 category: Old

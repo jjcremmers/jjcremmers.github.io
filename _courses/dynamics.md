@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dynamics
-description: Bachelor, Year 1, Delft University of Technology
+description: AE1-914, BSc Year 1, Delft University of Technology
 img: assets/img/dynamics_delft.png
 importance: 10
 category: Old

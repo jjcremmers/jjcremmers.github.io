@@ -10,7 +10,7 @@ horizontal: false
 In the past 20 years, I have been teaching numerous courses on [Bachelor](/courses/#Bachelor), Master and PhD level.
 
 <!-- pages/courses.md -->
-<div class="courses">
+<div class="projects courses">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized courses -->
   {% for category in page.display_categories %}
