@@ -468,72 +468,72 @@ ninja.data = [{
       },
     },{id: "courses-principles-of-design-and-programming",
           title: 'Principles of Design and Programming',
-          description: "2023-",
+          description: "4CA10, BSc Year 1",
           section: "Courses",handler: () => {
               window.location.href = "/courses/4ca10/";
             },},{id: "courses-circular-electronics",
           title: 'Circular Electronics',
-          description: "2024-",
+          description: "4CBLW00-11, BSc Year 2",
           section: "Courses",handler: () => {
               window.location.href = "/courses/4cblw00-11/";
             },},{id: "courses-multi-disciplinary-cbl",
           title: 'Multi-Disciplinary CBL',
-          description: "2025-",
+          description: "4CBLW00, BSc Year 2",
           section: "Courses",handler: () => {
               window.location.href = "/courses/4cblw00/";
             },},{id: "courses-programming-project",
           title: 'Programming Project',
-          description: "Bachelor, Year 3",
+          description: "4EE12, BSc Year 3",
           section: "Courses",handler: () => {
               window.location.href = "/courses/4ee12/";
-            },},{id: "courses-scientific-computing",
-          title: 'Scientific Computing',
-          description: "2015-",
+            },},{id: "courses-scientific-computing-for-mechanical-engineergin",
+          title: 'Scientific Computing for Mechanical Engineergin',
+          description: "4EM30, MSc",
           section: "Courses",handler: () => {
               window.location.href = "/courses/4em30/";
             },},{id: "courses-experimental-and-numerical-skills",
           title: 'Experimental and Numerical Skills',
-          description: "2015-2025",
+          description: "4MC00, Bachelor Year 3",
           section: "Courses",handler: () => {
               window.location.href = "/courses/4mc00/";
             },},{id: "courses-composite-and-light-weight-materials",
           title: 'Composite and Light Weight Materials',
-          description: "Design and Analysis",
+          description: "4MM00, MSc",
           section: "Courses",handler: () => {
               window.location.href = "/courses/4mm00/";
             },},{id: "courses-advanced-and-additive-manufacturing",
           title: 'Advanced and Additive Manufacturing',
-          description: "2022-",
+          description: "4MM60, MSc",
           section: "Courses",handler: () => {
               window.location.href = "/courses/4mm60/";
             },},{id: "courses-mechanics",
           title: 'Mechanics',
-          description: "2008-2023",
+          description: "4RA00, BSc Year 1",
           section: "Courses",handler: () => {
               window.location.href = "/courses/4ra00/";
             },},{id: "courses-engineering-design",
           title: 'Engineering Design',
-          description: "2015-2023",
+          description: "4WBB0, BSc Year 2",
           section: "Courses",handler: () => {
               window.location.href = "/courses/4wbb0/";
             },},{id: "courses-dynamics",
           title: 'Dynamics',
-          description: "Bachelor, Year 1, Delft University of Technology",
+          description: "AE1-914, BSc Year 1, Delft University of Technology",
           section: "Courses",handler: () => {
               window.location.href = "/courses/dynamics/";
             },},{id: "courses-the-partition-of-unitvy-method",
           title: 'The Partition of unitvy Method',
-          description: "A series of lectures part of the ENgineering Mechanics Graduate School",
+          description: "PhD (Engineering Mechanics Graduate School)",
           section: "Courses",handler: () => {
               window.location.href = "/courses/po1/";
             },},{id: "courses-statics",
           title: 'Statics',
-          description: "Bachelor, Year 1, Delft University of Technology",
+          description: "AE1-914, BSc, Year 1, Delft University of Technology",
           section: "Courses",handler: () => {
               window.location.href = "/courses/statics/";
-            },},{id: "courses-truss-structure-cbl-course",
-          title: 'Truss Structure CBL course',
-          description: "2008-2015",
+            },},{id: "courses-truss-structure-cbl",
+          title: 'Truss Structure CBL',
+          description: "4GA00, BSc Year 1",
           section: "Courses",handler: () => {
               window.location.href = "/courses/truss/";
             },},{id: "news-a-simple-inline-announcement",
