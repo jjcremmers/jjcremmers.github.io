@@ -2,7 +2,7 @@
 layout: page
 title: Multi-Disciplinary CBL 
 description: 4CBLW00, BSc Year 2
-img: assets/img/12.jpg
+img: assets/img/4cblw00.png
 importance: 2
 category: Bachelor
 ---
@@ -34,5 +34,5 @@ own contribution and that of their teammates, promoting both personal growth and
 | **Code**                   | 4CBLW00                                                    |
 | **Level**                  | Bachelor, Year 2                                           |
 | **Years**                  | 2025-                                                      |
-| **Lecturers/Organisers**   | Bart van Esch, Joris Remmers, Eine Vrenken, Didi S\"uwester  |
+| **Lecturers/Organisers**   | Bart van Esch, Joris Remmers, Eine Vrenken, Didi S&uuml;wester  |
 | **Number of students**     | 1850                                                       |
