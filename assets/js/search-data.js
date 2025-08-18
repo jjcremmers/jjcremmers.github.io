@@ -787,6 +787,11 @@ ninja.data = [{
           description: "Accurate Simulation of the VAT Photopolymerisation process for ceramics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/vat/";
+            },},{id: "studentprojects-3d-metal-printing-in-aerospace",
+          title: '3D metal printing in aerospace',
+          description: "Model based process parameter optimization in Laser Powder Bed Fusion for improved process control",
+          section: "Studentprojects",handler: () => {
+              window.location.href = "/studentprojects/amnlr/";
             },},{id: "studentprojects-beat-the-ai-agent",
           title: 'Beat the AI Agent',
           description: "Hand‑Crafted Fill Strategies vs. RL Fill Agent",
