@@ -43,7 +43,7 @@
       "url": "www.tue.nl",
       "startDate": "2015-01",
       "endData": "Present",
-      "location": "Eindhoven, Netherlands",      
+      "location": "Eindhoven, NL",      
       "summary": "Research and teaching in computational mechanics, composite materials, additive manufacturing and AI in education.",
       "highlights": ["Developed numerical models to anylse the mechanical behaviour of composites","Developed numerical models to simulate additive manufacturing processes", "Organized Multidisciplinary Challenge-Based Learning course for 500+ students", "Introduced AI-driven programming support for engineering students"]
     },
@@ -53,7 +53,7 @@
       "url": "www.asml.com",
       "startDate": "2022-12-01",
       "endDate": "2023-07-01",
-      "location": "Veldhoven, Netherlands",            
+      "location": "Veldhoven, NL",            
       "summary": "Internship position"
     },    
     {
@@ -62,7 +62,7 @@
       "url": "www.tue.nl",
       "startDate": "2007-09",
       "endDate": "2015-01",
-      "location": "Eindhoven, Netherlands",            
+      "location": "Eindhoven, NL",            
       "summary": "Teaching and research"
     },
     {
@@ -71,7 +71,7 @@
       "url": "www.tue.nl",
       "startDate": "2007-09",
       "endDate": "2008-06",
-      "location": "Leiden, Netherlands",            
+      "location": "Leiden, NL",            
       "summary": "Teaching and research"
     },    
     {
@@ -80,7 +80,7 @@
       "url": "www.tudelft.nl",
       "startDate": "2006-11",
       "endDate": "2007-08",
-      "location": "Netherlands, Netherlands",            
+      "location": "Delft, NL",            
       "summary": "Teaching and research"
     },
     {
@@ -108,7 +108,7 @@
       "url": "www.tudelft.nl",
       "startDate": "2003-01",
       "endDate": "2006-10",
-      "location": "Delft, Netherlands",            
+      "location": "Delft, NL",            
       "summary": "Teaching and research"
     }, 
     {
@@ -117,7 +117,7 @@
       "url": "www.tudelft.nl",
       "startDate": "1999-01",
       "endDate": "2002-12",
-      "location": "Delft, Netherlands",            
+      "location": "Delft, NL",            
       "summary": "Teaching and research"
     },
     {
@@ -126,7 +126,7 @@
       "url": "www.tudelft.nl",
       "startDate": "1997",
       "endDate": "1998",
-      "location": "Delft, Netherlands",            
+      "location": "Delft, NL",            
       "summary": "Teaching assistant in 1st years meachanics courses",
     },
     {
@@ -135,14 +135,14 @@
       "url": "www.nlr.nl",
       "startDate": "1995-07",
       "endDate": "1995-09",
-      "location": "Marknesse, Netherlands",
+      "location": "Marknesse, NL",
       "summary": "Development of test cases for the B2000 Finite Element Code"      
     }    
   ],
   "education": [
     {
       "institution": "Delft University of Technology",
-      "location": "Delft, Netherlands",
+      "location": "Delft, NL",
       "url": "https://www.tudelft.nl/",
       "area": "Computational Fracture Mechanics",
       "studyType": "PhD",
@@ -152,7 +152,7 @@
     },
     {
       "institution": "Delft University of Technology",
-      "location": "Delft, Netherlands",
+      "location": "Delft, NL",
       "url": "https://www.tudelft.nl/",
       "area": "Computational Mechanics",
       "studyType": "MsC",
@@ -192,7 +192,7 @@
       "fluency": "Intermediate"
     }
   ],
-  "service to the profession": [
+  "service": [
     {
       "name": "Academy for Learning and Teaching",
       "position": "AI learning connector",
