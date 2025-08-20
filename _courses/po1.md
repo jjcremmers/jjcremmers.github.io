@@ -8,7 +8,7 @@ category: Phd
 related_publications: true
 ---
 
-
+More information will follow soon!
 
 | **Course name**            | The Partition of Unity method  |
 | **Level**                  | PhD                            |
