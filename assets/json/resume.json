@@ -45,10 +45,7 @@
       "endData": "Present",
       "location": "Eindhoven, Netherlands",      
       "summary": "Research and teaching in computational mechanics, composite materials, additive manufacturing and AI in education.",
-      "highlights": ["Developed numerical models to anylse the mechanical behaviour of composites",
-                     "Developed numerical models to simulate additive manufacturing processes",                     
-                     "Organized Multidisciplinary Challenge-Based Learning course for 500+ students",
-                     "Introduced AI-driven programming support for engineering students"]
+      "highlights": ["Developed numerical models to anylse the mechanical behaviour of composites","Developed numerical models to simulate additive manufacturing processes", "Organized Multidisciplinary Challenge-Based Learning course for 500+ students", "Introduced AI-driven programming support for engineering students"]
     },
     {
       "name": "ASML Research",
@@ -201,14 +198,14 @@
       "position": "AI learning connector",
       "startDate": "2025",
       "endDate": "Present",
-      "summary": ""
+      "summary": "."
     },  
     {
       "name": "Materials for High Tech Systems Design ",
       "position": "Coordinator",
       "startDate": "2023",
       "endDate": "Present",
-      "summary": ""
+      "summary": "."
     },  
     {
       "name": "ICT committee, Mechanical Engineering department",
@@ -243,7 +240,7 @@
     },
     {
       "name": "Football coach",
-      "keywords": ["Various youth and amateur teams"]
+      "keywords": "Various youth and amateur teams"
     }
   ]
 }
