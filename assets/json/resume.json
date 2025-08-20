@@ -2,10 +2,11 @@
   "basics": {
     "name": "Joris Remmers",
     "label": "Associate Professor",
-    "image": "",
+    "image": "/assets/img/remmers_photo25.jpg",
     "email": "j.j.c.remmers@tue.nl",
     "phone": "+31 (0)40 247 3175",
     "url": "https://www.jorisremmers.com",
+    "summary": "Mechanical engineering researcher with expertise in composite materials, additive manufacturing, scientific computing and AI in education. Teaching computational modeling and challenge-based learning.",
     "location": {
       "address": "Vector 2.413",
       "postalCode": "PO Box 513",
@@ -16,9 +17,23 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "...",
-        "url": "www.linkedin.com"
-      }
+        "url": "www.linkedin.com/in/jorisremmers"
+      },
+      {
+        "network": "GitHub",
+        "username": "jjcremmers",
+        "url": "https://github.com/jjcremmers:
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Joris J.C. Remmers",
+        "url": "https://scholar.google.nl/citations?user=C5l2Pb8AAAAJ&hl=en"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Joris J.C. Remmers",
+        "url": "https://www.researchgate.net/profile/Joris-Remmers"
+      }      
     ]
   },
   "work": [
@@ -27,9 +42,13 @@
       "position": "Associate Professor",
       "url": "www.tue.nl",
       "startDate": "2015-01",
+      "endData": "Present",
       "location": "Eindhoven, Netherlands",      
-      "summary": "Teaching rsearch",
-      "highlights": ["Computational Mechanics"]
+      "summary": "Research and teaching in computational mechanics, composite materials, additive manufacturing and AI in education.",
+      "highlights": ["Developed numerical models to anylse the mechanical behaviour of composites",
+                     "Developed numerical models to simulate additive manufacturing processes",                     
+                     "Organized Multidisciplinary Challenge-Based Learning course for 500+ students",
+                     "Introduced AI-driven programming support for engineering students"]
     },
     {
       "name": "ASML Research",
@@ -38,8 +57,7 @@
       "startDate": "2022-12-01",
       "endDate": "2023-07-01",
       "location": "Veldhoven, Netherlands",            
-      "summary": "Internship",
-      "highlights": ["Computational Mechanics"]
+      "summary": "Internship position"
     },    
     {
       "name": "Eindhoven University of Technology",
@@ -48,8 +66,7 @@
       "startDate": "2007-09",
       "endDate": "2015-01",
       "location": "Eindhoven, Netherlands",            
-      "summary": "Teaching rsearch",
-      "highlights": ["Computational Mechanics"]
+      "summary": "Teaching and research"
     },
     {
       "name": "Institute Lorentz for Theoretical Physics, Leiden University",
@@ -58,8 +75,7 @@
       "startDate": "2007-09",
       "endDate": "2008-06",
       "location": "Leiden, Netherlands",            
-      "summary": "Teaching rsearch",
-      "highlights": ["Computational Mechanics"]
+      "summary": "Teaching and research"
     },    
     {
       "name": "Delft University of Technology",
@@ -68,17 +84,8 @@
       "startDate": "2006-11",
       "endDate": "2007-08",
       "location": "Netherlands, Netherlands",            
-      "summary": "Teaching rsearch",
-      "highlights": ["Computational Mechanics"]
+      "summary": "Teaching and research"
     },
-    {
-      "name": "Brown University",
-      "position": "Visiting scholar",
-      "url": "www.brown.edu",
-      "startDate": "2002-02",
-      "endDate": "2003-08",
-      "location": "Providence, RI"
-    },    
     {
       "name": "NASA Langley Research Center",
       "position": "Visiting SCholar",
@@ -90,14 +97,22 @@
       "highlights": ["Computational Mechanics"]
     },    
     {
+      "name": "Brown University",
+      "position": "Visiting scholar",
+      "url": "www.brown.edu",
+      "startDate": "2002-02",
+      "endDate": "2003-08",
+      "location": "Providence, RI",
+      "summary": "Several visits to the research group of Alan Needleman as part of my PhD project."
+    },        
+    {
       "name": "Delft University of Technology",
       "position": "PhD Candidate / Researcher",
       "url": "www.tudelft.nl",
       "startDate": "2003-01",
       "endDate": "2006-10",
       "location": "Delft, Netherlands",            
-      "summary": "Teaching rsearch",
-      "highlights": ["Computational Mechanics"]
+      "summary": "Teaching and research"
     }, 
     {
       "name": "Delft University of Technology",
@@ -106,8 +121,7 @@
       "startDate": "1999-01",
       "endDate": "2002-12",
       "location": "Delft, Netherlands",            
-      "summary": "Teaching rsearch",
-      "highlights": ["Computational Mechanics"]
+      "summary": "Teaching and research"
     },
     {
       "name": "Delft University of Technology",
@@ -116,8 +130,7 @@
       "startDate": "1997",
       "endDate": "1998",
       "location": "Delft, Netherlands",            
-      "summary": "Teaching rsearch",
-      "highlights": ["Mechanics"]
+      "summary": "Teaching assistant in 1st years meachanics courses",
     },
     {
       "name": "Netherlands Aerospace Centre (NLR)",
@@ -125,7 +138,8 @@
       "url": "www.nlr.nl",
       "startDate": "1995-07",
       "endDate": "1995-09",
-      "location": "Marknesse, Netherlands"
+      "location": "Marknesse, Netherlands",
+      "summary": "Development of test cases for the B2000 Finite Element Code"      
     }    
   ],
   "education": [
@@ -137,7 +151,7 @@
       "studyType": "PhD",
       "startDate": "1999-01-01",
       "endDate": "2006-10-25",
-      "score": "Cum Laude"
+      "gpa": "Cum Laude"
     },
     {
       "institution": "Delft University of Technology",
@@ -146,17 +160,90 @@
       "area": "Computational Mechanics",
       "studyType": "MsC",
       "startDate": "1992-09-01",
-      "endDate": "1999-10-01"
+      "endDate": "1999-10-01",
+      "gpa": "8/10"
     }
   ],
-  "volunteer": [
+  "skills": [
     {
-      "organization": "SV Brandevoort",
-      "location": "Helmond, Netherlands",
-      "position": "Football Coach",
-      "startDate": "2012",
-      "endDate": "2025",
-      "summary": "Coaching several youth teams"
+      "name": "Programming",
+      "level": "Advanced",
+      "keywords": ["Python", "C++", "MATLAB", "Git"]
+    },
+    {
+      "name": "Simulation & Modeling",
+      "level": "Expert",
+      "keywords": ["Finite Element Method", "Discrete Element Method", "Multiscale modeling", "HPC", "Partition of Unity Method", "Reduced Order Methods", "Isogeometric Analysis" ]
+    },
+    {
+      "name": "Teaching & Education",
+      "level": "Expert",
+      "keywords": ["Challenge-Based Learning", "AI in Education", "Curriculum Design"]
     }
-  ]  
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Intermediate"
+    }
+  ],
+  "service to the profession": [
+    {
+      "name": "Academy for Learning and Teaching",
+      "position": "AI learning connector",
+      "startDate": "2025",
+      "endDate": "Present",
+      "summary": ""
+    },  
+    {
+      "name": "Materials for High Tech Systems Design ",
+      "position": "Coordinator",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": ""
+    },  
+    {
+      "name": "ICT committee, Mechanical Engineering department",
+      "position": "Member / Chairman (since 2021)",
+      "startDate": "2016",
+      "endDate": "Present",
+      "summary": "."
+    },
+    {
+      "name": "Information activies for prospective students",
+      "position": "Presenter",
+      "startDate": "2021",
+      "endDate": "Presenter",
+      "summary": "General introduction lecture of the Bachelor programme ‘Werktuigbouwkunde’ (Mechanical Engineering) during the open days of the university."
+    },
+    {
+      "name": "ECCOMAS thematic conferences on the mechanical response of composites",
+      "position": "Organiser / Member of the Scientific Board",
+      "startDate": "2007",
+      "endDate": "Present",
+      "summary": "Initiator of this conference series and chair of the 1st edition in Porto in 2007, the fifth edition in Bistol in 2015 and the sixth editiion in Eindhoven in 2017."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cycling",
+      "keywords": ["Road cycling", "Gravel cycling"]
+    },
+    {
+      "name": "Playing Guitar",
+      "keywords": ["acoustic", "electric", "bass", "banjo"]
+    },
+    {
+      "name": "Football coach",
+      "keywords": ["Various youth and amateur teams"]
+    }
+  ]
 }
