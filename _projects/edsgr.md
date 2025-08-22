@@ -39,8 +39,6 @@ will guide further development of the tool and teaching strategies.
 If successful, EDSGR could be extended to other programming-related courses and departments, 
 offering a scalable way to combine AI support with strong pedagogical oversight.
 
-Eindhoven Digital Scientific Computing Guidance Repository (EDSGR)
-
 <br>
 <table class="table table-sm mt-2" style="text-align: left;">
   <tbody>
@@ -67,7 +65,20 @@ Eindhoven Digital Scientific Computing Guidance Repository (EDSGR)
         Nick Jaensson and Joris Remmers
       </td>
     </tr>
+    <tr>
+      <td style="white-space: nowrap;"><strong>Website</strong></td>
+      <td>
+        <a href="https://boost.tue.nl/projects/edsgr-eindhoven-digital-scientific-computing-guidance">
+        https://boost.tue.nl/projects/edsgr-eindhoven-digital-scientific-computing-guidance</a>
+      </td>
+    </tr>    
   </tbody>
 </table>
 <br>
+
+
+
+
+
+https://boost.tue.nl/projects/edsgr-eindhoven-digital-scientific-computing-guidance-repository/
 
