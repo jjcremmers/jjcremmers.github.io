@@ -672,9 +672,9 @@ ninja.data = [{
           description: "Machine learning to optimise 3D print processes 2",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ctrlp2/";
-            },},{id: "projects-ctrl-p",
-          title: 'Ctrl-P',
-          description: "Machine learning to optimise 3D print processes",
+            },},{id: "projects-partitiy-of-unity-method",
+          title: 'Partitiy of Unity Method',
+          description: "Advanced numerical techniques for the simulation of fracture",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dioc10/";
             },},{id: "projects-dipmet",
