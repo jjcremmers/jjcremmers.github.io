@@ -78,7 +78,3 @@ offering a scalable way to combine AI support with strong pedagogical oversight.
 
 
 
-
-
-https://boost.tue.nl/projects/edsgr-eindhoven-digital-scientific-computing-guidance-repository/
-

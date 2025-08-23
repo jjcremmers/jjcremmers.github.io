@@ -55,62 +55,63 @@ loop control algorithms to improve the quality of 3D printed products.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/am-fff.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/am_std" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
 
-We do not focus on a single material or print technique. We have developed models for bed based printing of metals, fff printing of polymers, vat based printed electronics and 
+We do not focus on a single material or print technique. We have developed models for 
+bed based printing of [metals](/projects/mm3d) and [ceramics](/projects/vat/), 
+[fff printing of polymers](/projects/hybman) and 
+[printed electronics](/projects/ampere). 
 
 ## High performance computing
 
 Despite the ever increasing computational speed of computers, there is a demand for more 
 advanced computation schemes to study bigger systems with increasing detail. In the past, 
-the group has developed Partition of unity based cohesive zone models (X-FEM) and discrete 
-dislocation models. Our current research is focused on the development of novel model order 
-reduction techniques and isogeometric analysis.
+the group has developed 
+[Partition of unity based cohesive zone models (X-FEM)](/projects/dioc10/) and 
+[discrete dislocation models](/projects/dislocations/). Our current research is 
+focused on the development of 
+[novel model order reduction techniques](/projects/upsim) and 
+[isogeometric analysis](/projects/lighter).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/metmat.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/lee-bed.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
 
 
 ## Porous Materials
 
-In collaboration with the Energy Technology Group of David Smeulders, we develop models to 
-predict crack growth in porous media. The main application of this research is the creation 
-of geothermal heat sources, which are produced by injecting water in deep layers of the earth 
-in order to create a network of fractures.
+In collaboration with the 
+[Energy Technology Group](https://www.tue.nl/en/research/research-groups/energy-technology) of David Smeulders, we 
+develop models to 
+predict [crack growth in porous media](/projects/cqarbfrac). 
+The main application of this research is the creation of geothermal heat sources, 
+which are produced by injecting water in deep layers of the earth in order to create 
+a network of fractures.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/must.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/shawave.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
 
 
 ## AI in Education
 
-My interest in AI in education began in 2022 while preparing my Scientific Computing course. 
+My interest in AI in education began in 2022 while preparing my [Scientific Computing course](/courses/4em30). 
 Early experiments with ChatGPT showed both promise and pitfalls—improved explanation and 
 debugging, but also reduced peer interaction and critical thinking. This led to a formal 
 study with the Eindhoven School of Education, revealing that while students used AI tools 
@@ -121,14 +122,3 @@ meaningful student learning.
 
 More information [here](/ai_in_education).
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
