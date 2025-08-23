@@ -55,10 +55,10 @@ loop control algorithms to improve the quality of 3D printed products.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/am-fff.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/am_fff.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/am_std" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/am_std,.ng" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -80,7 +80,7 @@ focused on the development of
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/metmat.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/metamat.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/lee-bed.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -94,7 +94,7 @@ focused on the development of
 In collaboration with the 
 [Energy Technology Group](https://www.tue.nl/en/research/research-groups/energy-technology) of David Smeulders, we 
 develop models to 
-predict [crack growth in porous media](/projects/cqarbfrac). 
+predict [crack growth in porous media](/projects/carbfrac). 
 The main application of this research is the creation of geothermal heat sources, 
 which are produced by injecting water in deep layers of the earth in order to create 
 a network of fractures.
