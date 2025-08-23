@@ -672,6 +672,11 @@ ninja.data = [{
           description: "Machine learning to optimise 3D print processes 2",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ctrlp2/";
+            },},{id: "projects-ctrl-p",
+          title: 'Ctrl-P',
+          description: "Machine learning to optimise 3D print processes",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dioc10/";
             },},{id: "projects-dipmet",
           title: 'DIPMET',
           description: "Deposition of metal powder for 3D printing",
