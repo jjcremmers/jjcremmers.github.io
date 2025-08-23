@@ -1,14 +1,24 @@
 ---
 layout: page
-title:  Ctrl-P 
-description: Machine learning to optimise 3D print processes
+title:  Partitiy of Unity Method
+description: Advanced numerical techniques for the simulation of fracture
 img: assets/img/hpc_std.jpg
 importance: 2
-category: running
+category: finished
 related_publications: true
 ---
 
-{% cite Schmeitz2024 %}
+More information will follow soon.
+
+{% cite Remmers2001 %}
+{% cite Remmers2003b %}
+{% cite Remmers2003 %}
+{% cite deBorst2004b %}
+{% cite deBorst2004 %}
+{% cite deBorst2006b %}
+{% cite deBorst2006 %}
+{% cite Remmers2008 %}
+{% cite Remmers2006PhD %}
 
 
 <br>
@@ -16,36 +26,39 @@ related_publications: true
   <tbody>
     <tr>
       <td colspan="2" style="background-color: lightgray;"><strong>
-        Ctrl-P: Compute-TRain-Learn 3d Printing
+        Advanced numerical techniques for the simulation of fracture
       </strong></td>
     </tr>
     <tr>
       <td style="white-space: nowrap;"><strong>Funding</strong></td>
       <td>
-        EMDAIR (Eindhoven Artificial Intelligence Systems Institute)
+        DIOC10 (Delft University of Technology)
       </td>
     </tr>
     <tr>
       <td style="white-space: nowrap;"><strong>Years</strong></td>
       <td>
-        2023-
+        2005-2009   
       </td>
     </tr>
     <tr>
       <td style="white-space: nowrap;"><strong>PhD-candidate</strong></td>
       <td>
-        Ruben Schmeitz and Benjamin Caris
+        Joris Remmers
       </td>
     </tr>
     <tr>
       <td style="white-space: nowrap;"><strong>Supervisors</strong></td>
       <td>
-        Joris Remmers (PI), Rob Wolfs, Olga Mula, Rafael Bailo
+        Rene de Borst, Alan Needleman
       </td>
-    </tr>    
+    </tr>     
+    <tr>
+      <td style="white-space: nowrap;"><strong>Collaborators</strong></td>
+      <td>
+        Brown University, NASA LAngley Research Center
+      </td>
+    </tr>     
   </tbody>
 </table>
 <br>
-
-
-

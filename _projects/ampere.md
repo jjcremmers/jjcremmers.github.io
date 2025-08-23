@@ -14,6 +14,7 @@ related_publications: true
     <tr>
       <td colspan="2" style="background-color: lightgray;"><strong>
         AMPERE: Additive Manufacturing based Production of Embedded Robust Electronics
+        </strong>
       </td>
     </tr>
     <tr>

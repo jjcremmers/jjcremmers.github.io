@@ -67,6 +67,12 @@ bed based printing of [metals](/projects/mm3d) and [ceramics](/projects/vat/),
 [fff printing of polymers](/projects/hybman) and 
 [printed electronics](/projects/ampere). 
 
+Together with Giulia Finotello and Niels Deen of the section 
+[Power and Flow](https://www.tue.nl/en/research/research-groups/power-flow) we are
+investigating novel techniques to [produce](/projects/metpam) and to 
+[deposit](/projects/dipmet) metal powder particles for bed based additive
+manufacturing.
+
 ## High performance computing
 
 Despite the ever increasing computational speed of computers, there is a demand for more 

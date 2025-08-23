@@ -8,12 +8,41 @@ category: running
 related_publications: true
 ---
 
-| **Project**            | Numerical and Experimental Analysis of the Sintering Behaviour of Ceramic Bilayer Membranes for Hydrogen Separation|
-| **Funding**            | EIRES|
-| **Years**              | 2024-                                   |
-| **PhD Candidates**     | Anne Timmermans       |
-| **Supervisors**        | Diletta Giuntini (PI), Joris Remmers, Maja Rucker |
+More information will follow soon!
 
-
-
+<br>
+<table class="table table-sm mt-2" style="text-align: left;">
+  <tbody>
+    <tr>
+      <td colspan="2" style="background-color: lightgray;"><strong>
+        Numerical and Experimental Analysis of the Sintering Behaviour of Ceramic Bilayer Membranes for Hydrogen Separation
+      </strong></td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;"><strong>Funding</strong></td>
+      <td>
+        EIRES
+      </td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;"><strong>Years</strong></td>
+      <td>
+        2024-   
+      </td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;"><strong>PhD-candidate</strong></td>
+      <td>
+        Anne Timmermans  
+      </td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap;"><strong>Supervisors</strong></td>
+      <td>
+        Diletta Giuntini (PI), Joris Remmers, Maja Rucker
+      </td>
+    </tr>    
+  </tbody>
+</table>
+<br>
 
