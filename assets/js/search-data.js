@@ -802,9 +802,9 @@ ninja.data = [{
           description: "Hand‑Crafted Fill Strategies vs. RL Fill Agent",
           section: "Studentprojects",handler: () => {
               window.location.href = "/studentprojects/ctrlp/";
-            },},{id: "studentprojects-g-code-reader",
-          title: 'G-Code reader',
-          description: "Development of a G-Code reader for Finite Element Simulations of Additive Manufacturing processes",
+            },},{id: "studentprojects-",
+          title: '',
+          description: "",
           section: "Studentprojects",handler: () => {
               window.location.href = "/studentprojects/gcodereader/";
             },},{id: "studentprojects-race-against-time",
