@@ -1,55 +1,45 @@
 ---
 layout: page
-title: Development of a G-Code reader for Finite Element Simulations of Additive Manufacturing processes
-description: 
+title: G-Code reader
+description: Development of a G-Code reader for Finite Element Simulations of Additive Manufacturing processes
 img: assets/img/12.jpg
 importance: 1
 category: Bachelor 
 ---
 
-In recent years, Additive Manufacturing has emerged as one of the fastest-growing
-techniques in the manufacturing industry. Currently, it enables the production of
-products with complex geometries using various materials. Among the most prevalent
-techniques is Fused Deposition Modeling (FDM), an extrusion-based 3D printing
-technology. FDM utilizes thermoplastic polymers in filament form as build materials.
-The manufacturing process involves selectively depositing melted material layer by
-layer, following the path defined by the CAD model. FDM stands out due to its
-high accuracy, cost-effectiveness, and extensive material selection, making it a widely
-adopted 3D printing technology worldwide.
-
-Over the past 5 years, students in the Mechanics of Materials section have actively
-contributed to developing a finite element model designed to simulate the FDM printing
-process. Within this model, new elements can be incorporated dynamically during
-calculations to mimic material deposition. The model addresses thermomechanical
-balance equations, predicting temperature distribution, material phase transformation,
-and subsequent residual deformations and stresses.
+This student project offers an opportunity to contribute to the 
+ongoing development of a tool that converts 
+G-code instructions into finite element meshes, a key step in 
+simulating additive manufacturing processes. 
+The existing tool, developed in a previous project, is tailored 
+for Fused Filament Fabrication (FFF) printers 
+like the Ultimaker and accounts for specific machine characteristics 
+such as jerk, providing realistic simulation inputs.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ZigZag_path.gif" title="ZigZag path" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bep/boat_print.png" title="ZigZag path" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/AI_path.gif" title="AI path" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bep/boat_mesh.png" title="AI path" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-Left: simulation of the print process of a cylinder. Right: a more complex geometry.
+Example of a 3D printed boat (left) and the finite element mesh to analyse the material evolution during pthe print process.
 </div>
 
-The current iteration of the model successfully simulates the build processes for relatively straightforward geometries, such as straight walls and cylinders, as seen in
-the Figure. While the model theoretically supports the analysis of more complex geometries,
-as shown in the Figure on the right, it lacks a robust interface for interpreting
-the G-Code instructions that control real-life Additive Manufacturing processes.
-In this project, your task is to develop a parser capable of reading G-Code instructions
-and converting them into a finite element input file format. The project involves the
-following key steps:
-* Conduct a comprehensive literature review to identify the most common GCode
-formats for Additive Manufacturing.
-* Develop the parser using Python programming language.
-* Verify the parser’s functionality in conjunction with the Finite Element model
-on a High-Performance computer cluster for computational efficiency.
-The tool that will be developed in this Bachelor Thesis project will be used in future
-projects for analysing the print process of complex geometries.
+
+Your work in this project will focus on three main areas of improvement:
+* Handling G-code for Belt Printers: Expand the tool’s functionality to accommodate the unique requirements of belt 
+printers, which operate differently from standard FFF machines.
+* Performance Optimization: Enhance the tool's efficiency and speed, ensuring it can process more complex and 
+larger-scale tasks effectively.
+* Graphical User Interface (GUI): Create a user-friendly GUI, making the tool accessible to a wider range of users, 
+including those with limited programming experience.
+
+Ultimately, the refined tool will be integrated with an in-house developed finite element solver to enable detailed and 
+realistic 3D printing simulations. This project is a valuable opportunity to apply your skills in Python programming and 
+computational modeling, contributing to advancements in various ongoing research projects in the field of additive manufacturing.
 
 <br>
 <table class="table table-sm mt-2" style="text-align: left;">
