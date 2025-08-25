@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Advancing the Mesh: 
+title: Advancing the Mesh
 description: Enhancing Finite Element Tools for Additive Manufacturing
 img: assets/img/boat_am.png
 importance: 1
@@ -46,8 +46,7 @@ computational modeling, contributing to advancements in various ongoing research
   <tbody>
     <tr>
       <td colspan="2" style="background-color: lightgray;"><strong>
-        Advancing the Mesh: Enhancing Finite Element Tools for
-Additive Manufacturing
+        Advancing the Mesh: Enhancing Finite Element Tools for Additive Manufacturing
       </strong></td>
     </tr>
     <tr>
