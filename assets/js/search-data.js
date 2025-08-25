@@ -802,9 +802,9 @@ ninja.data = [{
           description: "Hand‑Crafted Fill Strategies vs. RL Fill Agent",
           section: "Studentprojects",handler: () => {
               window.location.href = "/studentprojects/ctrlp/";
-            },},{id: "studentprojects-",
-          title: '',
-          description: "",
+            },},{id: "studentprojects-advancing-the-mesh",
+          title: 'Advancing the Mesh',
+          description: "Enhancing Finite Element Tools for Additive Manufacturing",
           section: "Studentprojects",handler: () => {
               window.location.href = "/studentprojects/gcodereader/";
             },},{id: "studentprojects-race-against-time",
