@@ -1,8 +1,8 @@
 ---
 layout: page
-title: G-Code reader
-description: Development of a G-Code reader for Finite Element Simulations of Additive Manufacturing processes
-img: assets/img/12.jpg
+title: Advancing the Mesh: 
+description: Enhancing Finite Element Tools for Additive Manufacturing
+img: assets/img/boat_am.png
 importance: 1
 category: Bachelor 
 ---
@@ -46,7 +46,8 @@ computational modeling, contributing to advancements in various ongoing research
   <tbody>
     <tr>
       <td colspan="2" style="background-color: lightgray;"><strong>
-        Development of a G-Code reader for Finite Element Simulations of Additive Manufacturing processes
+        Advancing the Mesh: Enhancing Finite Element Tools for
+Additive Manufacturing
       </strong></td>
     </tr>
     <tr>
