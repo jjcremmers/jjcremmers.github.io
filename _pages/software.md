@@ -8,6 +8,8 @@ children:
   - title: Dawn
     permalink: /dawn/
   - title: divider
+  - title: PyFEM
+    permalink: /PyFEM/ 
   - title: divider
   - title: Other codes
     permalink: /repositories/     
