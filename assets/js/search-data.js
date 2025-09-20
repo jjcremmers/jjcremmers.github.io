@@ -79,6 +79,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
+            },{id: "dropdown-pyfem",
+              title: "PyFEM",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
             },{id: "dropdown-other-codes",
               title: "Other codes",
               description: "",
