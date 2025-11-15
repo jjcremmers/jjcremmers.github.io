@@ -445,6 +445,33 @@ nav: false          # if you want it in the menu, depends on your nav setup
   object-fit: cover;
 }
 
+/* Make the final CTA section full-width */
+.fe-cta-strip {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  padding: 6rem 0 7rem;        /* bigger padding looks more "Apple" */
+  background-size: cover;
+  background-position: center;
+}
+
+/* White text on dark sections */
+.fe-alt,
+.fe-alt h1,
+.fe-alt h2,
+.fe-alt h3,
+.fe-alt p,
+.fe-alt ul,
+.fe-alt li,
+.fe-alt .fe-eyebrow,
+.fe-alt .fe-caption,
+.fe-alt .fe-keypoints li {
+  color: #ffffff !important;
+}
+
 
 </style>
 
