@@ -22,7 +22,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
         A high-performance, modular finite element framework for complex, 
         multi-physics problems. Designed for researchers and educator who 
         would like to use and implement tradional and unconventional solvers, 
-        element fomrulation and materials models.
+        element formulation and materials models.
       </p>
       <div class="fe-hero-badges">
         <span>⚙️ Nonlinear & multi-physics</span>
@@ -36,18 +36,19 @@ nav: false          # if you want it in the menu, depends on your nav setup
   <section class="fe-scroll-section">
     <div class="fe-scroll-inner container">
       <div class="fe-scroll-sticky">
-        <p class="fe-eyebrow">01 · Core solver</p>
-        <h2>From weak form<br>to solution in milliseconds.</h2>
+        <p class="fe-eyebrow">All the essentials</p>
+        <h2>Solvers, elements <br>and material models</h2>
         <p class="fe-scroll-text">
-          Define your problem once. Dawn takes care of assembly, boundary conditions,
-          and solution strategies — from sparse direct solvers to scalable Krylov methods.
-          You focus on physics; Dawn handles the numerics.
+          Dawn provides everything you need for linear and nonlinear finite element analysis. 
+          From small-strain to large-strain kinematics, from beam and shell formulations to 
+          advanced elasto-plastic and fracture models — it’s all built in. Multiphysics 
+          simulations are supported as well.
         </p>
-        <ul class="fe-keypoints">
-          <li>Flexible element library (1D–3D, standard & custom).</li>
-          <li>Abstracted boundary conditions and constraints.</li>
-          <li>Drop-in switch between solver backends.</li>
-        </ul>
+        <p>
+          Unlike commercial black-box codes, Dawn is fully transparent: all source code is 
+          accessible, readable, and modifiable. You get high-performance capability with 
+          complete control over what happens under the hood.
+        </p>
       </div>
 
       <div class="fe-scroll-image-card">
