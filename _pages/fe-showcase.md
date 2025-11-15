@@ -17,10 +17,12 @@ nav: false          # if you want it in the menu, depends on your nav setup
 
     <div class="fe-hero-content container">
       <p class="fe-eyebrow">Finite Element Computing</p>
-      <h1>Dawn, reimagined.</h1>
+      <h1>Dawn</h1>
       <p class="fe-hero-text">
-        A high-performance finite element framework for complex, multi-physics problems.
-        Designed for researchers who care about both elegance and raw speed.
+        A high-performance, modular finite element framework for complex, 
+        multi-physics problems. Designed for researchers and educator who 
+        would like to use and implement tradional and unconventional solvers, 
+        element fomrulation and materials models.
       </p>
       <div class="fe-hero-badges">
         <span>⚙️ Nonlinear & multi-physics</span>
