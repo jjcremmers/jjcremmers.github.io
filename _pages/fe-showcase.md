@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: plain
 title: "Dawn · Finite Element Framework"
 permalink: /dawn-showcase/
 nav: false          # if you want it in the menu, depends on your nav setup
@@ -469,6 +469,15 @@ nav: false          # if you want it in the menu, depends on your nav setup
 .fe-alt .fe-eyebrow,
 .fe-alt .fe-caption,
 .fe-alt .fe-keypoints li {
+  color: #ffffff !important;
+}
+
+.fe-alt .fe-keypoints li::before {
+  color: #ffffff !important;
+  opacity: 0.6;
+}
+
+.fe-hero {
   color: #ffffff !important;
 }
 
