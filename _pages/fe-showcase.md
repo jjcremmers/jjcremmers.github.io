@@ -2,7 +2,7 @@
 layout: page
 title: "Dawn · Finite Element Framework"
 permalink: /dawn-showcase/
-nav: true          # if you want it in the menu, depends on your nav setup
+nav: false          # if you want it in the menu, depends on your nav setup
 ---
 
 <div class="fe-showcase">
