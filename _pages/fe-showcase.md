@@ -421,5 +421,30 @@ nav: false          # if you want it in the menu, depends on your nav setup
     font-size: 2.3rem;
   }
 }
+
+/* Force full-width “Apple style” sections */
+.fe-hero,
+.fe-scroll-section {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+.fe-hero-media {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.fe-scroll-section .fe-scroll-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
 </style>
 
