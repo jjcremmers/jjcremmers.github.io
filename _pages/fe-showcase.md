@@ -1,5 +1,5 @@
 ---
-layout: plain
+layout: page
 title: "Dawn · Finite Element Framework"
 permalink: /dawn-showcase/
 nav: false          # if you want it in the menu, depends on your nav setup
@@ -484,5 +484,10 @@ nav: false          # if you want it in the menu, depends on your nav setup
 }
 
 
+
+.page-header, 
+.post-header {
+  display: none !important;
+}
 </style>
 
