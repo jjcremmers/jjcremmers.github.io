@@ -180,7 +180,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
   align-items: center;
   overflow: hidden;
   background: #02030a;
-  color: #f5f5f7;
+  color: #ffffff !important;
 }
 
 .fe-hero-media {
@@ -477,10 +477,6 @@ nav: false          # if you want it in the menu, depends on your nav setup
 .fe-alt .fe-keypoints li::before {
   color: #ffffff !important;
   opacity: 0.6;
-}
-
-.fe-hero {
-  color: #ffffff !important;
 }
 
 
