@@ -89,7 +89,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
   </section>  
   
   <!-- SECTION 2: MULTI-PHYSICS ------------------------------------------- -->
-  <section class="fe-scroll-section fe-alt">
+  <section class="fe-scroll-section">
     <div class="fe-scroll-inner container">
       <div class="fe-scroll-sticky">
         <p class="fe-eyebrow">Multi-physics coupling</p>
@@ -119,7 +119,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
   </section>
 
   <!-- SECTION 3: HPC & SCALING ------------------------------------------- -->
-  <section class="fe-scroll-section">
+  <section class="fe-scroll-section fe-alt">
     <div class="fe-scroll-inner container">
       <div class="fe-scroll-sticky">
         <p class="fe-eyebrow">High Performance Computing & Scaling</p>
@@ -147,7 +147,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
   </section>
 
   <!-- SECTION 4: WORKFLOW & ECOSYSTEM ------------------------------------ -->
-  <section class="fe-scroll-section fe-alt">
+  <section class="fe-scroll-section">
     <div class="fe-scroll-inner container">
       <div class="fe-scroll-sticky">
         <p class="fe-eyebrow">Novel and advanced discretisation techniques</p>
@@ -181,9 +181,9 @@ nav: false          # if you want it in the menu, depends on your nav setup
         to discuss collaborations and student projects.
       </p>
       <div class="fe-cta-buttons">
-        <a href="https://github.com/jjcremmers" class="btn btn-primary fe-cta-btn">View on GitHub</a>
-        <a href="/projects/" class="btn fe-cta-btn-secondary">Example projects</a>
-        <a href="mailto:j.j.c.remmers@tue.nl?subject=Information%20on%20Dawn" class="btn fe-cta-btn-tertiary">Get in touch</a>        
+        <a href="https://github.com/jjcremmers" class="btn btn-secondary">💻 View on GitHub</a>
+        <a href="/projects/" class="btn fe-cta-btn-secondary">🗂️ Example projects</a>
+        <a href="mailto:j.j.c.remmers@tue.nl?subject=Information%20on%20Dawn" class="btn fe-cta-btn-secondary">✉️ Get in touch</a>        
       </div>
     </div>
   </section>
