@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-dawn-finite-element-framework",
-          title: "Dawn · Finite Element Framework",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/dawn-showcase/";
-          },
-        },{id: "dropdown-themes",
+  },{id: "dropdown-themes",
               title: "Themes",
               description: "",
               section: "Dropdown",
