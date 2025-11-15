@@ -61,21 +61,49 @@ nav: false          # if you want it in the menu, depends on your nav setup
       </div>
     </div>
   </section>
+  
+  <!-- SECTION 2:  ------------------------------------ -->
+  <section class="fe-scroll-section fe-alt">
+    <div class="fe-scroll-inner container">
+      <div class="fe-scroll-sticky">
+        <p class="fe-eyebrow">Novel and advanced discretisation techniques</p>
+        <h2>From partition of unity methods<br>to isogeometric analysis</h2>
+        <p class="fe-scroll-text">
+          Dawn supports a wide range of modern discretisation methods from
+          partition of unity methods such as XFEM to isogeometric analysis. 
+          All these techniques are implemented within a unified framework, 
+          supported by dedicated solvers to ensure robustness and efficiency 
+          throughout the solution process.
+        </p>
+      </div>
 
+      <div class="fe-scroll-image-card">
+        <div class="fe-tag">Pipeline · End-to-end</div>
+        <img src="/assets/img/dawn/workflow-pipeline.png"
+             alt="End-to-end workflow of Dawn finite element simulations">
+        <p class="fe-caption">
+          A reproducible pipeline: geometry → mesh → solve → analyze → publish.
+        </p>
+      </div>
+    </div>
+  </section>  
+  
   <!-- SECTION 2: MULTI-PHYSICS ------------------------------------------- -->
   <section class="fe-scroll-section fe-alt">
     <div class="fe-scroll-inner container">
       <div class="fe-scroll-sticky">
-        <p class="fe-eyebrow">02 · Multi-physics coupling</p>
-        <h2>Thermal, mechanical,<br>and beyond — in one model.</h2>
+        <p class="fe-eyebrow">Multi-physics coupling</p>
+        <h2>Thermal, mechanical,<br>and beyond - in one model.</h2>
         <p class="fe-scroll-text">
-          Couple fields without drowning in boilerplate. Thermal-mechanical simulations,
-          damage, phase-fields — all expressed using the same clean abstractions.
+          Thermal–mechanical analyses and full additive-manufacturing process 
+          simulations — including FFF deposition and powder-bed fusion — are all 
+          expressed using the same clean and consistent abstractions, with elements 
+          added efficiently during the simulation whenever the process requires it.
         </p>
         <ul class="fe-keypoints">
-          <li>Field-agnostic formulation of residuals and tangents.</li>
-          <li>Consistent linearization for robust Newton iterations.</li>
-          <li>Modular material models you can mix and match.</li>
+          <li>Multi-physics analysis of Laser Powderbed Fusion, VAT photopolymetrisation and FFF processes</li>
+          <li>Ray-tracer model for light interaction</li>
+          <li>Thermo-hydro-mechanical analysis of composite materials</li>
         </ul>
       </div>
 
@@ -94,8 +122,8 @@ nav: false          # if you want it in the menu, depends on your nav setup
   <section class="fe-scroll-section">
     <div class="fe-scroll-inner container">
       <div class="fe-scroll-sticky">
-        <p class="fe-eyebrow">03 · HPC & scaling</p>
-        <h2>From laptop runs<br>to thousands of cores.</h2>
+        <p class="fe-eyebrow">High Performance Computing & Scaling</p>
+        <h2>From laptop runs<br>to multiple cores.</h2>
         <p class="fe-scroll-text">
           Start on your workstation, scale to a cluster. MPI support and domain
           decomposition are built into the core, so you can take the same models
@@ -104,7 +132,6 @@ nav: false          # if you want it in the menu, depends on your nav setup
         <ul class="fe-keypoints">
           <li>MPI-enabled assembly and I/O.</li>
           <li>Compatible with existing cluster toolchains and modules.</li>
-          <li>Profiling hooks for performance-critical kernels.</li>
         </ul>
       </div>
 
@@ -123,18 +150,15 @@ nav: false          # if you want it in the menu, depends on your nav setup
   <section class="fe-scroll-section fe-alt">
     <div class="fe-scroll-inner container">
       <div class="fe-scroll-sticky">
-        <p class="fe-eyebrow">04 · Workflow & ecosystem</p>
-        <h2>From CAD and meshing<br>to post-processing in one line.</h2>
+        <p class="fe-eyebrow">Novel and advanced discretisation techniques</p>
+        <h2>From partition of unity methods<br>to isogeomtric analysis</h2>
         <p class="fe-scroll-text">
-          Dawn integrates in your existing toolchain: mesh generators, CAD tools,
-          Python scripts, and visualization with VTK/ParaView. Build reproducible
-          pipelines instead of one-off scripts.
+          Dawn supports a wide range of modern discretisation methods from
+          partition of unity methods such as XFEM to isogeometric analysis. 
+          All these techniques are implemented within a unified framework, 
+          supported by dedicated solvers to ensure robustness and efficiency 
+          throughout the solution process.
         </p>
-        <ul class="fe-keypoints">
-          <li>Standard mesh formats in / out (VTK, HDF5, …).</li>
-          <li>Python interfaces for pre- and post-processing.</li>
-          <li>Command-line tools for batch studies and parameter sweeps.</li>
-        </ul>
       </div>
 
       <div class="fe-scroll-image-card">
