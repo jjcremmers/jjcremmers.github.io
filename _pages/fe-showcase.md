@@ -479,7 +479,12 @@ nav: false          # if you want it in the menu, depends on your nav setup
   opacity: 0.6;
 }
 
-
+/* Force white text in hero section */
+.fe-hero,
+.fe-hero * {
+  color: #ffffff !important;
+  --global-text-color: #ffffff !important;
+}
 
 
 </style>
