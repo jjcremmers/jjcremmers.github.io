@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Dawn · Finite Element Framework"
+title: ""
 permalink: /dawn-showcase/
 nav: false          # if you want it in the menu, depends on your nav setup
 ---
@@ -22,7 +22,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
         A high-performance, modular finite element framework for complex, 
         multi-physics problems. Designed for researchers and educator who 
         would like to use and implement tradional and unconventional solvers, 
-        element formulation and materials models.
+        element formulations and materials models.
       </p>
       <div class="fe-hero-badges">
         <span>⚙️ Nonlinear & multi-physics</span>
