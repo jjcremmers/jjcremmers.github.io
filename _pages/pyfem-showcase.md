@@ -224,7 +224,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
   background: radial-gradient(circle at 20% 20%, rgba(88, 187, 255, 0.35), transparent),
               radial-gradient(circle at 80% 80%, rgba(140, 96, 255, 0.4), transparent);
   mix-blend-mode: screen;
-  opacity: 0.9;
+  opacity: 0.98;
 }
 
 .fe-hero-content {
