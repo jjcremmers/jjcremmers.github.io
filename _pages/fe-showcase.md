@@ -10,7 +10,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
   <!-- HERO SECTION -------------------------------------------------------- -->
   <section class="fe-hero">
     <div class="fe-hero-media"
-         style="background-image: url('/assets/img/dawn/dawn-background.png');">
+         style="background-image: url('/assets/img/dawn/dawn_background.png');">
     </div>
 
     <div class="fe-hero-overlay"></div>
