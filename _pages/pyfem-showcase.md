@@ -24,14 +24,15 @@ nav: false          # if you want it in the menu, depends on your nav setup
         makes it easy to understand the underlying mechanics, experiment with your own 
         formulations, and build new models from scratch — ideal for both classroom use 
         and advanced prototyping.
-
+        <br>
         Despite its simplicity, PyFEM is a fully capable simulation environment: it 
         includes a suite of linear and nonlinear solvers, a broad collection of finite 
         element formulations (1D–3D, small and large deformation), extensible material 
         models, and flexible I/O utilities with VTK and HDF5 output.
-
+        <br>
         Whether you use it to teach the fundamentals, validate new ideas, or explore 
-        novel discretization strategies, PyFEM provides a powerful, lightweight, and highly accessible platform for finite element simulation in Python.
+        novel discretization strategies, PyFEM provides a powerful, lightweight, and 
+        highly accessible platform for finite element simulation in Python.
       </p>
       <div class="fe-hero-badges">
         <span>⚙️ All the FE essentials</span>
