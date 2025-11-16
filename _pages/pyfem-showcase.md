@@ -19,14 +19,23 @@ nav: false          # if you want it in the menu, depends on your nav setup
       <p class="fe-eyebrow">Finite Element Computing</p>
       <h1 style="font-weight: 700;">pyFEM</h1>
       <p class="fe-hero-text">
-        A high-performance, modular finite element framework for complex, 
-        multi-physics problems. Designed for researchers and educator who 
-        would like to use and implement tradional and unconventional solvers, 
-        element formulations and materials models.
+        A modular and transparent finite element framework designed for education, 
+        research, and rapid model development. PyFEM’s clean, readable Python codebase 
+        makes it easy to understand the underlying mechanics, experiment with your own 
+        formulations, and build new models from scratch — ideal for both classroom use 
+        and advanced prototyping.
+
+        Despite its simplicity, PyFEM is a fully capable simulation environment: it 
+        includes a suite of linear and nonlinear solvers, a broad collection of finite 
+        element formulations (1D–3D, small and large deformation), extensible material 
+        models, and flexible I/O utilities with VTK and HDF5 output.
+
+        Whether you use it to teach the fundamentals, validate new ideas, or explore 
+        novel discretization strategies, PyFEM provides a powerful, lightweight, and highly accessible platform for finite element simulation in Python.
       </p>
       <div class="fe-hero-badges">
-        <span>⚙️ Nonlinear & multi-physics</span>
-        <span>🖥️ HPC-ready</span>
+        <span>⚙️ All the FE essentials</span>
+        <span>🎓 Ideal for classrooms</span>
         <span>📦 Modular components</span>
       </div>
     </div>
@@ -39,7 +48,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
         <p class="fe-eyebrow">All the essentials</p>
         <h2>Solvers, elements <br>and material models</h2>
         <p class="fe-scroll-text">
-          Dawn provides everything you need for linear and nonlinear finite element analysis. 
+          PyFEM provides everything you need for linear and nonlinear finite element analysis. 
           From small-strain to large-strain kinematics, from beam and shell formulations to 
           advanced elasto-plastic and fracture models — it’s all built in. Multiphysics 
           simulations are supported as well.
@@ -175,15 +184,15 @@ nav: false          # if you want it in the menu, depends on your nav setup
   <!-- CTA STRIP ----------------------------------------------------------- -->
   <section class="fe-cta-strip">
     <div class="container">
-      <h2>Ready to see Dawn in action?</h2>
+      <h2>Ready to see PyFEM in action?</h2>
       <p>
-        Explore example cases, documentation, and benchmarks — or get in touch
-        to discuss collaborations and student projects.
+        Clone the git repository and explore example cases, documentation, and benchmarks. 
+        Learn more about projects and courses.
       </p>
       <div class="fe-cta-buttons">
-        <a href="https://github.com/jjcremmers" class="btn fe-cta-btn-secondary">💻 View on GitHub</a>
-        <a href="/projects/" class="btn fe-cta-btn-secondary">🗂️ Example projects</a>
-        <a href="mailto:j.j.c.remmers@tue.nl?subject=Information%20on%20Dawn" class="btn fe-cta-btn-secondary">✉️ Get in touch</a>        
+        <a href="https://github.com/jjcremmers/pyfem" class="btn fe-cta-btn-secondary">💻 View on GitHub</a>
+        <a href="/courses/4mm00" class="btn fe-cta-btn-secondary">🎓 Example course</a>
+        <a href="mailto:j.j.c.remmers@tue.nl?subject=Information%20on%20PyFEM" class="btn fe-cta-btn-secondary">✉️ Get in touch</a>        
       </div>
     </div>
   </section>
@@ -212,19 +221,15 @@ nav: false          # if you want it in the menu, depends on your nav setup
 .fe-hero-media {
   position: absolute;
   inset: 0;
-  background-size: cover;
+  background-size: cover;        /* keep */
   background-position: center;
-  transform: scale(1.05);
-  filter: brightness(0.5);
+  background-repeat: no-repeat;
+  transform: none;               /* was: scale(1.05) */
+  filter: none;                  /* was: brightness(0.5) */
 }
 
 .fe-hero-overlay {
-  position: absolute;
-  inset: 0;
-  background: radial-gradient(circle at 20% 20%, rgba(88, 187, 255, 0.35), transparent),
-              radial-gradient(circle at 80% 80%, rgba(140, 96, 255, 0.4), transparent);
-  mix-blend-mode: screen;
-  opacity: 0.98;
+  display: none;                 /* disable blended gradients completely */
 }
 
 .fe-hero-content {
