@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ""
-permalink: /software/dawn/
+permalink: /software/pyfem/
 nav: false          # if you want it in the menu, depends on your nav setup
 ---
 
@@ -10,14 +10,14 @@ nav: false          # if you want it in the menu, depends on your nav setup
   <!-- HERO SECTION -------------------------------------------------------- -->
   <section class="fe-hero">
     <div class="fe-hero-media"
-         style="background-image: url('/assets/img/dawn/dawn_background.png');">
+         style="background-image: url('/assets/img/dawn/pyfem_background.png');">
     </div>
 
     <div class="fe-hero-overlay"></div>
 
     <div class="fe-hero-content container">
       <p class="fe-eyebrow">Finite Element Computing</p>
-      <h1 style="font-weight: 700;">Dawn</h1>
+      <h1 style="font-weight: 700;">pyFEM</h1>
       <p class="fe-hero-text">
         A high-performance, modular finite element framework for complex, 
         multi-physics problems. Designed for researchers and educator who 

@@ -6,10 +6,10 @@ nav_order: 5
 dropdown: true
 children:
   - title: Dawn
-    permalink: /dawn/
+    permalink: /software/dawn/
   - title: divider
-  - title: PyFEM
-    permalink: /PyFEM/ 
+  - title: pyFEM
+    permalink: /software/pyfem/ 
   - title: divider
   - title: Other codes
     permalink: /repositories/     
