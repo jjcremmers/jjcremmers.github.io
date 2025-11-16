@@ -10,14 +10,14 @@ nav: false          # if you want it in the menu, depends on your nav setup
   <!-- HERO SECTION -------------------------------------------------------- -->
   <section class="fe-hero">
     <div class="fe-hero-media"
-         style="background-image: url('/assets/img/dawn/hero-dawn.png');">
+         style="background-image: url('/assets/img/dawn/dawn-background.png');">
     </div>
 
     <div class="fe-hero-overlay"></div>
 
     <div class="fe-hero-content container">
       <p class="fe-eyebrow">Finite Element Computing</p>
-      <h1>Dawn</h1>
+      <h1 style="font-weight: 700;">Dawn</h1>
       <p class="fe-hero-text">
         A high-performance, modular finite element framework for complex, 
         multi-physics problems. Designed for researchers and educator who 
@@ -181,7 +181,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
         to discuss collaborations and student projects.
       </p>
       <div class="fe-cta-buttons">
-        <a href="https://github.com/jjcremmers" class="btn btn-secondary">💻 View on GitHub</a>
+        <a href="https://github.com/jjcremmers" class="btn fe-cta-btn-secondary">💻 View on GitHub</a>
         <a href="/projects/" class="btn fe-cta-btn-secondary">🗂️ Example projects</a>
         <a href="mailto:j.j.c.remmers@tue.nl?subject=Information%20on%20Dawn" class="btn fe-cta-btn-secondary">✉️ Get in touch</a>        
       </div>
@@ -282,7 +282,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
 }
 
 .fe-scroll-section.fe-alt {
-  background: #050516;
+  background: #001322;
   color: #f5f5f7;
 }
 
