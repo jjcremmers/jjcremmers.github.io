@@ -205,7 +205,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
   display: flex;
   align-items: center;
   overflow: hidden;
-  background: #02030a;
+  background: #ffffff; /*#02030a;*/
   color: #ffffff !important;
 }
 
