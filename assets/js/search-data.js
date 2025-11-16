@@ -80,7 +80,7 @@ ninja.data = [{
                 window.location.href = "";
               },
             },{id: "dropdown-pyfem",
-              title: "PyFEM",
+              title: "pyFEM",
               description: "",
               section: "Dropdown",
               handler: () => {
