@@ -10,7 +10,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
   <!-- HERO SECTION -------------------------------------------------------- -->
   <section class="fe-hero">
     <div class="fe-hero-media"
-         style="background-image: url('/assets/img/dawn/pyfem_background.png');">
+         style="background-image: url('/assets/img/pyfem/pyfem_background.png');">
     </div>
 
     <div class="fe-hero-overlay"></div>
@@ -508,8 +508,8 @@ nav: false          # if you want it in the menu, depends on your nav setup
 /* Force white text in hero section */
 .fe-hero,
 .fe-hero * {
-  color: #ffffff !important;
-  --global-text-color: #ffffff !important;
+  color: #001322 !important;
+  --global-text-color: #001322 !important;
 }
 
 
