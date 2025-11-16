@@ -497,8 +497,10 @@ nav: false          # if you want it in the menu, depends on your nav setup
 
 .fe-cta-strip,
 .fe-cta-strip * {
-  color: #ffffff !important;
+  color: #000000 !important;
 }
+
+
 
 /* White text on dark sections */
 .fe-alt,
