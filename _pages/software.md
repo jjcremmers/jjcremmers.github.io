@@ -8,9 +8,9 @@ children:
   - title: Dawn
     permalink: /software/dawn/
   - title: divider
-  - title: pyFEM
+  - title: PyFEM
     permalink: /software/pyfem/ 
   - title: divider
-  - title: Other codes
+  - title: Github repositories
     permalink: /repositories/     
 ---

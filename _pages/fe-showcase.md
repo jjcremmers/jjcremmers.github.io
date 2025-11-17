@@ -212,19 +212,15 @@ nav: false          # if you want it in the menu, depends on your nav setup
 .fe-hero-media {
   position: absolute;
   inset: 0;
-  background-size: cover;
+  background-size: cover;        /* keep */
   background-position: center;
-  transform: scale(1.05);
-  filter: brightness(0.5);
+  background-repeat: no-repeat;
+  transform: none;               /* was: scale(1.05) */
+  filter: none;                  /* was: brightness(0.5) */
 }
 
 .fe-hero-overlay {
-  position: absolute;
-  inset: 0;
-  background: radial-gradient(circle at 20% 20%, rgba(88, 187, 255, 0.35), transparent),
-              radial-gradient(circle at 80% 80%, rgba(140, 96, 255, 0.4), transparent);
-  mix-blend-mode: screen;
-  opacity: 0.9;
+  display: none;                 /* disable blended gradients completely */
 }
 
 .fe-hero-content {
@@ -473,7 +469,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
   object-fit: cover;
 }
 
-/* Make the final CTA section full-width */
+/* Final CTA background using same hero image */
 .fe-cta-strip {
   width: 100vw;
   position: relative;
@@ -481,9 +477,12 @@ nav: false          # if you want it in the menu, depends on your nav setup
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
-  padding: 6rem 0 7rem;        /* bigger padding looks more "Apple" */
+  padding: 6rem 0 7rem;
+
+  background-image: url('/assets/img/pyfem/pyfem_background.png');
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
 }
 
 /* White text on dark sections */

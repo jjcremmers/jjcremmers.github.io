@@ -17,7 +17,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
 
     <div class="fe-hero-content container">
       <p class="fe-eyebrow">Finite Element Computing</p>
-      <h1 style="font-weight: 700;">pyFEM</h1>
+      <h1 style="font-weight: 700;">PyFEM</h1>
       <p class="fe-hero-text">
         A modular and transparent finite element framework designed for education, 
         research, and rapid model development. PyFEM’s clean, readable Python codebase 
