@@ -80,14 +80,14 @@ ninja.data = [{
                 window.location.href = "";
               },
             },{id: "dropdown-pyfem",
-              title: "pyFEM",
+              title: "PyFEM",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "dropdown-other-codes",
-              title: "Other codes",
+            },{id: "dropdown-github-repositories",
+              title: "Github repositories",
               description: "",
               section: "Dropdown",
               handler: () => {
