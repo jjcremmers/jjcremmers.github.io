@@ -479,7 +479,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
   margin-right: -50vw;
   padding: 6rem 0 7rem;
 
-  background-image: url('/assets/img/pyfem/dawn_background.png');
+  background-image: url('/assets/img/dawn/dawn_background.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
