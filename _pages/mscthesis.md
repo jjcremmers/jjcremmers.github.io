@@ -4,7 +4,7 @@ title: MSc Theses
 permalink: /mscthesis/
 ---
 
-Information on general Master thesis
+Information on general Master thesis. This is a test
 
 {% include bib_search.liquid %}
 
