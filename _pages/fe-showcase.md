@@ -163,7 +163,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
 
       <div class="fe-scroll-image-card">
         <div class="fe-tag">Pipeline · End-to-end</div>
-        <img src="/assets/img/dawn/workflow-pipeline.png"
+        <img src="/assets/img/dawn/dawn_ddd.png"
              alt="End-to-end workflow of Dawn finite element simulations">
         <p class="fe-caption">
           A reproducible pipeline: geometry → mesh → solve → analyze → publish.
@@ -181,7 +181,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
         to discuss collaborations and student projects.
       </p>
       <div class="fe-cta-buttons">
-        <a href="https://github.com/jjcremmers" class="btn fe-cta-btn-secondary">💻 View on GitHub</a>
+        <a href="https://github.com/jjcremmers/dawn.git" class="btn fe-cta-btn-secondary">💻 View on GitHub</a>
         <a href="/projects/" class="btn fe-cta-btn-secondary">🗂️ Example projects</a>
         <a href="mailto:j.j.c.remmers@tue.nl?subject=Information%20on%20Dawn" class="btn fe-cta-btn-secondary">✉️ Get in touch</a>        
       </div>
