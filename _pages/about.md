@@ -32,7 +32,8 @@ development of computational models for the mechanical analysis of
 [composite materials](themes/#composite-materials), the simulation of 
 [3D printing processes](themes/#additive-manufacturing), and the application of 
 [high-performance computing techniques](/themes/#high-performance-computing), including 
-reduced-order modeling.
+reduced-order modeling. In these studies, I rely on my own modular Finite Element
+codes [Dawn](/software/dawn) and [PyFEM](/software/pyfem).
 
 Alongside my research activities, I teach a variety of courses in these fields, 
 covering topics such as [composite design](courses/4mm00/), 
@@ -49,7 +50,9 @@ enhance student learning processes.
 
 On this website, you can find more information about my [research projects](projects/), 
 the [courses](courses/) I am involved in, and my broader initiatives in 
-engineering education.
+engineering education. In addition, you will find more information about the 
+[software tools](/repositories) that I have been
+developping in the past years.
 
 For more specific information for prospective students, industrial and academic 
 partners or educators, please click one of the buttons below.
@@ -61,6 +64,35 @@ partners or educators, please click one of the buttons below.
   <a href="info/industry" class="fancy-button">Industry</a>  
   <a href="info/educators" class="fancy-button">Educators</a>    
 </div>
+
+<section class="software-highlight-section">
+  <div class="software-card-grid">
+
+    <!-- Tile 1 -->
+    <a class="software-card gradient-card" href="/software/pyfem/">
+      <div class="software-card-bg"
+           style="background-image:url('/assets/img/pyfem/pyfem_background.png');"></div>
+      <div class="gradient-overlay"></div>
+      <div class="software-card-text">
+        <p class="label">High performance computing</p>
+        <h2>DAWN</h2>
+      </div>
+    </a>
+
+    <!-- Tile 2 -->
+    <a class="software-card gradient-card" href="/software/dawn/">
+      <div class="software-card-bg"
+           style="background-image:url('/assets/img/dawn/hero-dawn.png');"></div>
+      <div class="gradient-overlay"></div>
+      <div class="software-card-text">
+        <p class="label">High performance computing</p>
+        <h2>DAWN</h2>
+      </div>
+    </a>
+
+  </div>
+</section>
+
 
 <style>
 .fancy-button-group {
@@ -92,6 +124,85 @@ partners or educators, please click one of the buttons below.
   transform: translateY(-2px);
   box-shadow: 0 8px 16px rgba(0,0,0,0.25);
   color: #fff;
+}
+
+/* section wrapper */
+.software-highlight-section {
+  padding: 4rem 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+/* responsive two-tile layout */
+.software-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+  gap: 2rem;
+  width: min(1200px, 90vw);
+}
+
+/* base tile */
+.software-card {
+  position: relative;
+  display: block;
+  aspect-ratio: 1 / 2;          /* ← requested tile ratio */
+  border-radius: 18px;
+  overflow: hidden;
+  text-decoration: none;
+  transform: translateZ(0);
+}
+
+/* background */
+.software-card-bg {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  filter: brightness(0.78);
+  transition: transform .45s ease, filter .45s ease;
+}
+
+/* smooth Apple-style gradient edge mask */
+.gradient-card .gradient-overlay {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+     radial-gradient(circle at top left, rgba(0,0,0,0.65) 0%, transparent 60%),
+     radial-gradient(circle at bottom right, rgba(0,0,0,0.55) 0%, transparent 55%),
+     linear-gradient(to bottom, rgba(0,0,0,0.45) 0%, transparent 50%),
+     linear-gradient(to top,    rgba(0,0,0,0.35) 0%, transparent 50%);
+  mix-blend-mode: soft-light;
+}
+
+/* hero-style text */
+.software-card-text {
+  position: absolute;
+  bottom: 2rem;
+  left: 2rem;
+  z-index: 2;
+  color: #fff;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+.software-card-text .label {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  opacity: 0.9;
+}
+
+.software-card-text h2 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  margin-top: .35rem;
+}
+
+/* hover — subtle, premium motion */
+.gradient-card:hover .software-card-bg {
+  transform: scale(1.06);
+  filter: brightness(1.05);
 }
 </style>
 
