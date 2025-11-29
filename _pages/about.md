@@ -71,7 +71,7 @@ partners or educators, please click one of the buttons below.
     <!-- Tile 1 -->
     <a class="software-card gradient-card" href="/software/dawn/">
       <div class="software-card-bg"
-           style="background-image:url('/assets/img/pyfem/hero-dawn.png');"></div>
+           style="background-image:url('/assets/img/dawn/hero-dawn.png');"></div>
       <div class="gradient-overlay"></div>
       <div class="software-card-text">
         <p class="label"><br>High Performance Computing</p>
@@ -82,10 +82,10 @@ partners or educators, please click one of the buttons below.
     <!-- Tile 2 -->
     <a class="software-card gradient-card" href="/software/pyfem/">
       <div class="software-card-bg"
-           style="background-image:url('/assets/img/dawn/pyfem_background.png');"></div>
+           style="background-image:url('/assets/img/pyfem/pyfem_background.png');"></div>
       <div class="gradient-overlay"></div>
       <div class="software-card-text">
-        <p class="label"><br> Finite ElementCode for Education</p>
+        <p class="label"><br> Finite Element Code for Education</p>
         <h2>PyFEM</h2>
       </div>
     </a>
