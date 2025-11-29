@@ -199,6 +199,21 @@ partners or educators, please click one of the buttons below.
   margin-top: .35rem;
 }
 
+/* Automatic text color based on background brightness */
+.software-card-text {
+  color-scheme: light dark;
+  mix-blend-mode: difference;     /* ⬅ magic line */
+  z-index: 3;
+}
+
+/* Strengthen readability with subtle glow */
+.software-card-text h2,
+.software-card-text .label {
+  text-shadow:
+    0 0 4px rgba(255,255,255,0.55),
+    0 0 10px rgba(0,0,0,0.35);
+}
+
 /* hover — subtle, premium motion */
 .gradient-card:hover .software-card-bg {
   transform: scale(1.06);
