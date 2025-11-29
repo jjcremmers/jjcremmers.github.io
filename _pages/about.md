@@ -146,7 +146,7 @@ partners or educators, please click one of the buttons below.
 .software-card {
   position: relative;
   display: block;
-  aspect-ratio: 1 / 2;          /* ← requested tile ratio */
+  aspect-ratio: 3 / 1;          /* ← requested tile ratio */
   border-radius: 18px;
   overflow: hidden;
   text-decoration: none;
