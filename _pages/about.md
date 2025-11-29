@@ -126,7 +126,7 @@ partners or educators, please click one of the buttons below.
   color: #fff;
 }
 
-/* section wrapper */
+/* --- Section wrapper --- */
 .software-highlight-section {
   padding: 4rem 0;
   width: 100%;
@@ -134,7 +134,7 @@ partners or educators, please click one of the buttons below.
   justify-content: center;
 }
 
-/* responsive two-tile layout */
+/* --- Responsive grid for the two tiles --- */
 .software-card-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
@@ -142,28 +142,34 @@ partners or educators, please click one of the buttons below.
   width: min(1200px, 90vw);
 }
 
-/* base tile */
+/* --- Card base: 3:1 ratio, cinematic-ready --- */
 .software-card {
   position: relative;
   display: block;
-  aspect-ratio: 3 / 1;          /* ← requested tile ratio */
+  aspect-ratio: 3 / 1;          /* 3:1 width:height */
   border-radius: 18px;
   overflow: hidden;
   text-decoration: none;
   transform: translateZ(0);
+  transition:
+    transform 0.6s cubic-bezier(0.22, 0.61, 0.36, 1),
+    box-shadow 0.6s cubic-bezier(0.22, 0.61, 0.36, 1);
 }
 
-/* background */
+/* --- Background image --- */
 .software-card-bg {
   position: absolute;
   inset: 0;
   background-size: cover;
   background-position: center;
-  filter: brightness(0.78);
-  transition: transform .45s ease, filter .45s ease;
+  filter: brightness(0.82);
+  transform: scale(1.03) translate3d(0, 0, 0);
+  transition:
+    transform 1.4s cubic-bezier(0.22, 0.61, 0.36, 1),
+    filter 0.8s ease;
 }
 
-/* smooth Apple-style gradient edge mask */
+/* --- Gradient edge overlay / vignette --- */
 .gradient-card .gradient-overlay {
   position: absolute;
   inset: 0;
@@ -174,36 +180,90 @@ partners or educators, please click one of the buttons below.
      linear-gradient(to bottom, rgba(0,0,0,0.45) 0%, transparent 50%),
      linear-gradient(to top,    rgba(0,0,0,0.35) 0%, transparent 50%);
   mix-blend-mode: soft-light;
+  opacity: 0.95;
+  transition: opacity 0.7s ease;
 }
 
-/* hero-style text */
+/* --- Text overlay: auto contrast + base glow --- */
 .software-card-text {
   position: absolute;
-  bottom: 2rem;
+  bottom: 1.8rem;
   left: 2rem;
-  z-index: 2;
-  color: #fff;
+  right: 2rem;
+  z-index: 3;
   font-family: system-ui, -apple-system, sans-serif;
+
+  color-scheme: light dark;
+  mix-blend-mode: difference;   /* auto dark/light vs image */
 }
 
+.software-card-text .label,
+.software-card-text h2 {
+  text-shadow:
+    0 0 4px rgba(255,255,255,0.45),
+    0 0 10px rgba(0,0,0,0.35);
+  transition:
+    transform 0.6s cubic-bezier(0.22, 0.61, 0.36, 1),
+    opacity 0.6s cubic-bezier(0.22, 0.61, 0.36, 1),
+    text-shadow 0.6s ease;
+}
+
+/* initial position/opacity for cinematic “float in” */
 .software-card-text .label {
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.14em;
-  opacity: 0.9;
+  opacity: 0.85;
+  transform: translateY(4px);
 }
 
 .software-card-text h2 {
   font-size: 2.4rem;
   font-weight: 700;
-  margin-top: .35rem;
+  margin-top: 0.35rem;
+  opacity: 0.92;
+  transform: translateY(8px);
 }
 
+/* --- Hover: cinematic reveal --- */
+.gradient-card:hover {
+  transform: translateY(-6px) scale(1.02);
+  box-shadow:
+    0 24px 40px rgba(15, 23, 42, 0.32),
+    0 0 0 1px rgba(148, 163, 184, 0.3);
+}
 
-/* hover — subtle, premium motion */
 .gradient-card:hover .software-card-bg {
-  transform: scale(1.06);
-  filter: brightness(1.05);
+  transform: scale(1.1) translate3d(-6px, -4px, 0);
+  filter: brightness(0.95);
 }
+
+.gradient-card:hover .gradient-overlay {
+  opacity: 0.7;
+}
+
+.gradient-card:hover .software-card-text .label {
+  opacity: 1;
+  transform: translateY(0);
+  text-shadow:
+    0 0 6px rgba(255,255,255,0.6),
+    0 0 12px rgba(0,0,0,0.45);
+}
+
+.gradient-card:hover .software-card-text h2 {
+  opacity: 1;
+  transform: translateY(0);
+  text-shadow:
+    0 0 10px rgba(255,255,255,0.85),
+    0 0 20px rgba(0,0,0,0.55);
+}
+
+/* --- Responsive tweak (optional) --- */
+@media (max-width: 600px) {
+  .software-card-text h2 {
+    font-size: 1.8rem;
+  }
+}
+
 </style>
 
