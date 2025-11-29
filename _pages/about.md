@@ -265,5 +265,24 @@ partners or educators, please click one of the buttons below.
   }
 }
 
+/* --- Force text color per tile --- */
+
+/* Tile 1 (left) → always white */
+.software-card-grid a:nth-child(1) .software-card-text,
+.software-card-grid a:nth-child(1) .software-card-text * {
+  mix-blend-mode: normal !important;
+  color: #ffffff !important;
+  text-shadow:none; /* remove glow if you want pure white */
+}
+
+/* Tile 2 (right) → always black */
+.software-card-grid a:nth-child(2) .software-card-text,
+.software-card-grid a:nth-child(2) .software-card-text * {
+  mix-blend-mode: normal !important;
+  color: #000000 !important;
+  text-shadow:none; /* remove glow if you want crisp contrast */
+}
+
+
 </style>
 
