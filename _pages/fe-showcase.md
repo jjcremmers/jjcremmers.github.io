@@ -26,7 +26,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
       </p>
       <div class="fe-hero-badges">
         <span>⚙️ Nonlinear & multi-physics</span>
-        <span>🖥️ HPC-ready</span>
+        <span>🖥️ HPC-ready </span>
         <span>📦 Modular components</span>
       </div>
     </div>
