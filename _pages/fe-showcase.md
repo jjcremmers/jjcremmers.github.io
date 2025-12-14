@@ -53,7 +53,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
 
       <div class="fe-scroll-image-card">
         <div class="fe-tag">Live view · Residual norm</div>
-        <img src="/assets/img/dawn/solver-dashboard.png"
+        <img src="/assets/img/dawn/dawn_in_action2.png"
              alt="Dawn solver residuals and convergence dashboard">
         <p class="fe-caption">
           Track convergence in real time: residuals, step sizes, and solver statistics.
