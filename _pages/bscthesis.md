@@ -4,15 +4,16 @@ title: Bachelor Theses
 permalink: /bscthesis/
 ---
 
-
-## Bachelor Projects
-
-Are you interested in **designing and analysing thin-walled structures** and applying what 
-you’ve learned in mechanics to real engineering problems?  
-In my Bachelor projects, you will work on challenging and hands-on topics at the intersection 
-of **structural mechanics, numerical modelling, and engineering design**. Many of the projects I supervise are connected to **student teams**, where your Bachelor project can directly contribute to the design and analysis of real structures used in competitions or prototypes. Other projects are more closely linked to my [research](/themes/), allowing you to explore [composite materials](/themes/#composite-materials), [additive manufacturinb](/themes/#additive-manufacturing), or [high perfromance computing](/themes/high-performance-computing) in more depth.
-
-An overview of the Bachelor projects that are currently available can be found [here](https://cem-projects-dev.multiscale.nl/projects?type=bachelor_thesis&supervisor=joris-remmers).
+Are you interested in designing and analysing light-weight structures and applying what 
+you’ve learned in mechanics to real engineering problems?  In my Bachelor projects, you will work 
+on challenging and hands-on topics at the intersection of structural mechanics, numerical modelling, and
+engineering design. Many of the projects I supervise are connected to student teams, where your Bachelor project
+can directly contribute to the design and analysis of real structures used in competitions or prototypes. Other 
+projects are more closely linked to my [research](/themes/), allowing you to explore 
+[composite materials](/themes/#composite-materials), [additive manufacturinb](/themes/#additive-manufacturing), 
+or [high perfromance computing](/themes/high-performance-computing) in more depth. An overview of the projects
+that are currently available can be found 
+[here](https://cem-projects-dev.multiscale.nl/projects?type=bachelor_thesis&supervisor=joris-remmers).
 
 ### How to apply?
 
