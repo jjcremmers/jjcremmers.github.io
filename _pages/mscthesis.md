@@ -2,6 +2,7 @@
 layout: page
 title: MSc Theses
 permalink: /mscthesis/
+toc: true
 ---
 
 A Master thesis is your opportunity to deeply explore a complex engineering problem and to work at the level of current research and industrial practice. In the Master thesis projects I supervise, you will typically work on advanced modelling, simulation, and design problems related to composite materials, additive manufacturing and
@@ -9,8 +10,7 @@ high performance computing for mechanics.
 
 Many projects are research-driven, contributing to ongoing scientific work, while others focus on industrial applications, such as structural optimisation, material modelling, or simulation workflows used in practice. Some of the Master Thesis projects are carried out in close collaboration with industrial partners. This means you often work on realistic, open-ended problems, use professional-level tools and methods, and interact with engineers and researchers outside the university.
 
-An overview of currently available Master thesis projects can be found  
-[here](https://cem-projects-dev.multiscale.nl/projects?type=master_thesis&supervisor=joris-remmers). Past projects are listed [below](#Overview-of-past-projects)
+An overview of currently available Master thesis projects can be found [here](https://cem-projects-dev.multiscale.nl/projects?type=master_thesis&supervisor=joris-remmers). Past projects are listed [below](#overview-of-past-projects)
 
 ### How do you start a Master thesis?
 
