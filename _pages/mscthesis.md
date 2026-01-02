@@ -30,7 +30,7 @@ During your Master thesis, you can expect regular supervision, technical discuss
 
 ### Interested?
 
-If you are considering a Master thesis and want to discuss possibilities, feel free to **contact me**. I am always happy to explore potential topics and help you find a thesis project that matches your ambitions.
+If you are considering a Master thesis and want to discuss possibilities, feel free to [reach out to me](mailto:j.j.c.remmers@tue.nl?subject=Master%20Project%20Inquiry). I am always happy to explore potential topics and help you find a thesis project that matches your ambitions.
 
 ### Overview of past projects
 

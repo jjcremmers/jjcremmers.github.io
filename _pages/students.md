@@ -2,29 +2,29 @@
 layout: page
 permalink: /info/students
 title: Information for Bachelor and Master students
+toc:
+  sidebar: left
 ---
 
-Information for Bachelor and Master students
+Information for Bachelor and Master students Mechanical Engineering.
 
-## Bachelor students
+### Bachelor students
 
 In the Bachelor program, you may encounter me in your first year during 
 the Programming component of the course 
 [Principles of Design and Programming](/courses/4ca10). I also organise 
-the [Multidisciplinary CBL](/courses/4cblw00) course in the second year and
-I coordinate one of the projects in this course on 
+the [Multidisciplinary CBL](/courses/4cblw00) course in the second year 
+and I coordinate one of the projects in this course on 
 [circular electronics](/courses/4cblw00-11)
 
-In the second and third year, you can choose elective courses, and I strongly 
-encourage you to use this opportunity to explore and discover your field of 
+In the second and third year of the Bachelor's, you can choose elective 
+courses, and I encourage you to use this opportunity to explore and discover your field of 
 interest. If you have a strong preference for engineering materials, solid mechanics, 
-and or structural design, you can opt for a Bachelor Final Project within 
-our section (Mechanics of Materials). Here, you will have the chance to work 
+and or structural design, you can opt for a [Bachelor Final Project](/bscthesis) within 
+our section ([Mechanics of Materials](https://www.tue.nl/mechmat)). Here, you will have the chance to work 
 on a project supervised by one of our PhD students and myself.
 
-A list of currently available projects can be found [here](/studentprojects/).
-
-## Master students
+### Master students
 
 My research group is part of the Section [Mechanics of Materials](https://www.tue.nl/mechmat), 
 which in turn belongs to the Division of [Computational and Experimental Mechanics](cem). I am involved 
@@ -36,8 +36,8 @@ Any student in the Master’s program in Mechanical Engineering can follow these
 Students from other departments such as the Built Environment, Applied Physics, or Industrial Design
 are also welcome to take them as electives.
 
-If you are enrolled in the Section [Mechanics of Materials](https://www.tue.nl/mechmat), or in one of 
-the tracks 
+If you are enrolled in the Section [Mechanics of Materials](https://www.tue.nl/mechmat), or 
+in one of the tracks 
 [Materials for High Tech Systems Design](https://www.tue.nl/studeren/graduate-school/mastertrack-materials-for-high-tech-systems-design), 
 [Computational Engineering](https://www.tue.nl/studeren/graduate-school/mastertrack-computational-engineering), 
 [Solid Mechanics](https://www.tue.nl/studeren/graduate-school/mastertrack-engineering-solid-mechanics), or 
@@ -45,7 +45,7 @@ the tracks
 I can serve as your mentor and supervise your [internship](#internships) or 
 [Master’s thesis project](#master-thesis-projects).
 
-### Internships
+#### Internships
 
 As part of our research activities in composite materials, advanced material 
 systems, and additive manufacturing, we regularly offer internship opportunities 
@@ -74,10 +74,10 @@ Internships typically last 11 to 14 weeks and often lead to follow-up Master
 projects with greater academic depth. In some cases, they have also served as a 
 stepping stone toward PhD research opportunities in related fields.
 
-### Master Thesis projects
+#### Master Thesis projects
 
 Master’s thesis projects typically last 7 to 9 months and are usually connected to one of 
 our ongoing [research activities](/projects). In some cases, we use a Master’s project as an 
 opportunity to explore an entirely new field—sometimes even leading to new, funded PhD positions.
 
-A list of previous projects can be found [here](/mscthesis/). Current available projects can be found [here](studentprojects).
+More information on Master Thesis projects can be found [here](/mscthesis/). 

@@ -21,16 +21,14 @@ that are currently available can be found
 
 There are two ways to start a Bachelor project with me.
 
-#### Option 1 – Choose a project from the list
-You can enrol for a Bachelor project in the section **Mechanics of Materials**. A few weeks before the start
+Option 1 – Choose a project from the list
+: You can enrol for a Bachelor project in the section **Mechanics of Materials**. A few weeks before the start
 of your project, you will be have the posilibilty to choose a project from the list of 
 [available projects](https://cem-projects-dev.multiscale.nl/projects?type=bachelor_thesis&section=mechanics-of-materials).
 I always contribute several projects to this list, so there are usually multiple options to choose from.
 
-#### Option 2 – Bring your own idea
-Do you already have a cool project idea? For example, are you active in a student team and want to turn part of that work into a Bachelor project? Then you are very welcome to contact me directly. We can discuss your idea, refine the scope, and look at what is needed to turn it into an official Bachelor project.
-
----
+Option 2 – Bring your own idea
+: Do you already have a cool project idea? For example, are you active in a student team and want to turn part of that work into a Bachelor project? Then you are very welcome to contact me directly. We can discuss your idea, refine the scope, and look at what is needed to turn it into an official Bachelor project.
 
 ### Interested?
 
