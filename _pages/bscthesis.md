@@ -2,6 +2,8 @@
 layout: page
 title: Bachelor Theses
 permalink: /bscthesis/
+toc:
+  sidebar: left
 ---
 
 Are you interested in designing and analysing light-weight structures and applying what 

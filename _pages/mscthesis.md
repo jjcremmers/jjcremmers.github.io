@@ -2,7 +2,8 @@
 layout: page
 title: MSc Theses
 permalink: /mscthesis/
-toc: true
+toc:
+  sidebar: left
 ---
 
 A Master thesis is your opportunity to deeply explore a complex engineering problem and to work at the level of current research and industrial practice. In the Master thesis projects I supervise, you will typically work on advanced modelling, simulation, and design problems related to composite materials, additive manufacturing and
