@@ -36,8 +36,6 @@ If you are considering a Master thesis and want to discuss possibilities, feel f
 
 Below is an overview of projects I have supervised in the past.
 
-{% include bib_search.liquid %}
-
 <div class="publications">
 
 {% bibliography --file msctheses %}
