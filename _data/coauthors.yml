@@ -223,7 +223,7 @@
     url: https://www.uni-siegen.de/fb6/numerik/nmitarbeiter/raasch/
 
 "moustafa kamel":
-  - firstname: ["Karim", "K."]
+  - firstname: ["Karim", "K.", "K.E."]
     url: https://batir.polytech.ulb.be/team/kehab
     
 "wintiba":
@@ -254,4 +254,18 @@
   - firstname: ["Vikram", "V.","V.S."]
     url: https://www.eng.cam.ac.uk/profiles/vsd20
 
+"van grondelle":
+  - firstname: [W.", Wilko"]
+    url: https://www.linkedin.com/in/wilko-van-grondelle/
+
+"walsh":
+  - firstname: [D.", Darragh"]
+    url: https://www.linkedin.com/in/darrwalsh/
+
+"suijdendorp":  
+  - firstname: ["S.", "S.C.E."]
+    url: https://www.linkedin.com/in/sophie-suijdendorp-bb9b171a5/
     
+"akkerman": 
+  - firstname: ["Hylke", "H.B.", "H."]
+    url: https://www.linkedin.com/in/hylke-b-akkerman/
