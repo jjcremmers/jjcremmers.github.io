@@ -74,13 +74,79 @@ nav: false          # if you want it in the menu, depends on your nav setup
   <section class="fe-scroll-section fe-alt">
     <div class="fe-scroll-inner container">
       <div class="fe-scroll-sticky">
-        <p class="fe-eyebrow">All the I/O tools</p>
-        <h2>All the I/O tools</h2>
+        <p class="fe-eyebrow">Learn by Doing</p>
+        <h2>Learn & Prototype Finite Elements — Fast</h2>
         <p class="fe-scroll-text">
-          PyFEM makes data handling effortless. Seamlessly import meshes from Gmsh and export your results to VTK, 
-          HDF5, and a wide range of popular formats—ready for instant visualization and analysis. Need a custom 
-          output? PyFEM’s flexible architecture lets you create your own parser in minutes. With PyFEM, your data 
-          flows exactly where you want it—no barriers, no black boxes, just total control.
+          PyFEM is a clean, readable Python finite element code built for learning and rapid prototyping. Its transparent structure makes nonlinear solid mechanics tangible, ideal for students, educators, and researchers who want to understand how finite elements work—not just run black-box simulations.
+        </p>
+        </p>
+      </div>
+
+      <div class="fe-scroll-image-card">
+        <div class="fe-tag">Pipeline · End-to-end</div>
+        <img src="/assets/img/dawn/workflow-pipeline.png"
+             alt="End-to-end workflow of Dawn finite element simulations">
+        <p class="fe-caption">
+          A reproducible pipeline: geometry → mesh → solve → analyze → publish.
+        </p>
+      </div>
+    </div>
+  </section>  
+
+    <!-- SECTION 3:  ------------------------------------ -->
+  <section class="fe-scroll-section fe-alt">
+    <div class="fe-scroll-inner container">
+      <div class="fe-scroll-sticky">
+        <p class="fe-eyebrow">Serious Mechanics</p>
+        <h2>Powerful Nonlinear Analysis in Pure Python</h2>
+        <p class="fe-scroll-text">
+          From large deformations and plasticity to fracture and contact, PyFEM delivers serious nonlinear mechanics in pure Python. Featuring Newton–Raphson solvers, arc-length methods, cohesive zone models, and dynamics, it connects textbook formulations directly to computational experiments.
+        </p>
+        </p>
+      </div>
+
+      <div class="fe-scroll-image-card">
+        <div class="fe-tag">Pipeline · End-to-end</div>
+        <img src="/assets/img/dawn/workflow-pipeline.png"
+             alt="End-to-end workflow of Dawn finite element simulations">
+        <p class="fe-caption">
+          A reproducible pipeline: geometry → mesh → solve → analyze → publish.
+        </p>
+      </div>
+    </div>
+  </section>  
+
+    <!-- SECTION 4:  ------------------------------------ -->
+  <section class="fe-scroll-section fe-alt">
+    <div class="fe-scroll-inner container">
+      <div class="fe-scroll-sticky">
+        <p class="fe-eyebrow">Built to Extend</p>
+        <h2>Research-Ready and Modular by Design</h2>
+        <p class="fe-scroll-text">
+          PyFEM is designed to be extended. New elements, materials, solvers, or I/O modules can be added through its modular Python API. With HDF5 and VTK output, ParaView visualization, and RVE-based multiscale modeling, it fits naturally into modern research workflows.
+        </p>
+        </p>
+      </div>
+
+      <div class="fe-scroll-image-card">
+        <div class="fe-tag">Pipeline · End-to-end</div>
+        <img src="/assets/img/dawn/workflow-pipeline.png"
+             alt="End-to-end workflow of Dawn finite element simulations">
+        <p class="fe-caption">
+          A reproducible pipeline: geometry → mesh → solve → analyze → publish.
+        </p>
+      </div>
+    </div>
+  </section>  
+
+    <!-- SECTION 5:  ------------------------------------ -->
+  <section class="fe-scroll-section fe-alt">
+    <div class="fe-scroll-inner container">
+      <div class="fe-scroll-sticky">
+        <p class="fe-eyebrow">Theory Meets Code</p>
+        <h2>From Classic Textbook to Executable Models</h2>
+        <p class="fe-scroll-text">
+          PyFEM accompanies the textbook Non-Linear Finite Element Analysis of Solids and Structures. Chapter-based examples translate theory into running simulations, allowing students and researchers to explore finite-element concepts by directly modifying and executing real code.
         </p>
         </p>
       </div>
