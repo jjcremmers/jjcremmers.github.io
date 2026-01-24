@@ -54,13 +54,17 @@ nav: false          # if you want it in the menu, depends on your nav setup
           advanced elasto-plastic and fracture models — it’s all built in. Multiphysics 
           simulations are supported as well.
         </p>
-        <p>
           Unlike commercial black-box codes, Dawn is fully transparent: all source code is 
-          accessible, readable, and modifiable. You get high-performance capability with 
+        ---
+        layout: page
+        <style>
+          .fe-hero-text, .fe-scroll-text, .fe-eyebrow, .fe-caption, .fe-tag, .fe-hero-content, .fe-scroll-inner, .fe-scroll-sticky, p, h1, h2, h3, h4, h5, h6, li, ul, ol {
+            font-size: 1.25em !important;
+          }
+        </style>
           complete control over what happens under the hood.
         </p>
       </div>
-
       <div class="fe-scroll-image-card">
         <div class="fe-tag">Live view · Residual norm</div>
         <img src="/assets/img/dawn/solver-dashboard.png"
@@ -76,14 +80,14 @@ nav: false          # if you want it in the menu, depends on your nav setup
   <section class="fe-scroll-section fe-alt">
     <div class="fe-scroll-inner container">
       <div class="fe-scroll-sticky">
-        <p class="fe-eyebrow">Novel and advanced discretisation techniques</p>
-        <h2>From partition of unity methods<br>to isogeometric analysis</h2>
+        <p class="fe-eyebrow">All the I/O tools</p>
+        <h2>All the I/O tools</h2>
         <p class="fe-scroll-text">
-          Dawn supports a wide range of modern discretisation methods from
-          partition of unity methods such as XFEM to isogeometric analysis. 
-          All these techniques are implemented within a unified framework, 
-          supported by dedicated solvers to ensure robustness and efficiency 
-          throughout the solution process.
+          PyFEM makes data handling effortless. Seamlessly import meshes from Gmsh and export your results to VTK, 
+          HDF5, and a wide range of popular formats—ready for instant visualization and analysis. Need a custom 
+          output? PyFEM’s flexible architecture lets you create your own parser in minutes. With PyFEM, your data 
+          flows exactly where you want it—no barriers, no black boxes, just total control.
+        </p>
         </p>
       </div>
 
@@ -102,19 +106,16 @@ nav: false          # if you want it in the menu, depends on your nav setup
   <section class="fe-scroll-section">
     <div class="fe-scroll-inner container">
       <div class="fe-scroll-sticky">
-        <p class="fe-eyebrow">Multi-physics coupling</p>
-        <h2>Thermal, mechanical,<br>and beyond - in one model.</h2>
+        <p class="fe-eyebrow">Optimised for AI simulation</p>
+        <h2>Optimised for AI simulation</h2>
         <p class="fe-scroll-text">
-          Thermal–mechanical analyses and full additive-manufacturing process 
-          simulations — including FFF deposition and powder-bed fusion — are all 
-          expressed using the same clean and consistent abstractions, with elements 
-          added efficiently during the simulation whenever the process requires it.
+          PyFEM is engineered for seamless integration with
+          the latest AI and machine learning tools, empowering you to automate, accelerate, and 
+          enhance your workflows. Effortlessly connect your simulations to Python-based AI frameworks, 
+          leverage real-time data exchange, and unlock new possibilities in predictive modeling, optimization, 
+          and intelligent design. With PyFEM’s flexible API, you’re not just running simulations—you’re 
+          building smart, adaptive solutions that keep you ahead of the curve.
         </p>
-        <ul class="fe-keypoints">
-          <li>Multi-physics analysis of Laser Powderbed Fusion, VAT photopolymetrisation and FFF processes</li>
-          <li>Ray-tracer model for light interaction</li>
-          <li>Thermo-hydro-mechanical analysis of composite materials</li>
-        </ul>
       </div>
 
       <div class="fe-scroll-image-card">
@@ -123,60 +124,6 @@ nav: false          # if you want it in the menu, depends on your nav setup
              alt="Multi-physics finite element simulation of a printing process">
         <p class="fe-caption">
           Temperature, distortion, and stress all solved in a unified framework.
-        </p>
-      </div>
-    </div>
-  </section>
-
-  <!-- SECTION 3: HPC & SCALING ------------------------------------------- -->
-  <section class="fe-scroll-section fe-alt">
-    <div class="fe-scroll-inner container">
-      <div class="fe-scroll-sticky">
-        <p class="fe-eyebrow">High Performance Computing & Scaling</p>
-        <h2>From laptop runs<br>to multiple cores.</h2>
-        <p class="fe-scroll-text">
-          Start on your workstation, scale to a cluster. MPI support and domain
-          decomposition are built into the core, so you can take the same models
-          from prototype to production.
-        </p>
-        <ul class="fe-keypoints">
-          <li>MPI-enabled assembly and I/O.</li>
-          <li>Compatible with existing cluster toolchains and modules.</li>
-        </ul>
-      </div>
-
-      <div class="fe-scroll-image-card">
-        <div class="fe-tag">Scaling · Strong / weak</div>
-        <img src="/assets/img/dawn/hpc-scaling.png"
-             alt="Scaling performance plots of finite element code on HPC cluster">
-        <p class="fe-caption">
-          Scaling studies directly exported from Dawn’s built-in performance monitors.
-        </p>
-      </div>
-    </div>
-  </section>
-
-  <!-- SECTION 4: WORKFLOW & ECOSYSTEM ------------------------------------ -->
-  <section class="fe-scroll-section">
-    <div class="fe-scroll-inner container">
-      <div class="fe-scroll-sticky">
-        <p class="fe-eyebrow">Novel and advanced discretisation techniques</p>
-        <h2>From partition of unity methods<br>to isogeomtric analysis</h2>
-        <p class="fe-scroll-text">
-          Dawn supports a wide range of modern discretisation methods from
-          partition of unity methods such as XFEM to isogeometric analysis. 
-          All these techniques are implemented within a unified framework, 
-          supported by dedicated solvers to ensure robustness and efficiency 
-          throughout the solution process.
-        </p>
-      </div>
-
-      <div class="fe-scroll-image-card">
-        <div class="fe-tag">Pipeline · End-to-end</div>
-        <img src="/assets/img/dawn/workflow-pipeline.png"
-             alt="End-to-end workflow of Dawn finite element simulations">
-        <p class="fe-caption">
-          A reproducible pipeline: geometry → mesh → solve → analyze → publish.
         </p>
       </div>
     </div>
