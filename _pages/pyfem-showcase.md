@@ -181,7 +181,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
 
       <div class="fe-scroll-image-card">
         <div class="fe-tag">Pipeline · End-to-end</div>
-        <img src="/assets/img/deborstbook.png"
+        <img src="/assets/img/publication_preview/deborstbook.png"
              alt="Non-Linear Finite Element Analysis of Solids and Structures">
         <p class="fe-caption">
           Non-Linear Finite Element Analysis of Solids and Structures
