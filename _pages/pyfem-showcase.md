@@ -55,13 +55,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
           simulations are supported as well.
         </p>
           Unlike commercial black-box codes, Dawn is fully transparent: all source code is 
-        ---
-        layout: page
-        <style>
-          .fe-hero-text, .fe-scroll-text, .fe-eyebrow, .fe-caption, .fe-tag, .fe-hero-content, .fe-scroll-inner, .fe-scroll-sticky, p, h1, h2, h3, h4, h5, h6, li, ul, ol {
-            font-size: 1.25em !important;
-          }
-        </style>
+          accessible, readable, and modifiable. You get high-performance capability with 
           complete control over what happens under the hood.
         </p>
       </div>
