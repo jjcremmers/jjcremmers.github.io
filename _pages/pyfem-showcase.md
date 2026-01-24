@@ -139,34 +139,11 @@ nav: false          # if you want it in the menu, depends on your nav setup
     </div>
   </section>  
 
-    <!-- SECTION 5:  ------------------------------------ -->
-  <section class="fe-scroll-section fe-alt">
-    <div class="fe-scroll-inner container">
-      <div class="fe-scroll-sticky">
-        <p class="fe-eyebrow">Theory Meets Code</p>
-        <h2>From Classic Textbook to Executable Models</h2>
-        <p class="fe-scroll-text">
-          PyFEM accompanies the textbook Non-Linear Finite Element Analysis of Solids and Structures. Chapter-based examples translate theory into running simulations, allowing students and researchers to explore finite-element concepts by directly modifying and executing real code.
-        </p>
-        </p>
-      </div>
-
-      <div class="fe-scroll-image-card">
-        <div class="fe-tag">Pipeline · End-to-end</div>
-        <img src="/assets/img/dawn/workflow-pipeline.png"
-             alt="End-to-end workflow of Dawn finite element simulations">
-        <p class="fe-caption">
-          A reproducible pipeline: geometry → mesh → solve → analyze → publish.
-        </p>
-      </div>
-    </div>
-  </section>  
-  
-  <!-- SECTION 2: MULTI-PHYSICS ------------------------------------------- -->
+   <!-- SECTION 2: MULTI-PHYSICS ------------------------------------------- -->
   <section class="fe-scroll-section">
     <div class="fe-scroll-inner container">
       <div class="fe-scroll-sticky">
-        <p class="fe-eyebrow">Optimised for AI simulation</p>
+        <p class="fe-eyebrow">Artificial Intelligence</p>
         <h2>Optimised for AI simulation</h2>
         <p class="fe-scroll-text">
           PyFEM is engineered for seamless integration with
@@ -188,6 +165,32 @@ nav: false          # if you want it in the menu, depends on your nav setup
       </div>
     </div>
   </section>
+
+  <!-- SECTION 5:  ------------------------------------ -->
+
+  <section class="fe-scroll-section fe-alt">
+    <div class="fe-scroll-inner container">
+      <div class="fe-scroll-sticky">
+        <p class="fe-eyebrow">Theory Meets Code</p>
+        <h2>From Classic Textbook to Executable Models</h2>
+        <p class="fe-scroll-text">
+          PyFEM accompanies the textbook Non-Linear Finite Element Analysis of Solids and Structures. Chapter-based examples translate theory into running simulations, allowing students and researchers to explore finite-element concepts by directly modifying and executing real code.
+        </p>
+        </p>
+      </div>
+
+      <div class="fe-scroll-image-card">
+        <div class="fe-tag">Pipeline · End-to-end</div>
+        <img src="/assets/img/deborstbook.png"
+             alt="Non-Linear Finite Element Analysis of Solids and Structures">
+        <p class="fe-caption">
+          Non-Linear Finite Element Analysis of Solids and Structures
+        </p>
+      </div>
+    </div>
+  </section>  
+  
+ 
 
   <!-- CTA STRIP ----------------------------------------------------------- -->
   <section class="fe-cta-strip">
