@@ -6,6 +6,10 @@ toc:
   sidebar: left
 ---
 
+In my research, I explore the mechanical behaviour of composite materials, various additive manufacturing
+processes and porous media. For that, I develop high-performance computing algorithms and software. 
+In addition, I study the use of AI in education. 
+
 ## Composite Materials
 
 Fibre reinforced composite materials are increasingly used in automotive and aerospace 

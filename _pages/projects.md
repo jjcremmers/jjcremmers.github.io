@@ -7,6 +7,8 @@ display_categories: [running,finished]
 horizontal: false
 ---
 
+Below, you find an overview of [current](#running) and [past](#finished) projects.
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
