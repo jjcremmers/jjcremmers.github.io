@@ -15,7 +15,7 @@ projects are more closely linked to my [research](/themes/), allowing you to exp
 [composite materials](/themes/#composite-materials), [additive manufacturinb](/themes/#additive-manufacturing), 
 or [high perfromance computing](/themes/high-performance-computing) in more depth. An overview of the projects
 that are currently available can be found 
-[here](https://cem-projects-dev.multiscale.nl/projects?type=bachelor_thesis&supervisor=joris-remmers).
+[here](https://studentprojects.wtb.tue.nl/projects?type=bachelor_thesis&section=mechanics-of-materials&supervisor=joris-remmers).
 
 ### How to apply?
 

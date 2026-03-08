@@ -12,8 +12,5 @@ children:
     permalink: /bscthesis/     
   - title: divider
   - title: MSc Theses
-    permalink: /mscthesis/    
-  - title: divider
-  - title: Vacancies
-    permalink: /studentprojects/     
+    permalink: /mscthesis/       
 ---

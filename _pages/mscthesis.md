@@ -19,7 +19,7 @@ There are two common ways to start a Master thesis project with me.
 
 Option 1 – Choose a project from the list
 : You can select a Master thesis topic from the 
-[list](https://cem-projects-dev.multiscale.nl/projects?type=master_thesis&section=mechanics-of-materials). that is published during the registration period. These projects are well-defined starting points, often already embedded in a research or industrial context.
+[list](https://studentprojects.wtb.tue.nl/projects?type=master_thesis&section=mechanics-of-materials&supervisor=joris-remmers). that is published during the registration period. These projects are well-defined starting points, often already embedded in a research or industrial context.
 
 Option 2 – Develop a project together
 : If you have a strong interest in a specific topic, or if you already have contact with an industrial partner, you are encouraged to get in touch. Together, we can shape a thesis topic that fits your interests, the academic requirements, and the expectations of an external partner.
