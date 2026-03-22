@@ -58,6 +58,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
+            },{id: "dropdown-aerospace-engineering",
+              title: "Aerospace Engineering",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
             },{id: "nav-ai-in-education",
           title: "AI in education",
           description: "",
