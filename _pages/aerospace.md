@@ -3,6 +3,7 @@ layout: page
 title: Aerospace Engineering @ TU/e
 description: New MSc track within Mechanical Engineering (starting 2027)
 img: assets/img/aerospace/ae_hero.jpg
+permalink: /aerospace/
 importance: 1
 category: education
 ---
