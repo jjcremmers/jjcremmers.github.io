@@ -7,9 +7,6 @@ importance: 1
 category: education
 ---
 
-## Aerospace Engineering @ TU/e  
-*Track within the MSc Mechanical Engineering*
-
 Starting in **September 2027**, the Eindhoven University of Technology 
 introduces a new **Aerospace Engineering track** within the Master’s 
 programme in Mechanical Engineering.  
