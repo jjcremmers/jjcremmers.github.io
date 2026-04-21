@@ -13,5 +13,8 @@ children:
   - title: divider
   - title: MSc Theses
     permalink: /mscthesis/       
+  - title: divider
+  - title: Aerospace Engineering
+    permalink: /aerospace/        
     
 ---
