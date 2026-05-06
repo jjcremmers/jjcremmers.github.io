@@ -289,3 +289,22 @@
 "kamensky": 
   - firstname: ["David", "D."]
     url: https://www.linkedin.com/in/david-kamensky-b1901a192/
+
+"wolfs": 
+  - firstname: ["Rob", "R.J.M."]
+    url: https://www.tue.nl/en/research/researchers/rob-wolfs
+
+"deen":
+  - firstname: ["Niels", "N.G."]
+    url: https://www.tue.nl/en/research/researchers/niels-deen
+
+"jin":
+  - firstname: ["Wen", "W."]
+    url: https://research.tue.nl/en/persons/wen-jin
+
+"finotello":
+  - firstname: ["Giulia", "G."]
+    url: https://www.tue.nl/en/research/researchers/giulia-finotello
+            
+
+    
