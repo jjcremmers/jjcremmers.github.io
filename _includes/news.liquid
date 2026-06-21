@@ -19,6 +19,20 @@
             <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
             <td>
               {% if item.linkedin_embed %}
+                {% assign linkedin_src = item.linkedin_embed %}
+                {% if linkedin_src contains 'linkedin.com/posts/' %}
+                  {% if linkedin_src contains 'share-' %}
+                    {% assign linkedin_id = linkedin_src | split: 'share-' | last | split: '-' | first | split: '?' | first | split: '/' | first %}
+                    {% assign linkedin_src = 'https://www.linkedin.com/embed/feed/update/urn:li:share:' | append: linkedin_id | append: '?collapsed=1' %}
+                  {% elsif linkedin_src contains 'activity-' %}
+                    {% assign linkedin_id = linkedin_src | split: 'activity-' | last | split: '-' | first | split: '?' | first | split: '/' | first %}
+                    {% assign linkedin_src = 'https://www.linkedin.com/embed/feed/update/urn:li:activity:' | append: linkedin_id | append: '?collapsed=1' %}
+                  {% endif %}
+                {% elsif linkedin_src contains 'linkedin.com/feed/update/' and linkedin_src contains 'urn:li:' %}
+                  {% unless linkedin_src contains 'linkedin.com/embed/feed/update/' %}
+                    {% assign linkedin_src = linkedin_src | replace: 'https://www.linkedin.com/feed/update/', 'https://www.linkedin.com/embed/feed/update/' %}
+                  {% endunless %}
+                {% endif %}
                 {% if item.title %}
                   <p class="mb-2">
                     <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
@@ -30,7 +44,7 @@
                 <a class="news-embed-link" href="{{ item.url | relative_url }}" aria-label="Open {{ item.title | default: 'LinkedIn post' | escape }}">
                   <div class="news-embed-wrapper news-embed-wrapper-preview">
                     <iframe
-                      src="{{ item.linkedin_embed }}"
+                      src="{{ linkedin_src }}"
                       class="news-linkedin-embed"
                       height="{{ item.embed_height | default: 456 }}"
                       width="{{ item.embed_width | default: 504 }}"

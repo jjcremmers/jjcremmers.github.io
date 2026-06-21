@@ -70,7 +70,21 @@ layout: default
     {% endif %}
     <div id="markdown-content">
       {% if page.linkedin_embed %}
-        {% assign full_linkedin_embed = page.linkedin_embed | replace: '?collapsed=1', '' | replace: '&collapsed=1', '' %}
+        {% assign full_linkedin_embed = page.linkedin_embed %}
+        {% if full_linkedin_embed contains 'linkedin.com/posts/' %}
+          {% if full_linkedin_embed contains 'share-' %}
+            {% assign linkedin_id = full_linkedin_embed | split: 'share-' | last | split: '-' | first | split: '?' | first | split: '/' | first %}
+            {% assign full_linkedin_embed = 'https://www.linkedin.com/embed/feed/update/urn:li:share:' | append: linkedin_id %}
+          {% elsif full_linkedin_embed contains 'activity-' %}
+            {% assign linkedin_id = full_linkedin_embed | split: 'activity-' | last | split: '-' | first | split: '?' | first | split: '/' | first %}
+            {% assign full_linkedin_embed = 'https://www.linkedin.com/embed/feed/update/urn:li:activity:' | append: linkedin_id %}
+          {% endif %}
+        {% elsif full_linkedin_embed contains 'linkedin.com/feed/update/' and full_linkedin_embed contains 'urn:li:' %}
+          {% unless full_linkedin_embed contains 'linkedin.com/embed/feed/update/' %}
+            {% assign full_linkedin_embed = full_linkedin_embed | replace: 'https://www.linkedin.com/feed/update/', 'https://www.linkedin.com/embed/feed/update/' %}
+          {% endunless %}
+        {% endif %}
+        {% assign full_linkedin_embed = full_linkedin_embed | replace: '?collapsed=1', '' | replace: '&collapsed=1', '' %}
         <div class="news-embed-wrapper mb-3">
           <iframe
             src="{{ full_linkedin_embed }}"
