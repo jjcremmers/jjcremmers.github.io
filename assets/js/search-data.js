@@ -555,6 +555,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ai_connector/";
+            },},{id: "news-program-director",
+          title: 'Program Director',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/program_director/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
