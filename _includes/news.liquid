@@ -27,17 +27,21 @@
                 {% if item.content != blank %}
                   <div class="mb-2">{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</div>
                 {% endif %}
-                <div class="news-embed-wrapper">
-                  <iframe
-                    src="{{ item.linkedin_embed }}"
-                    class="news-linkedin-embed"
-                    height="{{ item.embed_height | default: 456 }}"
-                    width="{{ item.embed_width | default: 504 }}"
-                    frameborder="0"
-                    allowfullscreen
-                    title="{{ item.embed_title | default: item.title | default: 'Embedded LinkedIn post' | escape }}"
-                  ></iframe>
-                </div>
+                <a class="news-embed-link" href="{{ item.url | relative_url }}" aria-label="Open {{ item.title | default: 'LinkedIn post' | escape }}">
+                  <div class="news-embed-wrapper news-embed-wrapper-preview">
+                    <iframe
+                      src="{{ item.linkedin_embed }}"
+                      class="news-linkedin-embed"
+                      height="{{ item.embed_height | default: 456 }}"
+                      width="{{ item.embed_width | default: 504 }}"
+                      frameborder="0"
+                      allowfullscreen
+                      title="{{ item.embed_title | default: item.title | default: 'Embedded LinkedIn post' | escape }}"
+                      tabindex="-1"
+                    ></iframe>
+                    <span class="news-embed-overlay"></span>
+                  </div>
+                </a>
               {% elsif item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% else %}
