@@ -69,6 +69,20 @@ layout: default
       <hr>
     {% endif %}
     <div id="markdown-content">
+      {% if page.linkedin_embed %}
+        {% assign full_linkedin_embed = page.linkedin_embed | replace: '?collapsed=1', '' | replace: '&collapsed=1', '' %}
+        <div class="news-embed-wrapper mb-3">
+          <iframe
+            src="{{ full_linkedin_embed }}"
+            class="news-linkedin-embed"
+            height="{{ page.full_embed_height | default: page.embed_height | default: 593 }}"
+            width="{{ page.embed_width | default: 504 }}"
+            frameborder="0"
+            allowfullscreen
+            title="{{ page.embed_title | default: page.title | default: 'Embedded LinkedIn post' | escape }}"
+          ></iframe>
+        </div>
+      {% endif %}
       {{ content }}
     </div>
   </article>
