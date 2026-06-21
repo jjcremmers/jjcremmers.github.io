@@ -1185,6 +1185,17 @@ ninja-keys::part(ninja-input-wrapper) {
   background: var(--global-bg-color);
 }
 
+.news-embed-wrapper {
+  max-width: 504px;
+}
+
+.news-linkedin-embed {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  border: 0;
+}
+
 // newsletter
 .newsletter-form-container {
   margin-bottom: 20px;

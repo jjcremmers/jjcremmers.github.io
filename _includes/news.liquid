@@ -18,7 +18,27 @@
           <tr>
             <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
             <td>
-              {% if item.inline %}
+              {% if item.linkedin_embed %}
+                {% if item.title %}
+                  <p class="mb-2">
+                    <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                  </p>
+                {% endif %}
+                {% if item.content != blank %}
+                  <div class="mb-2">{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</div>
+                {% endif %}
+                <div class="news-embed-wrapper">
+                  <iframe
+                    src="{{ item.linkedin_embed }}"
+                    class="news-linkedin-embed"
+                    height="{{ item.embed_height | default: 456 }}"
+                    width="{{ item.embed_width | default: 504 }}"
+                    frameborder="0"
+                    allowfullscreen
+                    title="{{ item.embed_title | default: item.title | default: 'Embedded LinkedIn post' | escape }}"
+                  ></iframe>
+                </div>
+              {% elsif item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% else %}
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
