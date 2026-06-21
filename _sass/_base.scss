@@ -1187,11 +1187,13 @@ ninja-keys::part(ninja-input-wrapper) {
 
 .news-embed-wrapper {
   position: relative;
-  max-width: 504px;
+  width: 100%;
+  max-width: 100%;
 }
 
 .news-embed-link {
-  display: inline-block;
+  display: block;
+  width: 100%;
   max-width: 100%;
 }
 
