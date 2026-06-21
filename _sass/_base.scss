@@ -1186,15 +1186,7 @@ ninja-keys::part(ninja-input-wrapper) {
 }
 
 .news-embed-wrapper {
-  position: relative;
-  width: 100%;
-  max-width: 100%;
-}
-
-.news-embed-link {
-  display: block;
-  width: 100%;
-  max-width: 100%;
+  max-width: 504px;
 }
 
 .news-linkedin-embed {
@@ -1202,15 +1194,6 @@ ninja-keys::part(ninja-input-wrapper) {
   width: 100%;
   max-width: 100%;
   border: 0;
-}
-
-.news-embed-wrapper-preview .news-linkedin-embed {
-  pointer-events: none;
-}
-
-.news-embed-overlay {
-  position: absolute;
-  inset: 0;
 }
 
 // newsletter

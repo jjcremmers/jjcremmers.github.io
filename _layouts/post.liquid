@@ -69,34 +69,6 @@ layout: default
       <hr>
     {% endif %}
     <div id="markdown-content">
-      {% if page.linkedin_embed %}
-        {% assign full_linkedin_embed = page.linkedin_embed %}
-        {% if full_linkedin_embed contains 'linkedin.com/posts/' %}
-          {% if full_linkedin_embed contains 'share-' %}
-            {% assign linkedin_id = full_linkedin_embed | split: 'share-' | last | split: '-' | first | split: '?' | first | split: '/' | first %}
-            {% assign full_linkedin_embed = 'https://www.linkedin.com/embed/feed/update/urn:li:share:' | append: linkedin_id %}
-          {% elsif full_linkedin_embed contains 'activity-' %}
-            {% assign linkedin_id = full_linkedin_embed | split: 'activity-' | last | split: '-' | first | split: '?' | first | split: '/' | first %}
-            {% assign full_linkedin_embed = 'https://www.linkedin.com/embed/feed/update/urn:li:activity:' | append: linkedin_id %}
-          {% endif %}
-        {% elsif full_linkedin_embed contains 'linkedin.com/feed/update/' and full_linkedin_embed contains 'urn:li:' %}
-          {% unless full_linkedin_embed contains 'linkedin.com/embed/feed/update/' %}
-            {% assign full_linkedin_embed = full_linkedin_embed | replace: 'https://www.linkedin.com/feed/update/', 'https://www.linkedin.com/embed/feed/update/' %}
-          {% endunless %}
-        {% endif %}
-        {% assign full_linkedin_embed = full_linkedin_embed | replace: '?collapsed=1', '' | replace: '&collapsed=1', '' %}
-        <div class="news-embed-wrapper mb-3">
-          <iframe
-            src="{{ full_linkedin_embed }}"
-            class="news-linkedin-embed"
-            height="{{ page.full_embed_height | default: page.embed_height | default: 593 }}"
-            width="{{ page.embed_width | default: 504 }}"
-            frameborder="0"
-            allowfullscreen
-            title="{{ page.embed_title | default: page.title | default: 'Embedded LinkedIn post' | escape }}"
-          ></iframe>
-        </div>
-      {% endif %}
       {{ content }}
     </div>
   </article>
