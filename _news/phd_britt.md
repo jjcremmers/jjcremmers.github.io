@@ -8,4 +8,3 @@ linkedin_embed: https://www.linkedin.com/feed/update/urn:li:activity:73255353757
 embed_height: 456
 ---
 
-Last Tuesday, May 6, Britt Cordewener successfully defended her PhD Thesis. Congratulations Britt!
