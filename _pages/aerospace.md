@@ -1,93 +1,47 @@
 ---
 layout: page
-title: Aerospace Engineering @ TU/e
-description: New MSc track within Mechanical Engineering (starting 2027)
+title: Aerospace Systems Engineering – a new track at TU/e
+description: Aerospace Systems Engineering – a new track at TU/e
 permalink: /aerospace/
 importance: 1
 category: education
 ---
 
-Starting in **September 2027**, the Eindhoven University of Technology 
-introduces a new **Aerospace Engineering track** within the Master’s 
-programme in Mechanical Engineering.  
+Starting in September 2027, Eindhoven University of Technology (TU/e) will launch a new Aerospace Systems Engineering (ASE) track within the Master's program in Mechanical Engineering. Over the past period, I have been closely involved in developing this new track together with colleagues across the university.
 
-This track is designed for students who want to contribute to the 
-future of aviation, space systems, and high-performance engineering—combining 
-a strong foundation in mechanics with dedicated aerospace expertise.
+The track is designed for students who want to contribute to the future of aviation, space systems and high-performance engineering, combining a strong foundation in mechanical engineering with dedicated aerospace knowledge. The program welcomes students from different engineering and science backgrounds, including Mechanical Engineering, Applied Physics and Aerospace Engineering.
 
-The programme is open to students with a Bachelor’s degree in:
-- Mechanical Engineering  
-- Applied Physics  
-- Aerospace Engineering  
+# A systems-oriented approach
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/aerospace/aersoapce.png" title="Aerospace" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
----
+Aerospace engineering is inherently multidisciplinary. Designing the next generation of aircraft, spacecraft, unmanned aerial vehicles and propulsion systems requires much more than expertise in a single engineering discipline. Aerodynamics, structures, lightweight materials, propulsion, flight dynamics and control all interact, and decisions made in one part of a system inevitably affect many others.
 
-## A Systems-Oriented Approach
+This multidisciplinary character is at the heart of the new ASE track. Rather than approaching aerospace engineering as a collection of separate disciplines, we take a systems engineering perspective. Students learn to understand, analyze and design complete aerospace systems, while at the same time developing in-depth expertise in the areas that interest them most.
 
-Aerospace engineering is inherently multidisciplinary. At TU/e, 
-we build on our strengths in 
-**mechanics of materials, thermofluids, control, and computational modelling** 
-to offer a systems-level 
-perspective on aerospace design.
+The track builds on existing strengths within Mechanical Engineering and across TU/e, including mechanics of materials, thermofluids, computational modelling, dynamics and control. These provide the foundation for aerospace topics such as lightweight structures and advanced materials, aerodynamics, propulsion and combustion, flight dynamics and performance, and autonomous flight.
 
-Students develop expertise in:
-- Lightweight structures and advanced materials  
-- Aerodynamics  
-- Propulsion and combustion  
-- Flight dynamics and performance  
-- Aircraft control and autonomous flight  
+# Education and structure
 
-This enables graduates to approach aerospace challenges as **integrated engineering systems**, rather than isolated disciplines.
+A common aerospace foundation is provided through two dedicated courses:
 
----
+* AE-I: Design, Flight Dynamics and Performance
+* AE-II: Materials, Structures and Aerodynamics
 
-## Education and Structure
+From there, students can shape their own profile by choosing from more than 20 specialization and elective courses. This makes it possible to develop a learning path around individual interests, for example in autonomous aerospace systems, fluid and structural dynamics, lightweight structures and materials, space instrumentation, propulsion, or system design.
 
-The track is built around two core courses:
+A central element of the track is AE-CBL: Multidisciplinary Aerospace Project. Students from different technical backgrounds work together on realistic aerospace challenges, integrating knowledge from different disciplines and translating their ideas into designs and physical demonstrators. In this way, students experience the multidisciplinary decision-making, trade-offs and system integration that are central to professional aerospace engineering.
 
-- **AE-I: Design, Flight Dynamics and Performance**  
-- **AE-II: Materials, Structures and Aerodynamics**
+Education is further connected to research and professional practice through internships and Master's thesis projects. Supported by TU/e researchers and our network of external partners, students have opportunities to work on challenges that connect directly to current developments in aerospace and high-tech engineering.
 
-In addition, students can choose from **20+ specialization courses**, allowing for a highly personalized learning path.
-A central element of the programme is: **AE-CBL: Multi-disciplinary Aerospace Project**. In this course, students work in teams on complex, real-world aerospace challenges, closely reflecting professional engineering practice.
+# Aerospace engineering in the Brainport ecosystem
 
-The programme connects education with practice and research through:
+Eindhoven provides a distinctive environment for such a program. TU/e is located at the heart of the Brainport Eindhoven high-tech ecosystem, with strong connections to technology companies and research institutes.
 
-- Multidisciplinary aerospace projects  
-- Internships in the aerospace industry  
-- Master thesis projects aligned with cutting-edge research  
+Modern aerospace systems increasingly depend on technologies that are also central to this region: advanced materials and manufacturing, high-precision engineering, electronics, control, computational engineering and complex system integration. Aerospace therefore provides both an exciting application domain and an excellent environment for educating engineers capable of working across disciplinary boundaries.
 
-Through a strong network of aerospace partners, students gain direct exposure
- to real-world engineering environments.
+Our ambition is to educate engineers who combine deep technical expertise with system-level thinking: engineers who understand not only how an individual component works, but also how it interacts with other components and contributes to the performance of the complete aerospace system.
 
-Students are supported by staff with an **Aerospace Engineering background** and benefit from close mentorship throughout the programme.
+I am very much looking forward to welcoming the first group of Aerospace Systems Engineering students in September 2027 and to further developing this new track together with our students, colleagues, researchers and industrial partners.
 
-The track is embedded in TU/e’s broader ecosystem of:
-- Advanced computational modelling  
-- Experimental research facilities  
-- Interdisciplinary collaboration  
+# More information
 
----
-
-## Why Aerospace Engineering at TU/e?
-
-This track offers:
-
-- A **strong mechanical engineering foundation**  
-- A **flexible and personalized curriculum**  
-- Integration of **education, research, and industry**  
-- A focus on **multidisciplinary and challenge-based learning**
-
-Together, this creates an environment where students are prepared not only to understand aerospace systems, but to **design, optimize, and innovate within them**.
-
----
-
-## More Information
-
-For questions about the programme:  
-📧 me.studyinformation@tue.nl
+For questions about the program, please contact [https://www.tue.nl/en/education/graduate-school/master-mechanical-engineering/mastertrack-aerospace-systems-engineering](https://www.tue.nl/en/education/graduate-school/master-mechanical-engineering/mastertrack-aerospace-systems-engineering).
