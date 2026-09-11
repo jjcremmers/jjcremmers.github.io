@@ -58,8 +58,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "dropdown-aerospace-engineering",
-              title: "Aerospace Engineering",
+            },{id: "dropdown-aerospace-systems-engineering",
+              title: "Aerospace Systems Engineering",
               description: "",
               section: "Dropdown",
               handler: () => {
