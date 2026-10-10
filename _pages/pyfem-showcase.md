@@ -213,7 +213,8 @@ nav: false          # if you want it in the menu, depends on your nav setup
 <style>
 /* Root wrapper */
 .fe-showcase {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: inherit;
+  font-size: 1rem;
   color: var(--global-text-color, #111);
 }
 
@@ -265,7 +266,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
 }
 
 .fe-hero-text {
-  font-size: 1.1rem;
+  font-size: 1rem;
   max-width: 30rem;
   opacity: 0.9;
 }
@@ -321,7 +322,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
 }
 
 .fe-scroll-text {
-  font-size: 1.02rem;
+  font-size: 1rem;
   max-width: 32rem;
 }
 
