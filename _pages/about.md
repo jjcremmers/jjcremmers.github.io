@@ -22,35 +22,29 @@ social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
 Welcome to my personal website. I am an academic professional working at the 
-intersection of engineering education and research. My research focuses on the 
-development of computational models for the mechanical analysis of 
-[composite materials](themes/#composite-materials), the simulation of 
-[3D printing processes](themes/#additive-manufacturing), and the application of 
+intersection of engineering education and research. My research focuses on computational 
+modeling of [composite materials](themes/#composite-materials), simulation of 
+[3D printing processes](themes/#additive-manufacturing), and
 [high-performance computing techniques](/themes/#high-performance-computing), including 
-reduced-order modeling. In these studies, I rely on my own modular Finite Element
+reduced-order modeling. For this work, I rely on my own modular Finite Element
 codes [Dawn](/software/dawn) and [PyFEM](/software/pyfem).
 
-Alongside my research activities, I teach a variety of courses in these fields, 
-covering topics such as [composite design](courses/4mm00/), 
-[additive manufacturing](courses/4mm60), and [computational methods](courses/4em30). 
-I am also actively involved in the development and organization of several 
-[Multidisciplinary Challenge-Based Learning (CBL)](courses/4cblw00) courses, 
-aiming to equip students with skills that bridge theory and practice across 
-disciplines.
+Alongside my research, I teach a variety of courses in [composite design](courses/4mm00/), 
+and [computational methods](courses/4em30). 
+I am also actively involved in the development of the new Master track
+[Aerospace Systems Engineering](courses/4cblw00). As of May 2027, I will pick the role
+of Program Director of the Master MEchanical Engineering.
 
-In addition to my research and teaching, I have a particular interest in the 
-role of [Generative AI in education](ai_in_education/). I am especially engaged 
-in exploring how Large Language Models can support programming education and 
-enhance student learning processes.
+I have a strong interest in [Generative AI in education](ai_in_education/) particularly 
+how Large Language Models can support programming education and student learning.
 
 On this website, you can find more information about my [research projects](projects/), 
-the [courses](courses/) I am involved in, and my broader initiatives in 
-engineering education. In addition, you will find more information about the 
+the [teaching activities](courses/), various educational initiatives and the 
 [software tools](/repositories) that I have been
 developping in the past years.
 
@@ -87,6 +81,17 @@ partners or educators, please click one of the buttons below.
       <div class="software-card-text">
         <p class="label"><br> Finite Element Code for Education</p>
         <h2>PyFEM</h2>
+      </div>
+    </a>
+
+    <!-- Tile 3 -->
+    <a class="software-card gradient-card" href="/aerospace/">
+      <div class="software-card-bg"
+           style="background-image:url('/assets/img/aerospace/ae_hero.png');"></div>
+      <div class="gradient-overlay"></div>
+      <div class="software-card-text">
+        <p class="label"><br>Master's Track</p>
+        <h2>Aerospace Systems Engineering</h2>
       </div>
     </a>
 
