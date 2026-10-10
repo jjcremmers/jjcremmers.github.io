@@ -195,6 +195,8 @@ nav: false          # if you want it in the menu, depends on your nav setup
 .fe-showcase {
   font-family: inherit;
   font-size: 1rem;
+  --showcase-offwhite: #f3f0e9;
+  --showcase-navy: #071b2b;
   color: var(--global-text-color, #111);
 }
 
@@ -275,11 +277,11 @@ nav: false          # if you want it in the menu, depends on your nav setup
   display: flex;
   align-items: stretch;
   padding: 6rem 0;
-  background: var(--global-bg-color, #f5f5f7);
+  background: var(--showcase-offwhite);
 }
 
 .fe-scroll-section.fe-alt {
-  background: #001322;
+  background: var(--showcase-navy);
   color: #f5f5f7;
 }
 
@@ -332,7 +334,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
 
 .fe-scroll-image-card {
   align-self: center;
-  background: rgba(255, 255, 255, 0.92);
+  background: rgba(243, 240, 233, 0.94);
   border-radius: 1.5rem;
   padding: 1.25rem 1.25rem 1.4rem;
   box-shadow: 0 24px 60px rgba(15, 23, 42, 0.22);
@@ -382,7 +384,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
   text-align: center;
   background: radial-gradient(circle at 10% 0, rgba(59, 130, 246, 0.12), transparent),
               radial-gradient(circle at 90% 100%, rgba(236, 72, 153, 0.16), transparent),
-              var(--global-bg-color, #f5f5f7);
+              var(--showcase-offwhite);
 }
 
 .fe-cta-strip h2 {
