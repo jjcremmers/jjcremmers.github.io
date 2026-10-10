@@ -1210,7 +1210,7 @@ ninja-keys::part(ninja-input-wrapper) {
 }
 
 .nav-link.nav-highlight {
-  color: #d00 !important;
+  color: var(--nav-highlight-color, #d00) !important;
   font-weight: 700;
 }
 

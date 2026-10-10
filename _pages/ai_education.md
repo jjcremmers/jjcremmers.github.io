@@ -2,8 +2,9 @@
 layout: page
 title: AI in education
 nav_title: AI
+nav_highlight: true
+nav_color: darkgreen
 permalink: /ai_in_education/
-css_class: highlight-menu
 nav: true
 nav_order: 4
 related_publications: true
