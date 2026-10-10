@@ -735,6 +735,11 @@ ninja.data = [{
           description: "Computational model for metal powderbed fusion printing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mm3d/";
+            },},{id: "projects-mtv",
+          title: 'MTV',
+          description: "TVAM",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mtv/";
             },},{id: "projects-protechtion",
           title: 'ProTechTion',
           description: "Multiscale modulling of woven composites",
