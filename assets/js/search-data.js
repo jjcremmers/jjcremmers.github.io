@@ -555,6 +555,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ai_connector/";
+            },},{id: "news-momentum",
+          title: 'Momentum',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/250926_momentum/";
             },},{id: "news-program-director",
           title: 'Program Director',
           description: "",
