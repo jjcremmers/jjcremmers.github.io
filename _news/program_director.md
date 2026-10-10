@@ -4,6 +4,14 @@ title: Program Director
 date: 2026-06-16 11:00-0400
 inline: false
 related_posts: false
-linkedin_embed: https://www.linkedin.com/embed/feed/update/urn:li:share:7472211277071855617?collapsed=1
-embed_height: 456
 ---
+
+I am happy to share that, as of May 1, 2027, I will be the new Program Director of the Master's program in 
+Mechanical Engineering at Eindhoven University of Technology!
+
+After many years of involvement in education, I am looking forward to taking on this new role and working with 
+colleagues and students to further develop our Master's program. There are many exciting opportunities ahead, 
+including the introduction of our new Aerospace Systems Engineering track, educational innovation, and the integration 
+of AI in education.
+
+More information about the new team can be found [here](https://lnkd.in/p/er3pFwpj)
