@@ -85,7 +85,7 @@ partners or educators, please click one of the buttons below.
     </a>
 
     <!-- Tile 3 -->
-    <a class="software-card gradient-card" href="/aerospace/">
+    <a class="software-card gradient-card aerospace-card" href="/aerospace/">
       <div class="software-card-bg"
            style="background-image:url('/assets/img/aerospace/ae_hero.png');"></div>
       <div class="gradient-overlay"></div>
@@ -145,6 +145,11 @@ partners or educators, please click one of the buttons below.
   grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
   gap: 2rem;
   width: min(1200px, 90vw);
+}
+
+/* The aerospace tile spans two columns on larger screens and one on mobile. */
+.aerospace-card {
+  grid-column: span 2;
 }
 
 /* --- Card base: 3:1 ratio, cinematic-ready --- */
@@ -265,6 +270,10 @@ partners or educators, please click one of the buttons below.
 
 /* --- Responsive tweak (optional) --- */
 @media (max-width: 600px) {
+  .aerospace-card {
+    grid-column: span 1;
+  }
+
   .software-card-text h2 {
     font-size: 1.8rem;
   }
@@ -286,6 +295,14 @@ partners or educators, please click one of the buttons below.
   mix-blend-mode: normal !important;
   color: #000000 !important;
   text-shadow:none; /* remove glow if you want crisp contrast */
+}
+
+/* Aerospace tile → always black */
+.aerospace-card .software-card-text,
+.aerospace-card .software-card-text * {
+  mix-blend-mode: normal !important;
+  color: #000000 !important;
+  text-shadow: none;
 }
 
 
