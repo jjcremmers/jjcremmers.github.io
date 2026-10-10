@@ -155,6 +155,7 @@ partners or educators, please click one of the buttons below.
 /* The aerospace tile spans two columns on larger screens and one on mobile. */
 .aerospace-card {
   grid-column: span 2;
+  aspect-ratio: 6 / 1;
 }
 
 /* --- Card base: 3:1 ratio, cinematic-ready --- */
@@ -277,6 +278,7 @@ partners or educators, please click one of the buttons below.
 @media (max-width: 600px) {
   .aerospace-card {
     grid-column: span 1;
+    aspect-ratio: 3 / 1;
   }
 
   .software-card-text h2 {
