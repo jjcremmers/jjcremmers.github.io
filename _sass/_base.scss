@@ -1209,6 +1209,11 @@ ninja-keys::part(ninja-input-wrapper) {
   margin-top: 0.25rem;
 }
 
+.nav-link.nav-highlight {
+  color: #d00 !important;
+  font-weight: 700;
+}
+
 // newsletter
 .newsletter-form-container {
   margin-bottom: 20px;
