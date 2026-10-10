@@ -77,6 +77,24 @@ PhD students and Post-Docs that I supervise or collaborate with.
 <div class="container">
   <div class="row">
     <div class="col-md-4 col-12 mb-4 text-center">
+     <img src="/assets/img/silhouette_M.jpg" class="img-fluid rounded shadow-sm" alt="Toon IJzerman">
+      <table class="table table-sm mt-2" style="text-align: left;">
+        <tbody>
+          <tr>
+            <td colspan="2"><strong><a href="https://research.tue.nl/en/persons/aab-toon-ijzerman/">Toon IJzerman</a></strong></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Project</strong></td>
+            <td><a href="/projects/mtv/">MTV</a></td>
+          </tr>
+          <tr>
+            <td style="white-space: nowrap;"><strong>Years:</strong></td>
+            <td>2026-</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="col-md-4 col-12 mb-4 text-center">
      <img src="/assets/img/hodzelmans_photo.jpg" class="img-fluid rounded shadow-sm" alt="Maarten Hodzelmans">
       <table class="table table-sm mt-2" style="text-align: left;">
         <tbody>

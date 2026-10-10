@@ -75,6 +75,8 @@ partners or educators, please click one of the buttons below.
   <a href="info/educators" class="fancy-button">Educators</a>    
 </div>
 
+The two large software packages maintain are Dawn and PyFEM.
+
 <section class="software-highlight-section">
   <div class="software-card-grid">
 
