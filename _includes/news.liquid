@@ -1,12 +1,7 @@
 <div class="news">
   {% if site.news != blank %}
     {% assign news_size = site.news | size %}
-    <div
-      class="table-responsive"
-      {% if include.limit and page.announcements.scrollable and news_size > 3 %}
-        style="max-height: 60vw"
-      {% endif %}
-    >
+    <div class="table-responsive">
       <table class="table table-sm table-borderless">
         {% assign news = site.news | reverse %}
         {% if include.limit and page.announcements.limit %}
@@ -24,24 +19,45 @@
                     <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
                   </p>
                 {% endif %}
-                {% if item.content != blank %}
-                  <div class="mb-2">{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</div>
+                {% if include.preview %}
+                  {% if item.content != blank %}
+                    <div class="news-preview">{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</div>
+                  {% endif %}
+                  <a class="news-read-more" href="{{ item.url | relative_url }}">read more...</a>
+                {% else %}
+                  {% if item.content != blank %}
+                    <div class="mb-2">{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</div>
+                  {% endif %}
+                  <div class="news-embed-wrapper">
+                    <iframe
+                      src="{{ item.linkedin_embed }}"
+                      class="news-linkedin-embed"
+                      height="{{ item.embed_height | default: 456 }}"
+                      width="{{ item.embed_width | default: 504 }}"
+                      frameborder="0"
+                      scrolling="no"
+                      allowfullscreen
+                      title="{{ item.embed_title | default: item.title | default: 'Embedded LinkedIn post' | escape }}"
+                    ></iframe>
+                  </div>
                 {% endif %}
-                <div class="news-embed-wrapper">
-                  <iframe
-                    src="{{ item.linkedin_embed }}"
-                    class="news-linkedin-embed"
-                    height="{{ item.embed_height | default: 456 }}"
-                    width="{{ item.embed_width | default: 504 }}"
-                    frameborder="0"
-                    allowfullscreen
-                    title="{{ item.embed_title | default: item.title | default: 'Embedded LinkedIn post' | escape }}"
-                  ></iframe>
-                </div>
               {% elsif item.inline %}
-                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                {% if include.preview %}
+                  <div class="news-preview">{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</div>
+                  <a class="news-read-more" href="{{ item.url | relative_url }}">read more...</a>
+                {% else %}
+                  {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                {% endif %}
               {% else %}
-                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                {% if include.preview %}
+                  {% if item.content != blank %}
+                    <div class="news-preview">{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</div>
+                  {% endif %}
+                  <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                  <a class="news-read-more" href="{{ item.url | relative_url }}">read more...</a>
+                {% else %}
+                  <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                {% endif %}
               {% endif %}
             </td>
           </tr>

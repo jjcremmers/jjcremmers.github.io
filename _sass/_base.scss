@@ -1187,6 +1187,7 @@ ninja-keys::part(ninja-input-wrapper) {
 
 .news-embed-wrapper {
   max-width: 504px;
+  overflow: hidden;
 }
 
 .news-linkedin-embed {
@@ -1194,6 +1195,18 @@ ninja-keys::part(ninja-input-wrapper) {
   width: 100%;
   max-width: 100%;
   border: 0;
+}
+
+.news-preview {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+.news-read-more {
+  display: inline-block;
+  margin-top: 0.25rem;
 }
 
 // newsletter
