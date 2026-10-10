@@ -555,18 +555,13 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ai_connector/";
-            },},{id: "news-momentum-diploma-ceremony-bachelor-mechanical-enigneering",
-          title: 'Momentum diploma ceremony Bachelor Mechanical Enigneering',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/250926_momentum1/";
             },},{id: "news-program-director",
           title: 'Program Director',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/program_director/";
-            },},{id: "news-momentum",
-          title: 'Momentum',
+            },},{id: "news-momentum-diploma-ceremony-bachelor-mechanical-enigneering",
+          title: 'Momentum diploma ceremony Bachelor Mechanical Enigneering',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/250926_momentum/";
