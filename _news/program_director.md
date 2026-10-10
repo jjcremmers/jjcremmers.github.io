@@ -15,3 +15,9 @@ including the introduction of our new Aerospace Systems Engineering track, educa
 of AI in education.
 
 More information about the new team can be found [here](https://lnkd.in/p/er3pFwpj)
+
+<div class="row">
+  <div class="col-sm-4">
+    {% include figure.liquid path="assets/img/news/mtme.jpg" title="" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>

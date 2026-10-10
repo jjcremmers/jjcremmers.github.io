@@ -53,7 +53,7 @@ developping in the past years.
     <!-- Tile 3 -->
     <a class="software-card gradient-card aerospace-card" href="/aerospace/">
       <div class="software-card-bg"
-           style="background-image:url('/assets/img/aerospace/ae_hero.png');"></div>
+           style="background-image:url('/assets/img/aerospace/daedalus2022.png');"></div>
       <div class="gradient-overlay"></div>
       <div class="software-card-text">
         <p class="label"><br>Master's Track</p>
