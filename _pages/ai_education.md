@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "AI in education"
+title: AI in education
+nav_title: AI
 permalink: /ai_in_education/
 css_class: highlight-menu
 nav: true
