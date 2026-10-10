@@ -737,7 +737,7 @@ ninja.data = [{
               window.location.href = "/projects/mm3d/";
             },},{id: "projects-mtv",
           title: 'MTV',
-          description: "TVAM",
+          description: "Multiphysics Modelling of Tomographic Volumetric Additive Manufacturing (TVAM)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mtv/";
             },},{id: "projects-protechtion",
