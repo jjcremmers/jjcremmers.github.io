@@ -3,7 +3,7 @@ layout: page
 title: AI in education
 nav_title: AI
 nav_highlight: true
-nav_color: darkgreen
+nav_color: darkblue
 permalink: /ai_in_education/
 nav: true
 nav_order: 4

@@ -314,6 +314,24 @@ The two large software packages maintain are Dawn and PyFEM.
   text-shadow: none;
 }
 
+/* Aerospace tile readability */
+.aerospace-card .gradient-overlay {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 0.7) 0%,
+    rgba(0, 0, 0, 0.35) 42%,
+    rgba(0, 0, 0, 0) 78%
+  );
+  mix-blend-mode: normal;
+  opacity: 0.9;
+}
+
+.aerospace-card .software-card-text,
+.aerospace-card .software-card-text * {
+  color: #ffffff !important;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.45);
+}
+
 
 </style>
 
