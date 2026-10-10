@@ -2,7 +2,6 @@
 layout: page
 title: Aerospace Systems Engineering
 nav_title: Aerospace
-nav_highlight: true
 description: Aerospace Systems Engineering – a new track at TU/e
 permalink: /aerospace/
 importance: 1
