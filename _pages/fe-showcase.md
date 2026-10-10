@@ -333,7 +333,7 @@ nav: false          # if you want it in the menu, depends on your nav setup
 /* ---------------- IMAGE CARDS ---------------- */
 
 .fe-scroll-image-card {
-  align-self: center;
+  align-self: start;
   background: rgba(243, 240, 233, 0.94);
   border-radius: 1.5rem;
   padding: 1.25rem 1.25rem 1.4rem;
