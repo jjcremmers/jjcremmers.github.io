@@ -560,11 +560,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/250926_momentum/";
+            },},{id: "news-momentum-diploma-ceremony-bachelor-mechanical-enigneering",
+          title: 'Momentum diploma ceremony Bachelor Mechanical Enigneering',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/250926_momentum1/";
             },},{id: "news-program-director",
           title: 'Program Director',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/program_director/";
+            },},{id: "news-interview-in-cursor-on-aerospace-systems-engineering-track",
+          title: 'Interview in Cursor on Aerospace Systems Engineering track',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/021026_aerospace_interview/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
