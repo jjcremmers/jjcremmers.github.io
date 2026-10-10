@@ -48,6 +48,22 @@ the [teaching activities](courses/), various educational initiatives and the
 [software tools](/repositories) that I have been
 developping in the past years.
 
+<section>
+  <div>
+    <!-- Tile 3 -->
+    <a class="software-card gradient-card aerospace-card" href="/aerospace/">
+      <div class="software-card-bg"
+           style="background-image:url('/assets/img/aerospace/ae_hero.png');"></div>
+      <div class="gradient-overlay"></div>
+      <div class="software-card-text">
+        <p class="label"><br>Master's Track</p>
+        <h2>Aerospace Systems Engineering</h2>
+      </div>
+    </a>
+
+  </div>
+</section>
+
 For more specific information for prospective students, industrial and academic 
 partners or educators, please click one of the buttons below.
 
@@ -81,17 +97,6 @@ partners or educators, please click one of the buttons below.
       <div class="software-card-text">
         <p class="label"><br> Finite Element Code for Education</p>
         <h2>PyFEM</h2>
-      </div>
-    </a>
-
-    <!-- Tile 3 -->
-    <a class="software-card gradient-card aerospace-card" href="/aerospace/">
-      <div class="software-card-bg"
-           style="background-image:url('/assets/img/aerospace/ae_hero.png');"></div>
-      <div class="gradient-overlay"></div>
-      <div class="software-card-text">
-        <p class="label"><br>Master's Track</p>
-        <h2>Aerospace Systems Engineering</h2>
       </div>
     </a>
 
