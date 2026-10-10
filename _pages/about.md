@@ -60,9 +60,9 @@ developping in the past years.
         <h2>Aerospace Systems Engineering</h2>
       </div>
     </a>
-
   </div>
 </section>
+
 
 For more specific information for prospective students, industrial and academic 
 partners or educators, please click one of the buttons below.
