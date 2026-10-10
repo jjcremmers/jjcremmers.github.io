@@ -72,6 +72,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/ai_in_education/";
           },
+        },{id: "nav-aerospace-systems-engineering",
+          title: "Aerospace Systems Engineering",
+          description: "Aerospace Systems Engineering – a new track at TU/e",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/aerospace/";
+          },
         },{id: "dropdown-dawn",
               title: "Dawn",
               description: "",
@@ -93,14 +100,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "nav-aerospace",
-          title: "Aerospace",
-          description: "Aerospace Systems Engineering – a new track at TU/e",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/aerospace/";
-          },
-        },{id: "dropdown-people",
+            },{id: "dropdown-people",
               title: "People",
               description: "",
               section: "Dropdown",
