@@ -93,12 +93,12 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "nav-cv",
-          title: "CV",
-          description: "",
+            },{id: "nav-aerospace",
+          title: "Aerospace",
+          description: "Aerospace Systems Engineering – a new track at TU/e",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/aerospace/";
           },
         },{id: "dropdown-people",
               title: "People",
