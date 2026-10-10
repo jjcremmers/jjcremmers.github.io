@@ -39,7 +39,16 @@ integration that are central to professional aerospace engineering.
 Education is further connected to research and professional practice through internships and 
 Master's thesis projects. Supported by TU/e researchers and our network of external partners, 
 students have opportunities to work on challenges that connect directly to current developments
- in aerospace and high-tech engineering.
+in aerospace and high-tech engineering.
+
+<div class="row">
+  <div class="col-sm-4">
+    {% include figure.liquid path="assets/img/aerospace/windtunnel_cropped.jpg" title="Photo credit: Lars Hiemstra" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-4">
+    {% include figure.liquid path="assets/img/aerospace/daedalus_cropped.png" title="Photo credit: Team Daedalus" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
 
 ## Aerospace engineering in the Brainport ecosystem
 
