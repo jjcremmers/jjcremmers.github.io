@@ -354,6 +354,8 @@ nav: false          # if you want it in the menu, depends on your nav setup
 
 .fe-scroll-image-card {
   align-self: start;
+  font-family: inherit;
+  font-size: 1rem;
   background: rgba(243, 240, 233, 0.94);
   border-radius: 1.5rem;
   padding: 1.25rem 1.25rem 1.4rem;
@@ -369,6 +371,12 @@ nav: false          # if you want it in the menu, depends on your nav setup
   background: radial-gradient(circle at 0 0, rgba(96, 165, 250, 0.15), transparent),
               rgba(15, 23, 42, 0.95);
   border: 1px solid rgba(148, 163, 184, 0.45);
+}
+
+.fe-alt .fe-scroll-image-card,
+.fe-alt .fe-scroll-image-card * {
+  color: #ffffff !important;
+  font-family: inherit;
 }
 
 .fe-scroll-image-card:hover {
