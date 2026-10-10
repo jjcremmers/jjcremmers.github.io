@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Momentum
+title: Momentum diploma ceremony Bachelor Mechanical Enigneering
 date: 2026-09-25 11:00-0400
 inline: false
 related_posts: false
