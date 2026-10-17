@@ -549,6 +549,11 @@ ninja.data = [{
           title: 'Britt Cordwener successfully defended her PhD Thesis.',
           description: "",
           section: "News",handler: () => {
+              window.location.href = "/news/01102026_aerospace/";
+            },},{id: "news-britt-cordwener-successfully-defended-her-phd-thesis",
+          title: 'Britt Cordwener successfully defended her PhD Thesis.',
+          description: "",
+          section: "News",handler: () => {
               window.location.href = "/news/phd_britt/";
             },},{id: "news-ai-connector",
           title: 'AI Connector',
