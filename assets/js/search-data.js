@@ -549,11 +549,6 @@ ninja.data = [{
           title: 'Britt Cordwener successfully defended her PhD Thesis.',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/01102026_aerospace/";
-            },},{id: "news-britt-cordwener-successfully-defended-her-phd-thesis",
-          title: 'Britt Cordwener successfully defended her PhD Thesis.',
-          description: "",
-          section: "News",handler: () => {
               window.location.href = "/news/phd_britt/";
             },},{id: "news-ai-connector",
           title: 'AI Connector',
@@ -570,6 +565,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/250926_momentum/";
+            },},{id: "news-registration-for-new-aerospace-sysyrm-engineering-track-is-now-open",
+          title: 'Registration for new Aerospace Sysyrm Engineering track is now open',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/01102026_aerospace/";
             },},{id: "news-interview-in-cursor-on-aerospace-systems-engineering-track",
           title: 'Interview in Cursor on Aerospace Systems Engineering track',
           description: "",
