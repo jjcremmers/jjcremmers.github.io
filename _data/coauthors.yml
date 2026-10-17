@@ -70,6 +70,14 @@
   - firstname: ["Olaf", "O."]
     url: https://www.tue.nl/en/research/researchers/olaf-van-der-sluis
 
+"thuy":
+  - firstname: ["Dennis", "D.", "D.P.L."]
+    url: https://www.linkedin.com/in/dennisthuy/
+
+"thuy-petrov":
+  - firstname: ["Dennis", "D.", "D.P.L."]
+    url: https://www.linkedin.com/in/dennisthuy/
+
 "verhoosel":
   - firstname: ["Clemens", "Clemens V.", "C.V."]
     url: https://www.tue.nl/en/research/researchers/clemens-verhoosel
