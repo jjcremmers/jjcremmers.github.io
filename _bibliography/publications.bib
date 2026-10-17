@@ -1,13 +1,16 @@
-@misc{hodzelmans2026,
-  title={Isogeometric Analysis for Explicit Wave Propagation in Poroelastic Media}, 
-  author={M.M. Hodzelmans and R.R. Hiemstra and J.J. C. Remmers and C.V. Verhoosel},
-  year={2026},
-  eprint={2606.16293},
-  archivePrefix={arXiv},
-  primaryClass={math.NA},
-  url={https://arxiv.org/abs/2606.16293}, 
-  bibtex_show={true},  
-  doi = {10.48550/arXiv.2606.16293}
+@misc{hodzelmans2027,
+  title = {Isogeometric analysis for explicit wave propagation in poroelastic media},
+  journal = {Computer Methods in Applied Mechanics and Engineering},
+  volume = {464},
+  pages = {119486},
+  year = {2027},
+  issn = {0045-7825},
+  doi = {https://doi.org/10.1016/j.cma.2026.119486},
+  url = {https://www.sciencedirect.com/science/article/pii/S0045782526007590},
+  author = {Maarten M. Hodzelmans and René R. Hiemstra and Joris J.C. Remmers and Clemens V. Verhoosel},
+  keywords = {Poroelasticity, Isogeometric analysis, Explicit dynamics, Spectral analysis, Optimal spline spaces, Outlier removal},
+  bibtex_show={true},    
+  abstract = {For higher-order discretizations of explicit dynamics problems, Isogeometric Analysis (IGA) has several favorable properties as compared to classical Finite Element Analysis (FEA). While FEA produces spurious modes at orders beyond linear, this is not the case for IGA. Consequently, fewer degrees of freedom are required for comparable accuracy, larger timesteps can be taken, and the method is more robust for nonlinear problems. After eliminating outlier modes, the timestep even becomes virtually independent of the order. In this paper, we investigate how these advantages apply to the poroelastic continuum model. We consider both a primal formulation, wherein our variables are the displacement of the matrix material, the fluid displacement, and the pressure, as well as a reduced form wherein the pressure is eliminated. For our discretizations, we employ divergence-conforming spline spaces. Employing such spaces for the fluid displacement ensures inf-sup stability for the primal form, and exactly reproduces the kernel of the undamped problem in both forms. Furthermore, we prove and demonstrate that the two formulations coincide when both displacements are discretized with divergence-conforming spline spaces. Through spectral analysis, we find that the aforementioned benefits of IGA do carry over directly to the context of poroelasticity. In 1D, we split the discrete spectrum into fast and slow waves. When normalized against an analytical solution, each of these sub-spectra closely resembles results known in elasticity. Consequently, when poroelasticity is discretized with outlier-free IGA, the timestep is essentially independent of the order. We show this timestep scaling in 2D as well.}
 }
 
 @inproceedings{marwan2026spie,
