@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Britt Cordwener successfully defended her PhD Thesis.
-date: 2025-05-07 11:00-0400
+title: Registration for new Aerospace Sysyrm Engineering track is now open
+date: 2026-10-01 11:00-0400
 inline: false
 related_posts: false
 ---
