@@ -183,6 +183,7 @@ blockquote {
 
   .project-collaborator-logo {
     display: block;
+    height: 48px;
     width: auto;
     object-fit: contain;
     transition: opacity 0.2s ease;
@@ -194,7 +195,7 @@ blockquote {
 
   .project-collaborator-logo-nlr {
     max-width: 130px;
-    max-height: 34px;
+    max-height: 48px;
   }
 
   .project-collaborator-logo-tudelft {
@@ -204,7 +205,15 @@ blockquote {
 
   .project-collaborator-logo-fokker {
     max-width: 52px;
-    max-height: 52px;
+    max-height: 48px;
+  }
+
+  .project-collaborator-logo-kmwe,
+  .project-collaborator-logo-grindosonic,
+  .project-collaborator-logo-holdson,
+  .project-collaborator-logo-gtcs {
+    max-width: 130px;
+    max-height: 48px;
   }
 }
 
