@@ -67,6 +67,41 @@ blockquote {
     margin-bottom: 0;
   }
 
+  &.project-question {
+    position: relative;
+    border-left: 0;
+    border-top: 3px solid var(--global-theme-color);
+    border-bottom: 3px solid var(--global-theme-color);
+    padding: 1.5em 2em;
+    background: color-mix(in srgb, var(--global-theme-color) 8%, var(--global-bg-color));
+    font-family: "Roboto Slab", Georgia, serif;
+    font-size: 1.3rem;
+    font-style: italic;
+    text-align: center;
+
+    &::before,
+    &::after {
+      position: absolute;
+      color: var(--global-theme-color);
+      font-family: Georgia, serif;
+      font-size: 3.5rem;
+      font-style: normal;
+      line-height: 1;
+    }
+
+    &::before {
+      top: 0.15em;
+      left: 0.25em;
+      content: "\201C";
+    }
+
+    &::after {
+      right: 0.25em;
+      bottom: -0.25em;
+      content: "\201D";
+    }
+  }
+
   /* Tips, warnings, and dangers blockquotes */
   &.block-tip {
     border-color: var(--global-tip-block);
