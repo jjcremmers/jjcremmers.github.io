@@ -46,7 +46,17 @@ related_publications: true
     <tr>
       <td style="white-space: nowrap;"><strong>Collaborators</strong></td>
       <td>
-        Holst Centre/TNO, ITEC, NXP, Keiron, AMSystems, University of Twente
+        <div class="project-collaborators">
+          <a href="https://www.holstcentre.com/" target="_blank" rel="noopener" title="Holst Centre" class="project-collaborator">
+            <img src="/assets/img/logos/holst_centre.jpg" alt="Holst Centre" class="project-collaborator-logo project-collaborator-logo-holst">
+            <span>Holst Centre/TNO</span>
+          </a>
+          <a href="https://www.nxp.com/" target="_blank" rel="noopener" title="NXP" class="project-collaborator">
+            <img src="/assets/img/logos/nxp.png" alt="NXP" class="project-collaborator-logo project-collaborator-logo-nxp">
+            <span>NXP</span>
+          </a>
+          <span>ITEC, Keiron, AMSystems, University of Twente</span>
+        </div>
       </td>
     </tr>     
   </tbody>
