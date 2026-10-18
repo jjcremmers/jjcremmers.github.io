@@ -52,7 +52,16 @@ like for geothermal.
     <tr>
       <td style="white-space: nowrap;"><strong>Collaborators</strong></td>
       <td>
-        University of Twente, KNMI
+        <div class="project-collaborators">
+          <a href="https://www.utwente.nl/en/" target="_blank" rel="noopener" title="University of Twente" class="project-collaborator">
+            <img src="/assets/img/logos/utwente.png" alt="University of Twente" class="project-collaborator-logo project-collaborator-logo-utwente">
+            <span>University of Twente</span>
+          </a>
+          <a href="https://www.knmi.nl/home" target="_blank" rel="noopener" title="Royal Netherlands Meteorological Institute" class="project-collaborator">
+            <img src="/assets/img/logos/knmi.png" alt="KNMI" class="project-collaborator-logo project-collaborator-logo-knmi">
+            <span>Royal Netherlands Meteorological Institute (KNMI)</span>
+          </a>
+        </div>
       </td>
     </tr>    
     <tr>
