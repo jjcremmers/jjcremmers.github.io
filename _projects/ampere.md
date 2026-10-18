@@ -44,7 +44,7 @@ related_publications: true
     <tr>
       <td style="white-space: nowrap;"><strong>Collaborators</strong></td>
       <td>
-        <div class="project-collaborators project-collaborators-stacked">
+        <div class="project-collaborators project-collaborators-stacked project-collaborators-aligned">
           <a href="https://www.philips.com/" target="_blank" rel="noopener" title="Philips" class="project-collaborator">
             <img src="/assets/img/logos/philips.png" alt="Philips" class="project-collaborator-logo">
             <span>Philips (coordinator)</span>

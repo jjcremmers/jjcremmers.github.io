@@ -37,7 +37,26 @@ More information will follow soon.
     </tr>
     <tr>
       <td>Collaborators</td>
-      <td>DTI (coordinator), TNO, Fraunhofer, RISE (among others)</td>
+      <td>
+        <div class="project-collaborators project-collaborators-stacked project-collaborators-aligned">
+          <a href="https://www.dti.dk/" target="_blank" rel="noopener" title="Danish Technological Institute" class="project-collaborator">
+            <img src="/assets/img/logos/dti.png" alt="Danish Technological Institute" class="project-collaborator-logo">
+            <span>DTI (coordinator)</span>
+          </a>
+          <a href="https://www.tno.nl/en/" target="_blank" rel="noopener" title="TNO" class="project-collaborator">
+            <img src="/assets/img/logos/tno.png" alt="TNO" class="project-collaborator-logo">
+            <span>TNO</span>
+          </a>
+          <a href="https://www.fraunhofer.de/en.html" target="_blank" rel="noopener" title="Fraunhofer" class="project-collaborator">
+            <img src="/assets/img/logos/fraunhofer.png" alt="Fraunhofer" class="project-collaborator-logo">
+            <span>Fraunhofer</span>
+          </a>
+          <a href="https://www.ri.se/en" target="_blank" rel="noopener" title="RISE Research Institutes of Sweden" class="project-collaborator">
+            <img src="/assets/img/logos/rise.png" alt="RISE" class="project-collaborator-logo">
+            <span>RISE (among others)</span>
+          </a>
+        </div>
+      </td>
     </tr>            
     <tr>
       <td>Website</td>
