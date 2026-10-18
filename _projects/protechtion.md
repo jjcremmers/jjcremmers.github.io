@@ -21,5 +21,5 @@ More information will follow soon
 | **Years**              | 2019-2024                                  |
 | **PhD-candidate**      | Anqi Li   |
 | **Supervisors**        | Marc Geers (PI), Thierry Massart, Joris Remmers |
-| **Collaborators**      | Universite Libre Bruxelles, SONACA |
+| **Collaborators**      | <div class="project-collaborators project-collaborators-stacked project-collaborators-aligned"><a href="https://www.ulb.be/en" target="_blank" rel="noopener" title="Université libre de Bruxelles" class="project-collaborator"><img src="/assets/img/logos/ulb_brussels.png" alt="Université libre de Bruxelles" class="project-collaborator-logo"><span>Université libre de Bruxelles</span></a><a href="https://www.sonaca.com/" target="_blank" rel="noopener" title="SONACA" class="project-collaborator"><img src="/assets/img/logos/sonaca.png" alt="SONACA" class="project-collaborator-logo"><span>SONACA</span></a></div> |
 
