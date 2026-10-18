@@ -114,10 +114,10 @@ lightweight structures in aerospace systems.
       <td>
         <div class="project-collaborators">
           <a href="https://www.nlr.org/" target="_blank" rel="noopener" title="Royal NLR – Netherlands Aerospace Centre">
-            <img src="https://www.nlr.org/wp-content/uploads/2015/09/nlr-logo-300x77.png" alt="NLR" class="project-collaborator-logo project-collaborator-logo-nlr">
+            <img src="/assets/img/logos/nlr.jpg" alt="NLR" class="project-collaborator-logo project-collaborator-logo-nlr">
           </a>
           <a href="https://www.tudelft.nl/en" target="_blank" rel="noopener" title="Delft University of Technology">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Delft_University_of_Technology_logo.svg" alt="Delft University of Technology" class="project-collaborator-logo project-collaborator-logo-tudelft">
+            <img src="/assets/img/logos/tudelft.png" alt="Delft University of Technology" class="project-collaborator-logo project-collaborator-logo-tudelft">
           </a>
           <span>Fokker</span>
         </div>
