@@ -44,7 +44,29 @@ related_publications: true
     <tr>
       <td style="white-space: nowrap;"><strong>Collaborators</strong></td>
       <td>
-        Philips (coordinator), Signify, Holst Centre, Neotech, Xenon, Fraunhofer, VSL, Reden, Wurth
+        <div class="project-collaborators project-collaborators-stacked">
+          <a href="https://www.philips.com/" target="_blank" rel="noopener" title="Philips" class="project-collaborator">
+            <img src="/assets/img/logos/philips.png" alt="Philips" class="project-collaborator-logo">
+            <span>Philips (coordinator)</span>
+          </a>
+          <a href="https://www.signify.com/" target="_blank" rel="noopener" title="Signify" class="project-collaborator">
+            <img src="/assets/img/logos/signify.png" alt="Signify" class="project-collaborator-logo">
+            <span>Signify</span>
+          </a>
+          <a href="https://www.holstcentre.com/" target="_blank" rel="noopener" title="Holst Centre" class="project-collaborator">
+            <img src="/assets/img/logos/holst_centre.jpg" alt="Holst Centre" class="project-collaborator-logo">
+            <span>Holst Centre</span>
+          </a>
+          <span class="project-collaborator">Neotech</span>
+          <span class="project-collaborator">Xenon</span>
+          <span class="project-collaborator">Fraunhofer</span>
+          <span class="project-collaborator">VSL</span>
+          <span class="project-collaborator">Reden</span>
+          <a href="https://www.wurth.com/" target="_blank" rel="noopener" title="Würth" class="project-collaborator">
+            <img src="/assets/img/logos/wurth.png" alt="Würth" class="project-collaborator-logo">
+            <span>Würth</span>
+          </a>
+        </div>
       </td>
     </tr>     
   </tbody>

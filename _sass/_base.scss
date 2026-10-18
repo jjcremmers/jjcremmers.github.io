@@ -178,6 +178,10 @@ blockquote {
     align-items: flex-start;
   }
 
+  &.project-collaborators-inline {
+    flex-wrap: nowrap;
+  }
+
   .project-collaborator {
     display: inline-flex;
     align-items: center;

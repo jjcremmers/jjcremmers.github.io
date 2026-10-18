@@ -46,7 +46,7 @@ related_publications: true
     <tr>
       <td style="white-space: nowrap;"><strong>Collaborators</strong></td>
       <td>
-        <div class="project-collaborators">
+        <div class="project-collaborators project-collaborators-inline">
           <a href="https://www.holstcentre.com/" target="_blank" rel="noopener" title="Holst Centre" class="project-collaborator">
             <img src="/assets/img/logos/holst_centre.jpg" alt="Holst Centre" class="project-collaborator-logo project-collaborator-logo-holst">
             <span>Holst Centre/TNO</span>
@@ -55,7 +55,11 @@ related_publications: true
             <img src="/assets/img/logos/nxp.png" alt="NXP" class="project-collaborator-logo project-collaborator-logo-nxp">
             <span>NXP</span>
           </a>
-          <span>ITEC, Keiron, AMSystems, University of Twente</span>
+          <span>ITEC, Keiron, AMSystems</span>
+          <a href="https://www.utwente.nl/en/" target="_blank" rel="noopener" title="University of Twente" class="project-collaborator">
+            <img src="/assets/img/logos/utwente.png" alt="University of Twente" class="project-collaborator-logo">
+            <span>University of Twente</span>
+          </a>
         </div>
       </td>
     </tr>     
