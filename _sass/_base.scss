@@ -173,6 +173,11 @@ blockquote {
   flex-wrap: wrap;
   gap: 1rem;
 
+  &.project-collaborators-stacked {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
   .project-collaborator {
     display: inline-flex;
     align-items: center;
