@@ -173,6 +173,14 @@ blockquote {
   flex-wrap: wrap;
   gap: 1rem;
 
+  .project-collaborator {
+    display: inline-flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    gap: 0.4rem;
+    white-space: nowrap;
+  }
+
   .project-collaborator-logo {
     display: block;
     width: auto;
@@ -192,6 +200,11 @@ blockquote {
   .project-collaborator-logo-tudelft {
     max-width: 125px;
     max-height: 48px;
+  }
+
+  .project-collaborator-logo-fokker {
+    max-width: 52px;
+    max-height: 52px;
   }
 }
 
