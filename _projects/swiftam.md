@@ -114,7 +114,7 @@ lightweight structures in aerospace systems.
       <td>
         <div class="project-collaborators">
           <a href="https://www.nlr.org/" target="_blank" rel="noopener" title="Royal NLR – Netherlands Aerospace Centre" class="project-collaborator">
-            <img src="/assets/img/logos/nlr.jpg" alt="NLR" class="project-collaborator-logo project-collaborator-logo-nlr">
+            <img src="/assets/img/logos/nlr.png" alt="NLR" class="project-collaborator-logo project-collaborator-logo-nlr">
             <span>Royal NLR – Netherlands Aerospace Centre</span>
           </a>
           <a href="https://www.tudelft.nl/en" target="_blank" rel="noopener" title="Delft University of Technology" class="project-collaborator">
@@ -122,8 +122,24 @@ lightweight structures in aerospace systems.
             <span>Delft University of Technology</span>
           </a>
           <a href="https://www.gknaerospace.com/en/about-us/fokker-technologies/" target="_blank" rel="noopener" title="Fokker Technologies" class="project-collaborator">
-            <img src="/assets/img/logos/fokker.jpg" alt="Fokker" class="project-collaborator-logo project-collaborator-logo-fokker">
+            <img src="/assets/img/logos/fokker.png" alt="Fokker" class="project-collaborator-logo project-collaborator-logo-fokker">
             <span>Fokker Technologies</span>
+          </a>
+          <a href="https://www.kmwe.com/" target="_blank" rel="noopener" title="KMWE" class="project-collaborator">
+            <img src="/assets/img/logos/kmwe.png" alt="KMWE" class="project-collaborator-logo project-collaborator-logo-kmwe">
+            <span>KMWE</span>
+          </a>
+          <a href="https://grindosonic.com/" target="_blank" rel="noopener" title="GrindoSonic" class="project-collaborator">
+            <img src="/assets/img/logos/grindosonic.jpg" alt="GrindoSonic" class="project-collaborator-logo project-collaborator-logo-grindosonic">
+            <span>GrindoSonic</span>
+          </a>
+          <a href="https://www.holdson.com/" target="_blank" rel="noopener" title="Holdson Dynamic Electrochemical Solutions" class="project-collaborator">
+            <img src="/assets/img/logos/holdson.jpg" alt="Holdson" class="project-collaborator-logo project-collaborator-logo-holdson">
+            <span>Holdson Dynamic Electrochemical Solutions</span>
+          </a>
+          <a href="https://gtcs-coatings.com/en/" target="_blank" rel="noopener" title="Galvano Techniek Coumans Schoutrop" class="project-collaborator">
+            <img src="/assets/img/logos/gtcs.png" alt="GTCS Coatings" class="project-collaborator-logo project-collaborator-logo-gtcs">
+            <span>Galvano Techniek Coumans Schoutrop (GTCS)</span>
           </a>
         </div>
       </td>
