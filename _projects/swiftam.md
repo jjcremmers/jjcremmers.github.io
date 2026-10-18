@@ -112,7 +112,7 @@ lightweight structures in aerospace systems.
     <tr>
       <td style="white-space: nowrap;"><strong>Collaborators</strong></td>
       <td>
-        <div class="project-collaborators project-collaborators-stacked">
+        <div class="project-collaborators project-collaborators-stacked project-collaborators-aligned">
           <a href="https://www.nlr.org/" target="_blank" rel="noopener" title="Royal NLR – Netherlands Aerospace Centre" class="project-collaborator">
             <img src="/assets/img/logos/nlr.png" alt="NLR" class="project-collaborator-logo project-collaborator-logo-nlr">
             <span>Royal NLR – Netherlands Aerospace Centre</span>
