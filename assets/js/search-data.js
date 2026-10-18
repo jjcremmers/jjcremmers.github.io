@@ -775,6 +775,11 @@ ninja.data = [{
           description: "Efficient analysis of wave propgation in shallow subsurfaces",
           section: "Projects",handler: () => {
               window.location.href = "/projects/shawave/";
+            },},{id: "projects-swift-am",
+          title: 'SWiFT-AM',
+          description: "Advanced Lightweight Structures through Additive Manufacturing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/swiftam/";
             },},{id: "projects-tasti",
           title: 'TASTI',
           description: "Efficient simulation of contact for biomedical applications",
