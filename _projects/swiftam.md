@@ -27,7 +27,7 @@ are difficult to inspect and improve using conventional finishing techniques.
   the fatigue resistance and damage tolerance required for safety-critical aerospace structures?</p>
 </blockquote>
 
-## Understanding and improving fatigue performance
+### Understanding and improving fatigue performance
 
 SWiFT-AM addresses this challenge through an integrated research approach combining 
 experimental characterization, advanced computational modelling, and innovative surface 
@@ -47,7 +47,7 @@ including those located deep inside complex lattice architectures. By reducing l
 concentrations, electrochemical polishing has the potential to delay fatigue crack
 initiation and significantly improve structural reliability.
 
-## Designing the next generation of lightweight structures
+### Designing the next generation of lightweight structures
 
 The experimental and numerical results are combined to develop physics-based design rules 
 and computational optimization methods for fatigue-resistant lattice structures. A 
@@ -66,7 +66,7 @@ for compliant mechanisms and adaptive or morphing aerospace components.
   explicit design parameters, rather than limitations addressed after manufacturing.</p>
 </blockquote>
 
-## From fundamental research to aerospace applications
+### From fundamental research to aerospace applications
 
 Ultimately, SWiFT-AM seeks to bridge the gap between fundamental materials science and 
 practical aerospace engineering. The developed computational tools, experimentally validated 
@@ -112,7 +112,15 @@ lightweight structures in aerospace systems.
     <tr>
       <td style="white-space: nowrap;"><strong>Collaborators</strong></td>
       <td>
-        NLR, Delft University of Technology, Fokker
+        <div class="project-collaborators">
+          <a href="https://www.nlr.org/" target="_blank" rel="noopener" title="Royal NLR – Netherlands Aerospace Centre">
+            <img src="https://www.nlr.org/wp-content/uploads/2015/09/nlr-logo-300x77.png" alt="NLR" class="project-collaborator-logo project-collaborator-logo-nlr">
+          </a>
+          <a href="https://www.tudelft.nl/en" target="_blank" rel="noopener" title="Delft University of Technology">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Delft_University_of_Technology_logo.svg" alt="Delft University of Technology" class="project-collaborator-logo project-collaborator-logo-tudelft">
+          </a>
+          <span>Fokker</span>
+        </div>
       </td>
     </tr>    
     <!--<tr>
