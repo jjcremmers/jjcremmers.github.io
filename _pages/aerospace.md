@@ -19,7 +19,7 @@ high-performance engineering, combining a strong foundation in mechanical engine
 aerospace knowledge. The program welcomes students from different engineering and science backgrounds, 
 including Mechanical Engineering, Applied Physics and Aerospace Engineering.
 
-{% include video.liquid path="https://www.youtube.com/embed/DzaN8WMklSA" class="img-fluid rounded z-depth-1" title="Aerospace Systems Engineering" %}
+{% include video.liquid path="https://www.youtube.com/embed/DzaN8WMklSA" class="img-fluid rounded z-depth-1" width="100%" height="500" title="Aerospace Systems Engineering" %}
 
 ## A systems-oriented approach
 
