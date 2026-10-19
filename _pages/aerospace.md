@@ -19,6 +19,8 @@ high-performance engineering, combining a strong foundation in mechanical engine
 aerospace knowledge. The program welcomes students from different engineering and science backgrounds, 
 including Mechanical Engineering, Applied Physics and Aerospace Engineering.
 
+{% include video.liquid path="https://www.youtube.com/embed/DzaN8WMklSA" class="img-fluid rounded z-depth-1" title="Aerospace Systems Engineering" %}
+
 ## A systems-oriented approach
 
 Aerospace engineering is inherently multidisciplinary. Designing the next generation of aircraft, spacecraft, unmanned aerial vehicles and propulsion systems requires much more than expertise in a single engineering discipline. Aerodynamics, structures, lightweight materials, propulsion, flight dynamics and control all interact, and decisions made in one part of a system inevitably affect many others.
