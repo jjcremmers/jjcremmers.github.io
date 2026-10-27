@@ -34,8 +34,8 @@ The track builds on existing strengths within Mechanical Engineering and across 
 
 A common aerospace foundation is provided through two dedicated courses:
 
-* AE-I: Design, Flight Dynamics and Performance
-* AE-II: Materials, Structures and Aerodynamics
+* AE-I: Design, Flight Dynamics and Performance.
+* AE-II: Materials, Structures and Aerodynamics.
 
 From there, students can shape their own profile by choosing from more than 20 specialization and elective courses. This makes it possible to develop a learning path around individual interests, for example in autonomous aerospace systems, fluid and structural dynamics, lightweight structures and materials, space instrumentation, propulsion, or system design.
 
